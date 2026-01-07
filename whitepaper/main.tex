@@ -1,0 +1,79 @@
+\documentclass[11pt]{article}
+
+%\usepackage{fontspec}
+
+
+\renewcommand{\baselinestretch}{1.3} 
+
+
+\usepackage[margin=0.7in]{geometry}
+\usepackage{float}
+\usepackage{amsmath}
+\usepackage{listings}
+\usepackage{graphicx}
+\usepackage[colorinlistoftodos]{todonotes}
+\usepackage{hyperref}  
+\usepackage{xcolor}  
+\usepackage{tcolorbox} 
+\usepackage[backend=biber, style=apa]{biblatex}
+\addbibresource{bibliography.bib}
+
+% -------------------------------------------------
+% Make biblatex‑apa always use shortauthor (if present)
+% -------------------------------------------------
+\makeatletter
+\AtEveryCitekey{%
+  % If the entry defines a shortauthor, pretend the name
+  % has already been saved → the style will jump straight to shortauthor.
+  \ifnameundef{shortauthor}%
+    {}%  <-- nothing to do when there is no shortauthor
+    {\def\cbx@apa@ifnamesaved{\@firstoftwo}}% <-- force “already seen”
+}
+\makeatother
+% -------------------------------------------------
+
+\lstset{
+numbers=left,
+commentstyle=\color{pgreen},
+keywordstyle=\color{pblue},
+stringstyle=\color{pred},
+xrightmargin=1pt,
+breaklines=true,
+tabsize=2,
+language=java,
+basicstyle=\footnotesize, 
+}
+
+
+\begin{document}
+
+\input{cover}
+
+\tableofcontents
+\newpage
+
+\input{chapters/abstract/abstract}
+
+\newpage
+
+\input{chapters/introduction/intro}
+
+\newpage
+
+\input{chapters/problem/problem}
+
+\newpage
+
+\input{chapters/background/background}
+
+\newpage
+
+\input{chapters/proposed_solution/solution}
+
+\newpage
+
+\printbibliography[heading=bibintoc]
+
+
+
+\end{document}
