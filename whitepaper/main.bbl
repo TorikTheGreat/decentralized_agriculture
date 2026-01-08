@@ -210,6 +210,48 @@
       \verb https://ipes-food.org/publications/food-from-somewhere
       \endverb
     \endentry
+    \entry{euMethodology}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a83912e57804362b05f055bc562a3e18}{%
+           family={{European Commission: Directorate‑General for Financial Stability, Financial Services and Capital Markets Union, IASA \& Trinomics}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=a1b813a6e85874b4c945aec2cdbea74c}{%
+           family={{European Commission}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Publications Office of the European Union}%
+      }
+      \strng{namehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhash}{a83912e57804362b05f055bc562a3e18}
+      \strng{bibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorbibnamehash}{a83912e57804362b05f055bc562a3e18}
+      \strng{authornamehash}{a83912e57804362b05f055bc562a3e18}
+      \strng{authorfullhash}{a83912e57804362b05f055bc562a3e18}
+      \strng{shortauthorbibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{shortauthornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{shortauthorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{title}{Study for a methodological framework and assessment of potential financial risks associated with biodiversity loss and ecosystem degradation – Final report}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.2874/30768
+      \endverb
+      \verb{urlraw}
+      \verb https://data.europa.eu/doi/10.2874/30768
+      \endverb
+      \verb{url}
+      \verb https://data.europa.eu/doi/10.2874/30768
+      \endverb
+    \endentry
     \entry{FAO2025LandStats}{report}{}
       \name{author}{1}{}{%
         {{hash=264d9adc36dcc763205708230a469e23}{%
@@ -260,8 +302,13 @@
     \endentry
     \entry{FAO2025StateFoodAgri}{report}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=264d9adc36dcc763205708230a469e23}{%
+        {{hash=264d9adc36dcc763205708230a469e23}{%
            family={{Food and Agriculture Organization of the United Nations}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=4807e0aebe86c17f559853f35515b533}{%
+           family={{FAO}},
            familyi={F\bibinitperiod}}}%
       }
       \list{institution}{1}{%
@@ -270,18 +317,21 @@
       \list{location}{1}{%
         {Rome}%
       }
-      \strng{namehash}{264d9adc36dcc763205708230a469e23}
+      \strng{namehash}{4807e0aebe86c17f559853f35515b533}
       \strng{fullhash}{264d9adc36dcc763205708230a469e23}
-      \strng{bibnamehash}{264d9adc36dcc763205708230a469e23}
+      \strng{bibnamehash}{4807e0aebe86c17f559853f35515b533}
       \strng{authorbibnamehash}{264d9adc36dcc763205708230a469e23}
       \strng{authornamehash}{264d9adc36dcc763205708230a469e23}
       \strng{authorfullhash}{264d9adc36dcc763205708230a469e23}
+      \strng{shortauthorbibnamehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{shortauthornamehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{shortauthorfullhash}{4807e0aebe86c17f559853f35515b533}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
+      \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
       \field{note}{FAO publication}
       \field{title}{The State of Food and Agriculture 2025 -- Addressing land degradation across landholding scales}
@@ -364,6 +414,71 @@
       \range{pages}{1}
       \verb{doi}
       \verb 10.5281/zenodo.3831673
+      \endverb
+    \endentry
+    \entry{Lawrence2022-fv}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=e25ed021c78307c68216c5dfe4f83f3a}{%
+           family={Lawrence},
+           familyi={L\bibinitperiod},
+           given={Deborah},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=06bb0bbfd7a8122412ecedf0b6929444}{%
+           family={Coe},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7aaf4dcf0edc0c6364451c600a9f2a50}{%
+           family={Walker},
+           familyi={W\bibinitperiod},
+           given={Wayne},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b644cc98667a0bf1a6cf8dee3301b3a0}{%
+           family={Verchot},
+           familyi={V\bibinitperiod},
+           given={Louis},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3a74280fe4f26d6c00a707d3e7356b5a}{%
+           family={Vandecar},
+           familyi={V\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers Media SA}%
+      }
+      \strng{namehash}{8149ca7dafd9fa3df2e3c9f699ea55aa}
+      \strng{fullhash}{2a776f2afcd825cc22b54ae4c0b323ff}
+      \strng{bibnamehash}{2a776f2afcd825cc22b54ae4c0b323ff}
+      \strng{authorbibnamehash}{2a776f2afcd825cc22b54ae4c0b323ff}
+      \strng{authornamehash}{8149ca7dafd9fa3df2e3c9f699ea55aa}
+      \strng{authorfullhash}{2a776f2afcd825cc22b54ae4c0b323ff}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Climate policy has thus far focused solely on carbon stocks and sequestration to evaluate the potential of forests to mitigate global warming. These factors are used to assess the impacts of different drivers of deforestation and forest degradation as well as alternative forest management. However, when forest cover, structure and composition change, shifts in biophysical processes (the water and energy balances) may enhance or diminish the climate effects of carbon released from forest aboveground biomass. The net climate impact of carbon effects and biophysical effects determines outcomes for forest and agricultural species as well as the humans who depend on them. Evaluating the net impact is complicated by the disparate spatio-temporal scales at which they operate. Here we review the biophysical mechanisms by which forests influence climate and synthesize recent work on the biophysical climate forcing of forests across latitudes. We then combine published data on the biophysical effects of deforestation on climate by latitude with a new analysis of the climate impact of the CO2 in forest aboveground biomass by latitude to quantitatively assess how these processes combine to shape local and global climate. We find that tropical deforestation leads to strong net global warming as a result of both CO2 and biophysical effects. From the tropics to a point between 30°N and 40°N, biophysical cooling by standing forests is both local and global, adding to the global cooling effect of CO2 sequestered by forests. In the mid-latitudes up to 50°N, deforestation leads to modest net global warming as warming from released forest carbon outweighs a small opposing biophysical cooling. Beyond 50°N large scale deforestation leads to a net global cooling due to the dominance of biophysical processes (particularly increased albedo) over warming from CO2 released. Locally at all latitudes, forest biophysical impacts far outweigh CO2 effects, promoting local climate stability by reducing extreme temperatures in all seasons and times of day. The importance of forests for both global climate change mitigation and local adaptation by human and non-human species is not adequately captured by current carbon-centric metrics, particularly in the context of future climate warming.}
+      \field{journaltitle}{Front. For. Glob. Change}
+      \field{month}{3}
+      \field{title}{The unseen effects of deforestation: Biophysical effects on climate}
+      \field{volume}{5}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.3389/ffgc.2022.756115
+      \endverb
+      \verb{urlraw}
+      \verb https://www.frontiersin.org/journals/forests-and-global-change/articles/10.3389/ffgc.2022.756115/full
+      \endverb
+      \verb{url}
+      \verb https://www.frontiersin.org/journals/forests-and-global-change/articles/10.3389/ffgc.2022.756115/full
       \endverb
     \endentry
   \enddatalist
@@ -559,6 +674,48 @@
       \verb https://ipes-food.org/publications/food-from-somewhere
       \endverb
     \endentry
+    \entry{euMethodology}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a83912e57804362b05f055bc562a3e18}{%
+           family={{European Commission: Directorate‑General for Financial Stability, Financial Services and Capital Markets Union, IASA \& Trinomics}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=a1b813a6e85874b4c945aec2cdbea74c}{%
+           family={{European Commission}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Publications Office of the European Union}%
+      }
+      \strng{namehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhash}{a83912e57804362b05f055bc562a3e18}
+      \strng{bibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorbibnamehash}{a83912e57804362b05f055bc562a3e18}
+      \strng{authornamehash}{a83912e57804362b05f055bc562a3e18}
+      \strng{authorfullhash}{a83912e57804362b05f055bc562a3e18}
+      \strng{shortauthorbibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{shortauthornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{shortauthorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{title}{Study for a methodological framework and assessment of potential financial risks associated with biodiversity loss and ecosystem degradation – Final report}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.2874/30768
+      \endverb
+      \verb{urlraw}
+      \verb https://data.europa.eu/doi/10.2874/30768
+      \endverb
+      \verb{url}
+      \verb https://data.europa.eu/doi/10.2874/30768
+      \endverb
+    \endentry
     \entry{FAO2025LandStats}{report}{}
       \name{author}{1}{}{%
         {{hash=264d9adc36dcc763205708230a469e23}{%
@@ -609,8 +766,13 @@
     \endentry
     \entry{FAO2025StateFoodAgri}{report}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=264d9adc36dcc763205708230a469e23}{%
+        {{hash=264d9adc36dcc763205708230a469e23}{%
            family={{Food and Agriculture Organization of the United Nations}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=4807e0aebe86c17f559853f35515b533}{%
+           family={{FAO}},
            familyi={F\bibinitperiod}}}%
       }
       \list{institution}{1}{%
@@ -619,18 +781,21 @@
       \list{location}{1}{%
         {Rome}%
       }
-      \strng{namehash}{264d9adc36dcc763205708230a469e23}
+      \strng{namehash}{4807e0aebe86c17f559853f35515b533}
       \strng{fullhash}{264d9adc36dcc763205708230a469e23}
-      \strng{bibnamehash}{264d9adc36dcc763205708230a469e23}
+      \strng{bibnamehash}{4807e0aebe86c17f559853f35515b533}
       \strng{authorbibnamehash}{264d9adc36dcc763205708230a469e23}
       \strng{authornamehash}{264d9adc36dcc763205708230a469e23}
       \strng{authorfullhash}{264d9adc36dcc763205708230a469e23}
+      \strng{shortauthorbibnamehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{shortauthornamehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{shortauthorfullhash}{4807e0aebe86c17f559853f35515b533}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
+      \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
       \field{note}{FAO publication}
       \field{title}{The State of Food and Agriculture 2025 -- Addressing land degradation across landholding scales}
@@ -713,6 +878,71 @@
       \range{pages}{1}
       \verb{doi}
       \verb 10.5281/zenodo.3831673
+      \endverb
+    \endentry
+    \entry{Lawrence2022-fv}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=e25ed021c78307c68216c5dfe4f83f3a}{%
+           family={Lawrence},
+           familyi={L\bibinitperiod},
+           given={Deborah},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=06bb0bbfd7a8122412ecedf0b6929444}{%
+           family={Coe},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7aaf4dcf0edc0c6364451c600a9f2a50}{%
+           family={Walker},
+           familyi={W\bibinitperiod},
+           given={Wayne},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b644cc98667a0bf1a6cf8dee3301b3a0}{%
+           family={Verchot},
+           familyi={V\bibinitperiod},
+           given={Louis},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3a74280fe4f26d6c00a707d3e7356b5a}{%
+           family={Vandecar},
+           familyi={V\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers Media SA}%
+      }
+      \strng{namehash}{8149ca7dafd9fa3df2e3c9f699ea55aa}
+      \strng{fullhash}{2a776f2afcd825cc22b54ae4c0b323ff}
+      \strng{bibnamehash}{2a776f2afcd825cc22b54ae4c0b323ff}
+      \strng{authorbibnamehash}{2a776f2afcd825cc22b54ae4c0b323ff}
+      \strng{authornamehash}{8149ca7dafd9fa3df2e3c9f699ea55aa}
+      \strng{authorfullhash}{2a776f2afcd825cc22b54ae4c0b323ff}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Climate policy has thus far focused solely on carbon stocks and sequestration to evaluate the potential of forests to mitigate global warming. These factors are used to assess the impacts of different drivers of deforestation and forest degradation as well as alternative forest management. However, when forest cover, structure and composition change, shifts in biophysical processes (the water and energy balances) may enhance or diminish the climate effects of carbon released from forest aboveground biomass. The net climate impact of carbon effects and biophysical effects determines outcomes for forest and agricultural species as well as the humans who depend on them. Evaluating the net impact is complicated by the disparate spatio-temporal scales at which they operate. Here we review the biophysical mechanisms by which forests influence climate and synthesize recent work on the biophysical climate forcing of forests across latitudes. We then combine published data on the biophysical effects of deforestation on climate by latitude with a new analysis of the climate impact of the CO2 in forest aboveground biomass by latitude to quantitatively assess how these processes combine to shape local and global climate. We find that tropical deforestation leads to strong net global warming as a result of both CO2 and biophysical effects. From the tropics to a point between 30°N and 40°N, biophysical cooling by standing forests is both local and global, adding to the global cooling effect of CO2 sequestered by forests. In the mid-latitudes up to 50°N, deforestation leads to modest net global warming as warming from released forest carbon outweighs a small opposing biophysical cooling. Beyond 50°N large scale deforestation leads to a net global cooling due to the dominance of biophysical processes (particularly increased albedo) over warming from CO2 released. Locally at all latitudes, forest biophysical impacts far outweigh CO2 effects, promoting local climate stability by reducing extreme temperatures in all seasons and times of day. The importance of forests for both global climate change mitigation and local adaptation by human and non-human species is not adequately captured by current carbon-centric metrics, particularly in the context of future climate warming.}
+      \field{journaltitle}{Front. For. Glob. Change}
+      \field{month}{3}
+      \field{title}{The unseen effects of deforestation: Biophysical effects on climate}
+      \field{volume}{5}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.3389/ffgc.2022.756115
+      \endverb
+      \verb{urlraw}
+      \verb https://www.frontiersin.org/journals/forests-and-global-change/articles/10.3389/ffgc.2022.756115/full
+      \endverb
+      \verb{url}
+      \verb https://www.frontiersin.org/journals/forests-and-global-change/articles/10.3389/ffgc.2022.756115/full
       \endverb
     \endentry
   \enddatalist

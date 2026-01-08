@@ -3060,10 +3060,13 @@
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1" intorder="1">IPBES2019GlobalAssessment</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">IPBES2019GlobalAssessment</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">FAO2025LandStats</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">foodFromSomewhere</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">FAO2025StateFoodAgri</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">euMethodology</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">IPBES2019GlobalAssessment</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">FAO2025LandStats</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">foodFromSomewhere</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">IPBES2019GlobalAssessment</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">FAO2025StateFoodAgri</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">Lawrence2022-fv</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
