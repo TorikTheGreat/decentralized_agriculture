@@ -2,5 +2,6 @@
 \contentsline {section}{\numberline {2}Introduction}{3}{section.2}%
 \contentsline {section}{\numberline {3}The problems of industrial agriculture}{4}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Land Use}{4}{subsection.3.1}%
-\contentsline {section}{\numberline {4}Background}{5}{section.4}%
-\contentsline {section}{References}{6}{section*.2}%
+\contentsline {subsection}{\numberline {3.2}Soil degradation}{5}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Background}{6}{section.4}%
+\contentsline {section}{References}{7}{section*.2}%

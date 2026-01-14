@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 0 "main.bcf" "main.bbl" "main" 1767837672.41629 -1
+["biber main"] 0 "main.bcf" "main.bbl" "main" 1768359743.76263 -1
   "bibliography.bib" 1767828875.68806 6804 62992ebd6e097f9849c3e8de76383b92 ""
-  "main.bcf" 1767837672.36506 133473 44c34f4ee2ec47d504d51bd14abf0688 "pdflatex"
+  "main.bcf" 1768359743.7084 133473 44c34f4ee2ec47d504d51bd14abf0688 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1767837671.38332 "/home/marco/Desktop/proyectos/decentralized_agriculture/repo/decentralized_agriculture/whitepaper/main.tex" "main.pdf" "main" 1767837672.41654 0
+["pdflatex"] 1768359742.72284 "/home/marco/Desktop/proyectos/decentralized_agriculture/repo/decentralized_agriculture/whitepaper/main.tex" "main.pdf" "main" 1768359743.7629 0
   "/etc/texmf/web2c/texmf.cnf" 1767758574.17835 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/marco/Desktop/proyectos/decentralized_agriculture/repo/decentralized_agriculture/whitepaper/main.tex" 1767830030.25723 1542 ad61f6aa0c4dc261e11a48e64645f396 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -188,15 +188,15 @@
   "chapters/abstract/abstract.tex" 1767846116 43 bc05f18c1e1fbf9a5a911f0c6f1f514d ""
   "chapters/background/background.tex" 1767846116 61 b60350353cc543b5aecccdcc2fecea0b ""
   "chapters/introduction/intro.tex" 1767830530.09478 22 5c23bcd9d46cf48d2292896666a8a8fc ""
-  "chapters/problem/problem.tex" 1767837671.19806 4378 def6e74f3544f6011ebfa3f3b6c3a1c9 ""
+  "chapters/problem/problem.tex" 1768359068.67726 4985 680f45543a417a74ec05f03e4a597bea ""
   "chapters/proposed_solution/solution.tex" 1767846116 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "cover.tex" 1767846116 1203 17b3ca448904d42fccae70aa456b8a84 ""
-  "main.aux" 1767837672.36206 2736 55562e199fdb1e31410960cfcf1ae57f "pdflatex"
+  "cover.tex" 1768359742.56439 1220 8afec76ecf1be2080a9977ade58b3a2d ""
+  "main.aux" 1768359743.7054 2859 2cee7b588c94eec928bcf04c6111f915 "pdflatex"
   "main.bbl" 1767836306.62822 41966 af39218f886795288931036609448fe1 "biber main"
-  "main.out" 1767837672.36306 718 d9a571bca7820e19ab67c6ab141dcf56 "pdflatex"
-  "main.run.xml" 1767837672.36506 2429 0b0ec1e900c0669f709b87f77ae472e2 "pdflatex"
+  "main.out" 1768359743.7064 858 7257706a707826d0c0e7e397b635f45b "pdflatex"
+  "main.run.xml" 1768359743.7084 2429 0b0ec1e900c0669f709b87f77ae472e2 "pdflatex"
   "main.tex" 1767830030.25723 1542 ad61f6aa0c4dc261e11a48e64645f396 ""
-  "main.toc" 1767837672.36506 418 6fdc827aff63e2bcd21abeb690044038 "pdflatex"
+  "main.toc" 1768359743.7094 500 11092085a711c5156829f813fad426d2 "pdflatex"
   "pictures/publicdomain.png" 1767846116 61945 923ec45b32344aa49fe7b44ec64a0723 ""
   (generated)
   "main.aux"
