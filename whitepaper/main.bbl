@@ -18,335 +18,7 @@
 
 
 \refsection{0}
-  \datalist[entry]{apa/apasortcite//global/global}
-    \entry{foodFromSomewhere}{report}{}
-      \name{author}{26}{}{%
-        {{un=0,uniquepart=base,hash=cf50b6ded831101cb2f1f27e5c3f4ca7}{%
-           family={Battersby},
-           familyi={B\bibinitperiod},
-           given={Jane},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f81b7c33942a9a77d509745e72fbdd01}{%
-           family={Belay},
-           familyi={B\bibinitperiod},
-           given={Million},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=79cfc09588a017373f460083e14117f0}{%
-           family={Clapp},
-           familyi={C\bibinitperiod},
-           given={Jennifer},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=8e1e26d2487d896cdee563959307beaf}{%
-           family={Guttal},
-           familyi={G\bibinitperiod},
-           given={Shalmali},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=51830ac7f589ed100e73e874395983e7}{%
-           family={Howard},
-           familyi={H\bibinitperiod},
-           given={Phil},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=1d295eac761d9e2d67cdd4c53b862d70}{%
-           family={Mooney},
-           familyi={M\bibinitperiod},
-           given={Pat},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=e0797881fcf738000e29c823b498b43e}{%
-           family={Patel},
-           familyi={P\bibinitperiod},
-           given={Raj},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=31fafdcf960a0c974550456b9f4aa2eb}{%
-           family={Paskal},
-           familyi={P\bibinitperiod},
-           given={Anna},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=67b7e20795e95c88b1ce01062de0f5d4}{%
-           family={Jacobs},
-           familyi={J\bibinitperiod},
-           given={Nick},
-           giveni={N\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=deabc4f74288610d0c1571ac6540c97e}{%
-           family={Alexander},
-           familyi={A\bibinitperiod},
-           given={Susan},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=816c050e74b8e664435a6f4903c9a93e}{%
-           family={Muñoz},
-           familyi={M\bibinitperiod},
-           given={Flavio\bibnamedelimb Bladimir\bibnamedelima Rodriguez},
-           giveni={F\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f079cbd06c1365d9230a48638c4241e0}{%
-           family={Shekhar},
-           familyi={S\bibinitperiod},
-           given={Raj},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=cd9a03d47c51bfb7c17c382946e2e183}{%
-           family={Silva},
-           familyi={S\bibinitperiod},
-           given={Ines\bibnamedelima Tielas},
-           giveni={I\bibinitperiod\bibinitdelim T\bibinitperiod},
-           givenun=0,
-           prefix={da},
-           prefixi={d\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=16744eef3e386cba34bb10dafb8ecff3}{%
-           family={Thorne},
-           familyi={T\bibinitperiod},
-           given={Pablo},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=55637f67c3bdf71ff2e403c9f721d909}{%
-           family={Lopez},
-           familyi={L\bibinitperiod},
-           given={Oriana},
-           giveni={O\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=781c9713dc8cedccf7fddca4ce1f9d7f}{%
-           family={Steinhauer},
-           familyi={S\bibinitperiod},
-           given={Isabella},
-           giveni={I\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=238422754abd78d9f72e97296b6dba33}{%
-           family={Caceres},
-           familyi={C\bibinitperiod},
-           given={Fernanda},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=51abb7f3dd8aa3ff1311967135682f15}{%
-           family={Cruz},
-           familyi={C\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b682edb2ebc3789c69df6509302e7c5e}{%
-           family={Freid},
-           familyi={F\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=56d5b6cc013bcd2326481e0b1468ede5}{%
-           family={Hillery},
-           familyi={H\bibinitperiod},
-           given={Kathleen},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c02bf992b263ceaf6ad285da50f532f5}{%
-           family={Ibarra},
-           familyi={I\bibinitperiod},
-           given={Emily},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=8111bae076685e08df1c6aa5cff3ea0c}{%
-           family={Kim},
-           familyi={K\bibinitperiod},
-           given={Jamie},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=2d64891f0d8f2cee38eb23e76471df67}{%
-           family={Morgan},
-           familyi={M\bibinitperiod},
-           given={Dreek},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=70b0d16af5d8e6d5b2e27eb9e56f0804}{%
-           family={Page},
-           familyi={P\bibinitperiod},
-           given={Sabrina},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=698feff7d5bd080f144fbb3581c4b4e8}{%
-           family={Santulli},
-           familyi={S\bibinitperiod},
-           given={Michael},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=28c0c892ebf302bf48b009dd637b801d}{%
-           family={Widjaja},
-           familyi={W\bibinitperiod},
-           given={Christian},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{institution}{1}{%
-        {International Panel of Experts on Sustainable Food Systems (IPES-Food)}%
-      }
-      \list{location}{1}{%
-        {Berlin, Germany}%
-      }
-      \strng{namehash}{c9d390d6619473a55253868fc7d6986d}
-      \strng{fullhash}{6cb1254d82213994080243d2d8ae017f}
-      \strng{bibnamehash}{62c4a26627549abfe9a31605eb9fd7a2}
-      \strng{authorbibnamehash}{62c4a26627549abfe9a31605eb9fd7a2}
-      \strng{authornamehash}{c9d390d6619473a55253868fc7d6986d}
-      \strng{authorfullhash}{6cb1254d82213994080243d2d8ae017f}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{7}
-      \field{title}{Food from Somewhere: Building Food Security and Resilience through Territorial Markets}
-      \field{type}{Report}
-      \field{year}{2024}
-      \verb{urlraw}
-      \verb https://ipes-food.org/publications/food-from-somewhere
-      \endverb
-      \verb{url}
-      \verb https://ipes-food.org/publications/food-from-somewhere
-      \endverb
-    \endentry
-    \entry{euMethodology}{book}{}
-      \name{author}{1}{}{%
-        {{hash=a83912e57804362b05f055bc562a3e18}{%
-           family={{European Commission: Directorate‑General for Financial Stability, Financial Services and Capital Markets Union, IASA \& Trinomics}},
-           familyi={E\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{un=0,uniquepart=base,hash=a1b813a6e85874b4c945aec2cdbea74c}{%
-           family={{European Commission}},
-           familyi={E\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Publications Office of the European Union}%
-      }
-      \strng{namehash}{a1b813a6e85874b4c945aec2cdbea74c}
-      \strng{fullhash}{a83912e57804362b05f055bc562a3e18}
-      \strng{bibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
-      \strng{authorbibnamehash}{a83912e57804362b05f055bc562a3e18}
-      \strng{authornamehash}{a83912e57804362b05f055bc562a3e18}
-      \strng{authorfullhash}{a83912e57804362b05f055bc562a3e18}
-      \strng{shortauthorbibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
-      \strng{shortauthornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
-      \strng{shortauthorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{title}{Study for a methodological framework and assessment of potential financial risks associated with biodiversity loss and ecosystem degradation – Final report}
-      \field{year}{2024}
-      \verb{doi}
-      \verb 10.2874/30768
-      \endverb
-      \verb{urlraw}
-      \verb https://data.europa.eu/doi/10.2874/30768
-      \endverb
-      \verb{url}
-      \verb https://data.europa.eu/doi/10.2874/30768
-      \endverb
-    \endentry
-    \entry{FAO2025LandStats}{report}{}
-      \name{author}{1}{}{%
-        {{hash=264d9adc36dcc763205708230a469e23}{%
-           family={{Food and Agriculture Organization of the United Nations}},
-           familyi={F\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{un=0,uniquepart=base,hash=dccf73c7a32060267644608ef82815cf}{%
-           family={{FAOSTAT}},
-           familyi={F\bibinitperiod}}}%
-      }
-      \list{institution}{1}{%
-        {FAOSTAT Analytical Briefs}%
-      }
-      \list{location}{1}{%
-        {Rome}%
-      }
-      \strng{namehash}{dccf73c7a32060267644608ef82815cf}
-      \strng{fullhash}{264d9adc36dcc763205708230a469e23}
-      \strng{bibnamehash}{dccf73c7a32060267644608ef82815cf}
-      \strng{authorbibnamehash}{264d9adc36dcc763205708230a469e23}
-      \strng{authornamehash}{264d9adc36dcc763205708230a469e23}
-      \strng{authorfullhash}{264d9adc36dcc763205708230a469e23}
-      \strng{shortauthorbibnamehash}{dccf73c7a32060267644608ef82815cf}
-      \strng{shortauthornamehash}{dccf73c7a32060267644608ef82815cf}
-      \strng{shortauthorfullhash}{dccf73c7a32060267644608ef82815cf}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{note}{FAO}
-      \field{number}{No.~107}
-      \field{title}{Land statistics 2001--2023 -- Global, regional and country trends}
-      \field{type}{techreport}
-      \field{year}{2025}
-      \verb{doi}
-      \verb 10.4060/cd5765en
-      \endverb
-      \verb{urlraw}
-      \verb https://openknowledge.fao.org/handle/20.500.14283/cd5765en
-      \endverb
-      \verb{url}
-      \verb https://openknowledge.fao.org/handle/20.500.14283/cd5765en
-      \endverb
-    \endentry
-    \entry{FAO2025StateFoodAgri}{report}{}
-      \name{author}{1}{}{%
-        {{hash=264d9adc36dcc763205708230a469e23}{%
-           family={{Food and Agriculture Organization of the United Nations}},
-           familyi={F\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{un=0,uniquepart=base,hash=4807e0aebe86c17f559853f35515b533}{%
-           family={{FAO}},
-           familyi={F\bibinitperiod}}}%
-      }
-      \list{institution}{1}{%
-        {FAO}%
-      }
-      \list{location}{1}{%
-        {Rome}%
-      }
-      \strng{namehash}{4807e0aebe86c17f559853f35515b533}
-      \strng{fullhash}{264d9adc36dcc763205708230a469e23}
-      \strng{bibnamehash}{4807e0aebe86c17f559853f35515b533}
-      \strng{authorbibnamehash}{264d9adc36dcc763205708230a469e23}
-      \strng{authornamehash}{264d9adc36dcc763205708230a469e23}
-      \strng{authorfullhash}{264d9adc36dcc763205708230a469e23}
-      \strng{shortauthorbibnamehash}{4807e0aebe86c17f559853f35515b533}
-      \strng{shortauthornamehash}{4807e0aebe86c17f559853f35515b533}
-      \strng{shortauthorfullhash}{4807e0aebe86c17f559853f35515b533}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{note}{FAO publication}
-      \field{title}{The State of Food and Agriculture 2025 -- Addressing land degradation across landholding scales}
-      \field{type}{techreport}
-      \field{year}{2025}
-      \verb{doi}
-      \verb 10.4060/cd7067en
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.4060/cd7067en
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.4060/cd7067en
-      \endverb
-    \endentry
+  \datalist[entry]{none/global//global/global}
     \entry{IPBES2019GlobalAssessment}{report}{}
       \name{author}{1}{}{%
         {{hash=49764f5f49b115b2a69451ceb2304435}{%
@@ -376,7 +48,7 @@
            giveni={H\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
       }
       \name{shortauthor}{1}{}{%
-        {{un=0,uniquepart=base,hash=ebb4b25ab16a0668ca3ba0ed014998d2}{%
+        {{hash=ebb4b25ab16a0668ca3ba0ed014998d2}{%
            family={{IPBES}},
            familyi={I\bibinitperiod}}}%
       }
@@ -393,16 +65,13 @@
       \strng{authornamehash}{49764f5f49b115b2a69451ceb2304435}
       \strng{authorfullhash}{49764f5f49b115b2a69451ceb2304435}
       \strng{editorbibnamehash}{a684882d86fab7d7becebca25fc78842}
-      \strng{editornamehash}{0d7d2465ffda0064506d41c18ffae5ea}
+      \strng{editornamehash}{a576c9d64c80a61d6d281931fbbc70ff}
       \strng{editorfullhash}{a684882d86fab7d7becebca25fc78842}
       \strng{shortauthorbibnamehash}{ebb4b25ab16a0668ca3ba0ed014998d2}
       \strng{shortauthornamehash}{ebb4b25ab16a0668ca3ba0ed014998d2}
       \strng{shortauthorfullhash}{ebb4b25ab16a0668ca3ba0ed014998d2}
-      \field{sortinit}{I}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
       \field{isbn}{978-3-947851-20-1}
@@ -416,264 +85,6 @@
       \verb 10.5281/zenodo.3831673
       \endverb
     \endentry
-    \entry{Lawrence2022-fv}{article}{}
-      \name{author}{5}{}{%
-        {{un=0,uniquepart=base,hash=e25ed021c78307c68216c5dfe4f83f3a}{%
-           family={Lawrence},
-           familyi={L\bibinitperiod},
-           given={Deborah},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=06bb0bbfd7a8122412ecedf0b6929444}{%
-           family={Coe},
-           familyi={C\bibinitperiod},
-           given={Michael},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7aaf4dcf0edc0c6364451c600a9f2a50}{%
-           family={Walker},
-           familyi={W\bibinitperiod},
-           given={Wayne},
-           giveni={W\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b644cc98667a0bf1a6cf8dee3301b3a0}{%
-           family={Verchot},
-           familyi={V\bibinitperiod},
-           given={Louis},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=3a74280fe4f26d6c00a707d3e7356b5a}{%
-           family={Vandecar},
-           familyi={V\bibinitperiod},
-           given={Karen},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Frontiers Media SA}%
-      }
-      \strng{namehash}{8149ca7dafd9fa3df2e3c9f699ea55aa}
-      \strng{fullhash}{2a776f2afcd825cc22b54ae4c0b323ff}
-      \strng{bibnamehash}{2a776f2afcd825cc22b54ae4c0b323ff}
-      \strng{authorbibnamehash}{2a776f2afcd825cc22b54ae4c0b323ff}
-      \strng{authornamehash}{8149ca7dafd9fa3df2e3c9f699ea55aa}
-      \strng{authorfullhash}{2a776f2afcd825cc22b54ae4c0b323ff}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Climate policy has thus far focused solely on carbon stocks and sequestration to evaluate the potential of forests to mitigate global warming. These factors are used to assess the impacts of different drivers of deforestation and forest degradation as well as alternative forest management. However, when forest cover, structure and composition change, shifts in biophysical processes (the water and energy balances) may enhance or diminish the climate effects of carbon released from forest aboveground biomass. The net climate impact of carbon effects and biophysical effects determines outcomes for forest and agricultural species as well as the humans who depend on them. Evaluating the net impact is complicated by the disparate spatio-temporal scales at which they operate. Here we review the biophysical mechanisms by which forests influence climate and synthesize recent work on the biophysical climate forcing of forests across latitudes. We then combine published data on the biophysical effects of deforestation on climate by latitude with a new analysis of the climate impact of the CO2 in forest aboveground biomass by latitude to quantitatively assess how these processes combine to shape local and global climate. We find that tropical deforestation leads to strong net global warming as a result of both CO2 and biophysical effects. From the tropics to a point between 30°N and 40°N, biophysical cooling by standing forests is both local and global, adding to the global cooling effect of CO2 sequestered by forests. In the mid-latitudes up to 50°N, deforestation leads to modest net global warming as warming from released forest carbon outweighs a small opposing biophysical cooling. Beyond 50°N large scale deforestation leads to a net global cooling due to the dominance of biophysical processes (particularly increased albedo) over warming from CO2 released. Locally at all latitudes, forest biophysical impacts far outweigh CO2 effects, promoting local climate stability by reducing extreme temperatures in all seasons and times of day. The importance of forests for both global climate change mitigation and local adaptation by human and non-human species is not adequately captured by current carbon-centric metrics, particularly in the context of future climate warming.}
-      \field{journaltitle}{Front. For. Glob. Change}
-      \field{month}{3}
-      \field{title}{The unseen effects of deforestation: Biophysical effects on climate}
-      \field{volume}{5}
-      \field{year}{2022}
-      \verb{doi}
-      \verb 10.3389/ffgc.2022.756115
-      \endverb
-      \verb{urlraw}
-      \verb https://www.frontiersin.org/journals/forests-and-global-change/articles/10.3389/ffgc.2022.756115/full
-      \endverb
-      \verb{url}
-      \verb https://www.frontiersin.org/journals/forests-and-global-change/articles/10.3389/ffgc.2022.756115/full
-      \endverb
-    \endentry
-  \enddatalist
-  \datalist[entry]{apa/global//global/global}
-    \entry{foodFromSomewhere}{report}{}
-      \name{author}{26}{}{%
-        {{un=0,uniquepart=base,hash=cf50b6ded831101cb2f1f27e5c3f4ca7}{%
-           family={Battersby},
-           familyi={B\bibinitperiod},
-           given={Jane},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f81b7c33942a9a77d509745e72fbdd01}{%
-           family={Belay},
-           familyi={B\bibinitperiod},
-           given={Million},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=79cfc09588a017373f460083e14117f0}{%
-           family={Clapp},
-           familyi={C\bibinitperiod},
-           given={Jennifer},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=8e1e26d2487d896cdee563959307beaf}{%
-           family={Guttal},
-           familyi={G\bibinitperiod},
-           given={Shalmali},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=51830ac7f589ed100e73e874395983e7}{%
-           family={Howard},
-           familyi={H\bibinitperiod},
-           given={Phil},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=1d295eac761d9e2d67cdd4c53b862d70}{%
-           family={Mooney},
-           familyi={M\bibinitperiod},
-           given={Pat},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=e0797881fcf738000e29c823b498b43e}{%
-           family={Patel},
-           familyi={P\bibinitperiod},
-           given={Raj},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=31fafdcf960a0c974550456b9f4aa2eb}{%
-           family={Paskal},
-           familyi={P\bibinitperiod},
-           given={Anna},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=67b7e20795e95c88b1ce01062de0f5d4}{%
-           family={Jacobs},
-           familyi={J\bibinitperiod},
-           given={Nick},
-           giveni={N\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=deabc4f74288610d0c1571ac6540c97e}{%
-           family={Alexander},
-           familyi={A\bibinitperiod},
-           given={Susan},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=816c050e74b8e664435a6f4903c9a93e}{%
-           family={Muñoz},
-           familyi={M\bibinitperiod},
-           given={Flavio\bibnamedelimb Bladimir\bibnamedelima Rodriguez},
-           giveni={F\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f079cbd06c1365d9230a48638c4241e0}{%
-           family={Shekhar},
-           familyi={S\bibinitperiod},
-           given={Raj},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=cd9a03d47c51bfb7c17c382946e2e183}{%
-           family={Silva},
-           familyi={S\bibinitperiod},
-           given={Ines\bibnamedelima Tielas},
-           giveni={I\bibinitperiod\bibinitdelim T\bibinitperiod},
-           givenun=0,
-           prefix={da},
-           prefixi={d\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=16744eef3e386cba34bb10dafb8ecff3}{%
-           family={Thorne},
-           familyi={T\bibinitperiod},
-           given={Pablo},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=55637f67c3bdf71ff2e403c9f721d909}{%
-           family={Lopez},
-           familyi={L\bibinitperiod},
-           given={Oriana},
-           giveni={O\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=781c9713dc8cedccf7fddca4ce1f9d7f}{%
-           family={Steinhauer},
-           familyi={S\bibinitperiod},
-           given={Isabella},
-           giveni={I\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=238422754abd78d9f72e97296b6dba33}{%
-           family={Caceres},
-           familyi={C\bibinitperiod},
-           given={Fernanda},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=51abb7f3dd8aa3ff1311967135682f15}{%
-           family={Cruz},
-           familyi={C\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b682edb2ebc3789c69df6509302e7c5e}{%
-           family={Freid},
-           familyi={F\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=56d5b6cc013bcd2326481e0b1468ede5}{%
-           family={Hillery},
-           familyi={H\bibinitperiod},
-           given={Kathleen},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c02bf992b263ceaf6ad285da50f532f5}{%
-           family={Ibarra},
-           familyi={I\bibinitperiod},
-           given={Emily},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=8111bae076685e08df1c6aa5cff3ea0c}{%
-           family={Kim},
-           familyi={K\bibinitperiod},
-           given={Jamie},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=2d64891f0d8f2cee38eb23e76471df67}{%
-           family={Morgan},
-           familyi={M\bibinitperiod},
-           given={Dreek},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=70b0d16af5d8e6d5b2e27eb9e56f0804}{%
-           family={Page},
-           familyi={P\bibinitperiod},
-           given={Sabrina},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=698feff7d5bd080f144fbb3581c4b4e8}{%
-           family={Santulli},
-           familyi={S\bibinitperiod},
-           given={Michael},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=28c0c892ebf302bf48b009dd637b801d}{%
-           family={Widjaja},
-           familyi={W\bibinitperiod},
-           given={Christian},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{institution}{1}{%
-        {International Panel of Experts on Sustainable Food Systems (IPES-Food)}%
-      }
-      \list{location}{1}{%
-        {Berlin, Germany}%
-      }
-      \strng{namehash}{c9d390d6619473a55253868fc7d6986d}
-      \strng{fullhash}{6cb1254d82213994080243d2d8ae017f}
-      \strng{bibnamehash}{62c4a26627549abfe9a31605eb9fd7a2}
-      \strng{authorbibnamehash}{62c4a26627549abfe9a31605eb9fd7a2}
-      \strng{authornamehash}{c9d390d6619473a55253868fc7d6986d}
-      \strng{authorfullhash}{6cb1254d82213994080243d2d8ae017f}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{7}
-      \field{title}{Food from Somewhere: Building Food Security and Resilience through Territorial Markets}
-      \field{type}{Report}
-      \field{year}{2024}
-      \verb{urlraw}
-      \verb https://ipes-food.org/publications/food-from-somewhere
-      \endverb
-      \verb{url}
-      \verb https://ipes-food.org/publications/food-from-somewhere
-      \endverb
-    \endentry
     \entry{euMethodology}{book}{}
       \name{author}{1}{}{%
         {{hash=a83912e57804362b05f055bc562a3e18}{%
@@ -681,7 +92,7 @@
            familyi={E\bibinitperiod}}}%
       }
       \name{shortauthor}{1}{}{%
-        {{un=0,uniquepart=base,hash=a1b813a6e85874b4c945aec2cdbea74c}{%
+        {{hash=a1b813a6e85874b4c945aec2cdbea74c}{%
            family={{European Commission}},
            familyi={E\bibinitperiod}}}%
       }
@@ -697,11 +108,8 @@
       \strng{shortauthorbibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
       \strng{shortauthornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
       \strng{shortauthorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
       \field{title}{Study for a methodological framework and assessment of potential financial risks associated with biodiversity loss and ecosystem degradation – Final report}
@@ -723,7 +131,7 @@
            familyi={F\bibinitperiod}}}%
       }
       \name{shortauthor}{1}{}{%
-        {{un=0,uniquepart=base,hash=dccf73c7a32060267644608ef82815cf}{%
+        {{hash=dccf73c7a32060267644608ef82815cf}{%
            family={{FAOSTAT}},
            familyi={F\bibinitperiod}}}%
       }
@@ -742,11 +150,8 @@
       \strng{shortauthorbibnamehash}{dccf73c7a32060267644608ef82815cf}
       \strng{shortauthornamehash}{dccf73c7a32060267644608ef82815cf}
       \strng{shortauthorfullhash}{dccf73c7a32060267644608ef82815cf}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
       \field{note}{FAO}
@@ -764,6 +169,168 @@
       \verb https://openknowledge.fao.org/handle/20.500.14283/cd5765en
       \endverb
     \endentry
+    \entry{foodFromSomewhere}{report}{}
+      \name{author}{26}{}{%
+        {{hash=cf50b6ded831101cb2f1f27e5c3f4ca7}{%
+           family={Battersby},
+           familyi={B\bibinitperiod},
+           given={Jane},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f81b7c33942a9a77d509745e72fbdd01}{%
+           family={Belay},
+           familyi={B\bibinitperiod},
+           given={Million},
+           giveni={M\bibinitperiod}}}%
+        {{hash=79cfc09588a017373f460083e14117f0}{%
+           family={Clapp},
+           familyi={C\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8e1e26d2487d896cdee563959307beaf}{%
+           family={Guttal},
+           familyi={G\bibinitperiod},
+           given={Shalmali},
+           giveni={S\bibinitperiod}}}%
+        {{hash=51830ac7f589ed100e73e874395983e7}{%
+           family={Howard},
+           familyi={H\bibinitperiod},
+           given={Phil},
+           giveni={P\bibinitperiod}}}%
+        {{hash=1d295eac761d9e2d67cdd4c53b862d70}{%
+           family={Mooney},
+           familyi={M\bibinitperiod},
+           given={Pat},
+           giveni={P\bibinitperiod}}}%
+        {{hash=e0797881fcf738000e29c823b498b43e}{%
+           family={Patel},
+           familyi={P\bibinitperiod},
+           given={Raj},
+           giveni={R\bibinitperiod}}}%
+        {{hash=31fafdcf960a0c974550456b9f4aa2eb}{%
+           family={Paskal},
+           familyi={P\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=67b7e20795e95c88b1ce01062de0f5d4}{%
+           family={Jacobs},
+           familyi={J\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+        {{hash=deabc4f74288610d0c1571ac6540c97e}{%
+           family={Alexander},
+           familyi={A\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=816c050e74b8e664435a6f4903c9a93e}{%
+           family={Muñoz},
+           familyi={M\bibinitperiod},
+           given={Flavio\bibnamedelimb Bladimir\bibnamedelima Rodriguez},
+           giveni={F\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=f079cbd06c1365d9230a48638c4241e0}{%
+           family={Shekhar},
+           familyi={S\bibinitperiod},
+           given={Raj},
+           giveni={R\bibinitperiod}}}%
+        {{hash=cd9a03d47c51bfb7c17c382946e2e183}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Ines\bibnamedelima Tielas},
+           giveni={I\bibinitperiod\bibinitdelim T\bibinitperiod},
+           prefix={da},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=16744eef3e386cba34bb10dafb8ecff3}{%
+           family={Thorne},
+           familyi={T\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=55637f67c3bdf71ff2e403c9f721d909}{%
+           family={Lopez},
+           familyi={L\bibinitperiod},
+           given={Oriana},
+           giveni={O\bibinitperiod}}}%
+        {{hash=781c9713dc8cedccf7fddca4ce1f9d7f}{%
+           family={Steinhauer},
+           familyi={S\bibinitperiod},
+           given={Isabella},
+           giveni={I\bibinitperiod}}}%
+        {{hash=238422754abd78d9f72e97296b6dba33}{%
+           family={Caceres},
+           familyi={C\bibinitperiod},
+           given={Fernanda},
+           giveni={F\bibinitperiod}}}%
+        {{hash=51abb7f3dd8aa3ff1311967135682f15}{%
+           family={Cruz},
+           familyi={C\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b682edb2ebc3789c69df6509302e7c5e}{%
+           family={Freid},
+           familyi={F\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=56d5b6cc013bcd2326481e0b1468ede5}{%
+           family={Hillery},
+           familyi={H\bibinitperiod},
+           given={Kathleen},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c02bf992b263ceaf6ad285da50f532f5}{%
+           family={Ibarra},
+           familyi={I\bibinitperiod},
+           given={Emily},
+           giveni={E\bibinitperiod}}}%
+        {{hash=8111bae076685e08df1c6aa5cff3ea0c}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Jamie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2d64891f0d8f2cee38eb23e76471df67}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={Dreek},
+           giveni={D\bibinitperiod}}}%
+        {{hash=70b0d16af5d8e6d5b2e27eb9e56f0804}{%
+           family={Page},
+           familyi={P\bibinitperiod},
+           given={Sabrina},
+           giveni={S\bibinitperiod}}}%
+        {{hash=698feff7d5bd080f144fbb3581c4b4e8}{%
+           family={Santulli},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=28c0c892ebf302bf48b009dd637b801d}{%
+           family={Widjaja},
+           familyi={W\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {International Panel of Experts on Sustainable Food Systems (IPES-Food)}%
+      }
+      \list{location}{1}{%
+        {Berlin, Germany}%
+      }
+      \strng{namehash}{6e121a7a1bdfbc98fc159a94d0b3a006}
+      \strng{fullhash}{6cb1254d82213994080243d2d8ae017f}
+      \strng{bibnamehash}{6e121a7a1bdfbc98fc159a94d0b3a006}
+      \strng{authorbibnamehash}{6e121a7a1bdfbc98fc159a94d0b3a006}
+      \strng{authornamehash}{6e121a7a1bdfbc98fc159a94d0b3a006}
+      \strng{authorfullhash}{6cb1254d82213994080243d2d8ae017f}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{7}
+      \field{title}{Food from Somewhere: Building Food Security and Resilience through Territorial Markets}
+      \field{type}{Report}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://ipes-food.org/publications/food-from-somewhere
+      \endverb
+      \verb{url}
+      \verb https://ipes-food.org/publications/food-from-somewhere
+      \endverb
+    \endentry
     \entry{FAO2025StateFoodAgri}{report}{}
       \name{author}{1}{}{%
         {{hash=264d9adc36dcc763205708230a469e23}{%
@@ -771,7 +338,7 @@
            familyi={F\bibinitperiod}}}%
       }
       \name{shortauthor}{1}{}{%
-        {{un=0,uniquepart=base,hash=4807e0aebe86c17f559853f35515b533}{%
+        {{hash=4807e0aebe86c17f559853f35515b533}{%
            family={{FAO}},
            familyi={F\bibinitperiod}}}%
       }
@@ -790,11 +357,9 @@
       \strng{shortauthorbibnamehash}{4807e0aebe86c17f559853f35515b533}
       \strng{shortauthornamehash}{4807e0aebe86c17f559853f35515b533}
       \strng{shortauthorfullhash}{4807e0aebe86c17f559853f35515b533}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
+      \field{extraname}{1}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
       \field{note}{FAO publication}
@@ -811,122 +376,45 @@
       \verb https://doi.org/10.4060/cd7067en
       \endverb
     \endentry
-    \entry{IPBES2019GlobalAssessment}{report}{}
-      \name{author}{1}{}{%
-        {{hash=49764f5f49b115b2a69451ceb2304435}{%
-           family={{Intergovernmental Science‑Policy Platform on Biodiversity and Ecosystem Services}},
-           familyi={I\bibinitperiod}}}%
-      }
-      \name{editor}{4}{}{%
-        {{hash=3986d311236904eb82728a639934d292}{%
-           family={Brondízio},
-           familyi={B\bibinitperiod},
-           given={E.\bibnamedelimi S.},
-           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=abaf6e04762d9e623218d0c5a61b4b90}{%
-           family={Settele},
-           familyi={S\bibinitperiod},
-           given={J.},
-           giveni={J\bibinitperiod}}}%
-        {{hash=6cb94a25855f9c1c45840a3e2d5988df}{%
-           family={Díaz},
-           familyi={D\bibinitperiod},
-           given={S.},
-           giveni={S\bibinitperiod}}}%
-        {{hash=fde99f519fa9357546ef7e9e705ae186}{%
-           family={Ngo},
-           familyi={N\bibinitperiod},
-           given={H.\bibnamedelimi T.},
-           giveni={H\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{un=0,uniquepart=base,hash=ebb4b25ab16a0668ca3ba0ed014998d2}{%
-           family={{IPBES}},
-           familyi={I\bibinitperiod}}}%
-      }
-      \list{institution}{1}{%
-        {IPBES Secretariat}%
-      }
-      \list{location}{1}{%
-        {Bonn, Germany}%
-      }
-      \strng{namehash}{ebb4b25ab16a0668ca3ba0ed014998d2}
-      \strng{fullhash}{49764f5f49b115b2a69451ceb2304435}
-      \strng{bibnamehash}{ebb4b25ab16a0668ca3ba0ed014998d2}
-      \strng{authorbibnamehash}{49764f5f49b115b2a69451ceb2304435}
-      \strng{authornamehash}{49764f5f49b115b2a69451ceb2304435}
-      \strng{authorfullhash}{49764f5f49b115b2a69451ceb2304435}
-      \strng{editorbibnamehash}{a684882d86fab7d7becebca25fc78842}
-      \strng{editornamehash}{0d7d2465ffda0064506d41c18ffae5ea}
-      \strng{editorfullhash}{a684882d86fab7d7becebca25fc78842}
-      \strng{shortauthorbibnamehash}{ebb4b25ab16a0668ca3ba0ed014998d2}
-      \strng{shortauthornamehash}{ebb4b25ab16a0668ca3ba0ed014998d2}
-      \strng{shortauthorfullhash}{ebb4b25ab16a0668ca3ba0ed014998d2}
-      \field{sortinit}{I}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{isbn}{978-3-947851-20-1}
-      \field{note}{IPBES Analytical Brief, No. 107}
-      \field{title}{Global Assessment Report of the Intergovernmental Science‑Policy Platform on Biodiversity and Ecosystem Services}
-      \field{type}{techreport}
-      \field{year}{2019}
-      \field{pages}{1144}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.5281/zenodo.3831673
-      \endverb
-    \endentry
     \entry{Lawrence2022-fv}{article}{}
       \name{author}{5}{}{%
-        {{un=0,uniquepart=base,hash=e25ed021c78307c68216c5dfe4f83f3a}{%
+        {{hash=e25ed021c78307c68216c5dfe4f83f3a}{%
            family={Lawrence},
            familyi={L\bibinitperiod},
            given={Deborah},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=06bb0bbfd7a8122412ecedf0b6929444}{%
+           giveni={D\bibinitperiod}}}%
+        {{hash=06bb0bbfd7a8122412ecedf0b6929444}{%
            family={Coe},
            familyi={C\bibinitperiod},
            given={Michael},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7aaf4dcf0edc0c6364451c600a9f2a50}{%
+           giveni={M\bibinitperiod}}}%
+        {{hash=7aaf4dcf0edc0c6364451c600a9f2a50}{%
            family={Walker},
            familyi={W\bibinitperiod},
            given={Wayne},
-           giveni={W\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b644cc98667a0bf1a6cf8dee3301b3a0}{%
+           giveni={W\bibinitperiod}}}%
+        {{hash=b644cc98667a0bf1a6cf8dee3301b3a0}{%
            family={Verchot},
            familyi={V\bibinitperiod},
            given={Louis},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=3a74280fe4f26d6c00a707d3e7356b5a}{%
+           giveni={L\bibinitperiod}}}%
+        {{hash=3a74280fe4f26d6c00a707d3e7356b5a}{%
            family={Vandecar},
            familyi={V\bibinitperiod},
            given={Karen},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
+           giveni={K\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Frontiers Media SA}%
       }
-      \strng{namehash}{8149ca7dafd9fa3df2e3c9f699ea55aa}
+      \strng{namehash}{d8b00d71bee71ac3179616452114e31f}
       \strng{fullhash}{2a776f2afcd825cc22b54ae4c0b323ff}
       \strng{bibnamehash}{2a776f2afcd825cc22b54ae4c0b323ff}
       \strng{authorbibnamehash}{2a776f2afcd825cc22b54ae4c0b323ff}
-      \strng{authornamehash}{8149ca7dafd9fa3df2e3c9f699ea55aa}
+      \strng{authornamehash}{d8b00d71bee71ac3179616452114e31f}
       \strng{authorfullhash}{2a776f2afcd825cc22b54ae4c0b323ff}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Climate policy has thus far focused solely on carbon stocks and sequestration to evaluate the potential of forests to mitigate global warming. These factors are used to assess the impacts of different drivers of deforestation and forest degradation as well as alternative forest management. However, when forest cover, structure and composition change, shifts in biophysical processes (the water and energy balances) may enhance or diminish the climate effects of carbon released from forest aboveground biomass. The net climate impact of carbon effects and biophysical effects determines outcomes for forest and agricultural species as well as the humans who depend on them. Evaluating the net impact is complicated by the disparate spatio-temporal scales at which they operate. Here we review the biophysical mechanisms by which forests influence climate and synthesize recent work on the biophysical climate forcing of forests across latitudes. We then combine published data on the biophysical effects of deforestation on climate by latitude with a new analysis of the climate impact of the CO2 in forest aboveground biomass by latitude to quantitatively assess how these processes combine to shape local and global climate. We find that tropical deforestation leads to strong net global warming as a result of both CO2 and biophysical effects. From the tropics to a point between 30°N and 40°N, biophysical cooling by standing forests is both local and global, adding to the global cooling effect of CO2 sequestered by forests. In the mid-latitudes up to 50°N, deforestation leads to modest net global warming as warming from released forest carbon outweighs a small opposing biophysical cooling. Beyond 50°N large scale deforestation leads to a net global cooling due to the dominance of biophysical processes (particularly increased albedo) over warming from CO2 released. Locally at all latitudes, forest biophysical impacts far outweigh CO2 effects, promoting local climate stability by reducing extreme temperatures in all seasons and times of day. The importance of forests for both global climate change mitigation and local adaptation by human and non-human species is not adequately captured by current carbon-centric metrics, particularly in the context of future climate warming.}
@@ -944,6 +432,43 @@
       \verb{url}
       \verb https://www.frontiersin.org/journals/forests-and-global-change/articles/10.3389/ffgc.2022.756115/full
       \endverb
+    \endentry
+    \entry{soilCharter}{book}{}
+      \name{author}{1}{}{%
+        {{hash=264d9adc36dcc763205708230a469e23}{%
+           family={{Food and Agriculture Organization of the United Nations}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=4807e0aebe86c17f559853f35515b533}{%
+           family={{FAO}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Rome, Italy}%
+      }
+      \list{publisher}{1}{%
+        {FAO}%
+      }
+      \strng{namehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{fullhash}{264d9adc36dcc763205708230a469e23}
+      \strng{bibnamehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{authorbibnamehash}{264d9adc36dcc763205708230a469e23}
+      \strng{authornamehash}{264d9adc36dcc763205708230a469e23}
+      \strng{authorfullhash}{264d9adc36dcc763205708230a469e23}
+      \strng{shortauthorbibnamehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{shortauthornamehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{shortauthorfullhash}{4807e0aebe86c17f559853f35515b533}
+      \field{extraname}{2}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{title}{Revised World Soil Charter}
+      \field{year}{2015}
     \endentry
   \enddatalist
 \endrefsection

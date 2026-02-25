@@ -2,6 +2,11 @@
 \contentsline {section}{\numberline {2}Introduction}{3}{section.2}%
 \contentsline {section}{\numberline {3}The problems of industrial agriculture}{4}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Land Use}{4}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Land degradation}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.2}Soil degradation and erosion}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Fertilizer use}{5}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Pesticide use}{5}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Monoculture}{5}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Produce transportation, storage and disposal}{5}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}The existential dependency on a few producers}{5}{subsection.3.7}%
 \contentsline {section}{\numberline {4}Background}{6}{section.4}%
 \contentsline {section}{References}{7}{section*.2}%
