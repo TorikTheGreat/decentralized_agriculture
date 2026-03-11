@@ -1,0 +1,692 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{IPBES2019GlobalAssessment}{report}{}
+      \name{author}{1}{}{%
+        {{hash=49764f5f49b115b2a69451ceb2304435}{%
+           family={{Intergovernmental Science‑Policy Platform on Biodiversity and Ecosystem Services}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=3986d311236904eb82728a639934d292}{%
+           family={Brondízio},
+           familyi={B\bibinitperiod},
+           given={E.\bibnamedelimi S.},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=abaf6e04762d9e623218d0c5a61b4b90}{%
+           family={Settele},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6cb94a25855f9c1c45840a3e2d5988df}{%
+           family={Díaz},
+           familyi={D\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fde99f519fa9357546ef7e9e705ae186}{%
+           family={Ngo},
+           familyi={N\bibinitperiod},
+           given={H.\bibnamedelimi T.},
+           giveni={H\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=ebb4b25ab16a0668ca3ba0ed014998d2}{%
+           family={{IPBES}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {IPBES Secretariat}%
+      }
+      \list{location}{1}{%
+        {Bonn, Germany}%
+      }
+      \strng{namehash}{ebb4b25ab16a0668ca3ba0ed014998d2}
+      \strng{fullhash}{49764f5f49b115b2a69451ceb2304435}
+      \strng{bibnamehash}{ebb4b25ab16a0668ca3ba0ed014998d2}
+      \strng{authorbibnamehash}{49764f5f49b115b2a69451ceb2304435}
+      \strng{authornamehash}{49764f5f49b115b2a69451ceb2304435}
+      \strng{authorfullhash}{49764f5f49b115b2a69451ceb2304435}
+      \strng{editorbibnamehash}{a684882d86fab7d7becebca25fc78842}
+      \strng{editornamehash}{a576c9d64c80a61d6d281931fbbc70ff}
+      \strng{editorfullhash}{a684882d86fab7d7becebca25fc78842}
+      \strng{shortauthorbibnamehash}{ebb4b25ab16a0668ca3ba0ed014998d2}
+      \strng{shortauthornamehash}{ebb4b25ab16a0668ca3ba0ed014998d2}
+      \strng{shortauthorfullhash}{ebb4b25ab16a0668ca3ba0ed014998d2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-947851-20-1}
+      \field{note}{IPBES Analytical Brief, No. 107}
+      \field{title}{Global Assessment Report of the Intergovernmental Science‑Policy Platform on Biodiversity and Ecosystem Services}
+      \field{type}{techreport}
+      \field{year}{2019}
+      \field{pages}{1144}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.5281/zenodo.3831673
+      \endverb
+    \endentry
+    \entry{FAO2025StateFoodAgri}{report}{}
+      \name{author}{1}{}{%
+        {{hash=264d9adc36dcc763205708230a469e23}{%
+           family={{Food and Agriculture Organization of the United Nations}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=4807e0aebe86c17f559853f35515b533}{%
+           family={{FAO}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {FAO}%
+      }
+      \list{location}{1}{%
+        {Rome}%
+      }
+      \strng{namehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{fullhash}{264d9adc36dcc763205708230a469e23}
+      \strng{bibnamehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{authorbibnamehash}{264d9adc36dcc763205708230a469e23}
+      \strng{authornamehash}{264d9adc36dcc763205708230a469e23}
+      \strng{authorfullhash}{264d9adc36dcc763205708230a469e23}
+      \strng{shortauthorbibnamehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{shortauthornamehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{shortauthorfullhash}{4807e0aebe86c17f559853f35515b533}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{note}{FAO publication}
+      \field{title}{The State of Food and Agriculture 2025 -- Addressing land degradation across landholding scales}
+      \field{type}{techreport}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.4060/cd7067en
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.4060/cd7067en
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.4060/cd7067en
+      \endverb
+    \endentry
+    \entry{FAO_SoilErosion_GSP}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=264d9adc36dcc763205708230a469e23}{%
+           family={{Food and Agriculture Organization of the United Nations}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Global Soil Partnership}%
+      }
+      \strng{namehash}{264d9adc36dcc763205708230a469e23}
+      \strng{fullhash}{264d9adc36dcc763205708230a469e23}
+      \strng{bibnamehash}{264d9adc36dcc763205708230a469e23}
+      \strng{authorbibnamehash}{264d9adc36dcc763205708230a469e23}
+      \strng{authornamehash}{264d9adc36dcc763205708230a469e23}
+      \strng{authorfullhash}{264d9adc36dcc763205708230a469e23}
+      \field{extraname}{1}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2026-03-10}
+      \field{title}{Soil Erosion}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.fao.org/global-soil-partnership/areas-of-work/soil-erosion/en/
+      \endverb
+      \verb{url}
+      \verb https://www.fao.org/global-soil-partnership/areas-of-work/soil-erosion/en/
+      \endverb
+    \endentry
+    \entry{IAEA_SoilErosion_Control}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=a120b3091ba982e2e21b4d053f5ff51e}{%
+           family={{International Atomic Energy Agency}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {International Atomic Energy Agency}%
+      }
+      \strng{namehash}{a120b3091ba982e2e21b4d053f5ff51e}
+      \strng{fullhash}{a120b3091ba982e2e21b4d053f5ff51e}
+      \strng{bibnamehash}{a120b3091ba982e2e21b4d053f5ff51e}
+      \strng{authorbibnamehash}{a120b3091ba982e2e21b4d053f5ff51e}
+      \strng{authornamehash}{a120b3091ba982e2e21b4d053f5ff51e}
+      \strng{authorfullhash}{a120b3091ba982e2e21b4d053f5ff51e}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2026-03-10}
+      \field{title}{Soil Erosion Control}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.iaea.org/topics/soil-erosion-control
+      \endverb
+      \verb{url}
+      \verb https://www.iaea.org/topics/soil-erosion-control
+      \endverb
+    \endentry
+    \entry{FAO_SOFA_2025}{report}{}
+      \name{author}{1}{}{%
+        {{hash=264d9adc36dcc763205708230a469e23}{%
+           family={{Food and Agriculture Organization of the United Nations}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {Food}%
+        {Agriculture Organization of the United Nations}%
+      }
+      \list{location}{1}{%
+        {Rome, Italy}%
+      }
+      \strng{namehash}{264d9adc36dcc763205708230a469e23}
+      \strng{fullhash}{264d9adc36dcc763205708230a469e23}
+      \strng{bibnamehash}{264d9adc36dcc763205708230a469e23}
+      \strng{authorbibnamehash}{264d9adc36dcc763205708230a469e23}
+      \strng{authornamehash}{264d9adc36dcc763205708230a469e23}
+      \strng{authorfullhash}{264d9adc36dcc763205708230a469e23}
+      \field{extraname}{2}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Includes estimates of crop yield losses due to human-induced land degradation}
+      \field{title}{The State of Food and Agriculture 2025}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.fao.org/publications/sofa
+      \endverb
+      \verb{url}
+      \verb https://www.fao.org/publications/sofa
+      \endverb
+    \endentry
+    \entry{unep_2021_pesticides_fertilizers}{report}{}
+      \name{author}{1}{}{%
+        {{hash=fbcea6c47a5127b61dd6f58639d8f9fd}{%
+           family={{United Nations Environment Programme}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {UNEP}%
+      }
+      \list{location}{1}{%
+        {Nairobi}%
+      }
+      \strng{namehash}{fbcea6c47a5127b61dd6f58639d8f9fd}
+      \strng{fullhash}{fbcea6c47a5127b61dd6f58639d8f9fd}
+      \strng{bibnamehash}{fbcea6c47a5127b61dd6f58639d8f9fd}
+      \strng{authorbibnamehash}{fbcea6c47a5127b61dd6f58639d8f9fd}
+      \strng{authornamehash}{fbcea6c47a5127b61dd6f58639d8f9fd}
+      \strng{authorfullhash}{fbcea6c47a5127b61dd6f58639d8f9fd}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Environmental and Health Impacts of Pesticides and Fertilizers and Ways of Minimizing Them}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.unep.org/resources/report/environmental-and-health-impacts-pesticides-and-fertilizers-and-ways-minimizing
+      \endverb
+      \verb{url}
+      \verb https://www.unep.org/resources/report/environmental-and-health-impacts-pesticides-and-fertilizers-and-ways-minimizing
+      \endverb
+    \endentry
+    \entry{adam2024hazardous_pesticides}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d0f3f14af5edf5871bedbc9be36c4224}{%
+           family={Ádám},
+           familyi={Á\bibinitperiod},
+           given={Balázs},
+           giveni={B\bibinitperiod}}}%
+        {{hash=eab71be349991c6f7c3cef1d7922dfc7}{%
+           family={Cocco},
+           familyi={C\bibinitperiod},
+           given={Pierluigi},
+           giveni={P\bibinitperiod}}}%
+        {{hash=c1328326fd453134ca2c5e74478ccede}{%
+           family={Godderis},
+           familyi={G\bibinitperiod},
+           given={Lode},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{901dbca55f277be65981d0204324b036}
+      \strng{fullhash}{901dbca55f277be65981d0204324b036}
+      \strng{bibnamehash}{901dbca55f277be65981d0204324b036}
+      \strng{authorbibnamehash}{901dbca55f277be65981d0204324b036}
+      \strng{authornamehash}{901dbca55f277be65981d0204324b036}
+      \strng{authorfullhash}{901dbca55f277be65981d0204324b036}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Toxics}
+      \field{number}{3}
+      \field{title}{Hazardous Effects of Pesticides on Human Health}
+      \field{volume}{12}
+      \field{year}{2024}
+      \field{pages}{186}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/toxics12030186
+      \endverb
+    \endentry
+    \entry{UNEP_FAO_WHO_2022_fertilizer_impacts}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=fbcea6c47a5127b61dd6f58639d8f9fd}{%
+           family={{United Nations Environment Programme}},
+           familyi={U\bibinitperiod}}}%
+        {{hash=264d9adc36dcc763205708230a469e23}{%
+           family={{Food and Agriculture Organization of the United Nations}},
+           familyi={F\bibinitperiod}}}%
+        {{hash=531217507bec092b6ec36c0f78f46736}{%
+           family={{World Health Organization}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {UNEP}%
+      }
+      \strng{namehash}{89123d30c04efc01ec7b17f7b98d7437}
+      \strng{fullhash}{89123d30c04efc01ec7b17f7b98d7437}
+      \strng{bibnamehash}{89123d30c04efc01ec7b17f7b98d7437}
+      \strng{authorbibnamehash}{89123d30c04efc01ec7b17f7b98d7437}
+      \strng{authornamehash}{89123d30c04efc01ec7b17f7b98d7437}
+      \strng{authorfullhash}{89123d30c04efc01ec7b17f7b98d7437}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Environmental and Health Impacts of Pesticides and Fertilizers and Ways to Minimize Them: Envisioning a Chemical-Safe World}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://wedocs.unep.org/20.500.11822/38409
+      \endverb
+      \verb{url}
+      \verb https://wedocs.unep.org/20.500.11822/38409
+      \endverb
+    \endentry
+    \entry{NitrogenWaterQuality2024}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a9de2eae1452f3682658946a129ce64d}{%
+           family={Unknown},
+           familyi={U\bibinitperiod},
+           given={Author},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{a9de2eae1452f3682658946a129ce64d}
+      \strng{fullhash}{a9de2eae1452f3682658946a129ce64d}
+      \strng{bibnamehash}{a9de2eae1452f3682658946a129ce64d}
+      \strng{authorbibnamehash}{a9de2eae1452f3682658946a129ce64d}
+      \strng{authornamehash}{a9de2eae1452f3682658946a129ce64d}
+      \strng{authorfullhash}{a9de2eae1452f3682658946a129ce64d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sustainability / Environmental Science Journal (MDPI)}
+      \field{note}{Meta-analysis on nitrate pollution from agricultural fertilizers}
+      \field{title}{Impact of Nitrogen Fertiliser Usage in Agriculture on Water Quality}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.mdpi.com/3401664
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/3401664
+      \endverb
+    \endentry
+    \entry{CBD2020_GBO5}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5e16c97a79e402eb8a3923f5b91477ab}{%
+           family={{Secretariat of the Convention on Biological Diversity}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Montreal}%
+      }
+      \list{publisher}{1}{%
+        {United Nations Environment Programme}%
+      }
+      \strng{namehash}{5e16c97a79e402eb8a3923f5b91477ab}
+      \strng{fullhash}{5e16c97a79e402eb8a3923f5b91477ab}
+      \strng{bibnamehash}{5e16c97a79e402eb8a3923f5b91477ab}
+      \strng{authorbibnamehash}{5e16c97a79e402eb8a3923f5b91477ab}
+      \strng{authornamehash}{5e16c97a79e402eb8a3923f5b91477ab}
+      \strng{authorfullhash}{5e16c97a79e402eb8a3923f5b91477ab}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Global Biodiversity Outlook 5}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.cbd.int/gbo/gbo5/publication/gbo-5-en.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.cbd.int/gbo/gbo5/publication/gbo-5-en.pdf
+      \endverb
+    \endentry
+    \entry{FAO2003_EcosystemApproachAgriculture}{book}{}
+      \name{author}{1}{}{%
+        {{hash=264d9adc36dcc763205708230a469e23}{%
+           family={{Food and Agriculture Organization of the United Nations}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Rome}%
+      }
+      \list{publisher}{1}{%
+        {FAO}%
+      }
+      \strng{namehash}{264d9adc36dcc763205708230a469e23}
+      \strng{fullhash}{264d9adc36dcc763205708230a469e23}
+      \strng{bibnamehash}{264d9adc36dcc763205708230a469e23}
+      \strng{authorbibnamehash}{264d9adc36dcc763205708230a469e23}
+      \strng{authornamehash}{264d9adc36dcc763205708230a469e23}
+      \strng{authorfullhash}{264d9adc36dcc763205708230a469e23}
+      \field{extraname}{3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Biodiversity and the Ecosystem Approach in Agriculture, Forestry and Fisheries}
+      \field{year}{2003}
+      \verb{urlraw}
+      \verb https://www.fao.org/3/y4586e/y4586e00.htm
+      \endverb
+      \verb{url}
+      \verb https://www.fao.org/3/y4586e/y4586e00.htm
+      \endverb
+    \endentry
+    \entry{LenneWood2024_CropDiversity}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f8d7425afa03d509e7becf87eef37362}{%
+           family={Lenné},
+           familyi={L\bibinitperiod},
+           given={Jillian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ad0aae768a1174aba9738b6d2719985b}{%
+           family={Wood},
+           familyi={W\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{03cb22999c495711a06a19ec54b2c7b3}
+      \strng{fullhash}{03cb22999c495711a06a19ec54b2c7b3}
+      \strng{bibnamehash}{03cb22999c495711a06a19ec54b2c7b3}
+      \strng{authorbibnamehash}{03cb22999c495711a06a19ec54b2c7b3}
+      \strng{authornamehash}{03cb22999c495711a06a19ec54b2c7b3}
+      \strng{authorfullhash}{03cb22999c495711a06a19ec54b2c7b3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Plants}
+      \field{number}{8}
+      \field{title}{Crop Diversity in Agroecosystems for Pest Management and Food Production}
+      \field{volume}{13}
+      \field{year}{2024}
+      \field{pages}{1164}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/plants13081164
+      \endverb
+    \endentry
+    \entry{Altieri2011_MonocultureImpacts}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=bda7bf57ff7a17d9e44188d8552b189a}{%
+           family={Altieri},
+           familyi={A\bibinitperiod},
+           given={Miguel\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{9ba70e8f4f5a77d63b9a3e4d7aea187a}
+      \strng{fullhash}{9ba70e8f4f5a77d63b9a3e4d7aea187a}
+      \strng{bibnamehash}{9ba70e8f4f5a77d63b9a3e4d7aea187a}
+      \strng{authorbibnamehash}{9ba70e8f4f5a77d63b9a3e4d7aea187a}
+      \strng{authornamehash}{9ba70e8f4f5a77d63b9a3e4d7aea187a}
+      \strng{authorfullhash}{9ba70e8f4f5a77d63b9a3e4d7aea187a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environmental Advances}
+      \field{title}{Monoculture of crops: A challenge in attaining food security}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.1016/bs.af2s.2024.07.008
+      \endverb
+    \endentry
+    \entry{Kumar2017PostharvestLoss}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ac480063a097b769bae5aa33cd291d46}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Deepak},
+           giveni={D\bibinitperiod}}}%
+        {{hash=38714bf600d9b12725455e779acffc4c}{%
+           family={Kalita},
+           familyi={K\bibinitperiod},
+           given={Prasanta},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{eda234f4035c03d884aa40d851c90ca3}
+      \strng{fullhash}{eda234f4035c03d884aa40d851c90ca3}
+      \strng{bibnamehash}{eda234f4035c03d884aa40d851c90ca3}
+      \strng{authorbibnamehash}{eda234f4035c03d884aa40d851c90ca3}
+      \strng{authornamehash}{eda234f4035c03d884aa40d851c90ca3}
+      \strng{authorfullhash}{eda234f4035c03d884aa40d851c90ca3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Foods}
+      \field{number}{1}
+      \field{title}{Reducing Postharvest Losses during Storage of Grain Crops to Strengthen Food Security in Developing Countries}
+      \field{volume}{6}
+      \field{year}{2017}
+      \field{pages}{8}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/foods6010008
+      \endverb
+    \endentry
+    \entry{FAO2013_food_wastage_footprint}{report}{}
+      \name{author}{1}{}{%
+        {{hash=264d9adc36dcc763205708230a469e23}{%
+           family={{Food and Agriculture Organization of the United Nations}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {FAO}%
+      }
+      \list{location}{1}{%
+        {Rome, Italy}%
+      }
+      \strng{namehash}{264d9adc36dcc763205708230a469e23}
+      \strng{fullhash}{264d9adc36dcc763205708230a469e23}
+      \strng{bibnamehash}{264d9adc36dcc763205708230a469e23}
+      \strng{authorbibnamehash}{264d9adc36dcc763205708230a469e23}
+      \strng{authornamehash}{264d9adc36dcc763205708230a469e23}
+      \strng{authorfullhash}{264d9adc36dcc763205708230a469e23}
+      \field{extraname}{4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-92-5-107752-8}
+      \field{title}{Food Wastage Footprint: Impacts on Natural Resources}
+      \field{year}{2013}
+      \field{pages}{63}
+      \range{pages}{1}
+    \endentry
+    \entry{IPCC2019SRCCL}{report}{}
+      \name{author}{1}{}{%
+        {{hash=92bb724b0d9a20cee031d94d110d683a}{%
+           family={{Intergovernmental Panel on Climate Change}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IPCC}%
+      }
+      \strng{namehash}{92bb724b0d9a20cee031d94d110d683a}
+      \strng{fullhash}{92bb724b0d9a20cee031d94d110d683a}
+      \strng{bibnamehash}{92bb724b0d9a20cee031d94d110d683a}
+      \strng{authorbibnamehash}{92bb724b0d9a20cee031d94d110d683a}
+      \strng{authornamehash}{92bb724b0d9a20cee031d94d110d683a}
+      \strng{authorfullhash}{92bb724b0d9a20cee031d94d110d683a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{Chapter 5: Food Security}
+      \field{title}{Climate Change and Land: An IPCC Special Report}
+      \field{year}{2019}
+      \field{pages}{437\bibrangedash 550}
+      \range{pages}{114}
+    \endentry
+    \entry{GSDR2019}{report}{}
+      \name{author}{1}{}{%
+        {{hash=eccb44c9a7b3005992d0cb473b80b6e0}{%
+           family={{United Nations Department of Economic and Social Affairs}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {United Nations}%
+      }
+      \strng{namehash}{eccb44c9a7b3005992d0cb473b80b6e0}
+      \strng{fullhash}{eccb44c9a7b3005992d0cb473b80b6e0}
+      \strng{bibnamehash}{eccb44c9a7b3005992d0cb473b80b6e0}
+      \strng{authorbibnamehash}{eccb44c9a7b3005992d0cb473b80b6e0}
+      \strng{authornamehash}{eccb44c9a7b3005992d0cb473b80b6e0}
+      \strng{authorfullhash}{eccb44c9a7b3005992d0cb473b80b6e0}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Global Sustainable Development Report 2019: The Future is Now}
+      \field{year}{2019}
+      \field{pages}{139}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://www.wfeo.org/wp-content/uploads/un/gsdr/24797GSDR_report_2019.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.wfeo.org/wp-content/uploads/un/gsdr/24797GSDR_report_2019.pdf
+      \endverb
+    \endentry
+    \entry{IPES2017TooBigToFeed}{report}{}
+      \name{author}{1}{}{%
+        {{hash=69bf46324a1541913dc2ec0a9957e11f}{%
+           family={{International Panel of Experts on Sustainable Food Systems}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {IPES-Food}%
+      }
+      \strng{namehash}{69bf46324a1541913dc2ec0a9957e11f}
+      \strng{fullhash}{69bf46324a1541913dc2ec0a9957e11f}
+      \strng{bibnamehash}{69bf46324a1541913dc2ec0a9957e11f}
+      \strng{authorbibnamehash}{69bf46324a1541913dc2ec0a9957e11f}
+      \strng{authornamehash}{69bf46324a1541913dc2ec0a9957e11f}
+      \strng{authorfullhash}{69bf46324a1541913dc2ec0a9957e11f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Too Big to Feed: Exploring the Impacts of Mega-Mergers, Consolidation and Concentration of Power in the Agri-Food Sector}
+      \field{year}{2017}
+      \field{pages}{3}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://ipes-food.org/report/too-big-to-feed/
+      \endverb
+      \verb{url}
+      \verb https://ipes-food.org/report/too-big-to-feed/
+      \endverb
+    \endentry
+    \entry{businessinsider2025}{article}{}
+      \name{author}{1}{}{%
+        {{hash=28e8dd7bf33e0f25a5a8fc937e6d9df4}{%
+           family={Insider},
+           familyi={I\bibinitperiod},
+           given={Business},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{28e8dd7bf33e0f25a5a8fc937e6d9df4}
+      \strng{fullhash}{28e8dd7bf33e0f25a5a8fc937e6d9df4}
+      \strng{bibnamehash}{28e8dd7bf33e0f25a5a8fc937e6d9df4}
+      \strng{authorbibnamehash}{28e8dd7bf33e0f25a5a8fc937e6d9df4}
+      \strng{authornamehash}{28e8dd7bf33e0f25a5a8fc937e6d9df4}
+      \strng{authorfullhash}{28e8dd7bf33e0f25a5a8fc937e6d9df4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2026-03-10}
+      \field{title}{Photos show how tiny country became second-largest agricultural exporter}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.businessinsider.com/photos-show-how-tiny-country-became-second-largest-agricultural-exporter-2025-9?op=1#bees-are-also-an-essential-part-of-the-process-7
+      \endverb
+      \verb{url}
+      \verb https://www.businessinsider.com/photos-show-how-tiny-country-became-second-largest-agricultural-exporter-2025-9?op=1#bees-are-also-an-essential-part-of-the-process-7
+      \endverb
+    \endentry
+    \entry{hbs2024}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2e27884637fd01cc9f817a1e4748e87c}{%
+           family={School},
+           familyi={S\bibinitperiod},
+           given={Harvard\bibnamedelima Business},
+           giveni={H\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{2e27884637fd01cc9f817a1e4748e87c}
+      \strng{fullhash}{2e27884637fd01cc9f817a1e4748e87c}
+      \strng{bibnamehash}{2e27884637fd01cc9f817a1e4748e87c}
+      \strng{authorbibnamehash}{2e27884637fd01cc9f817a1e4748e87c}
+      \strng{authornamehash}{2e27884637fd01cc9f817a1e4748e87c}
+      \strng{authorfullhash}{2e27884637fd01cc9f817a1e4748e87c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2026-03-10}
+      \field{title}{High-Tech Greenhouse Innovations in The Netherlands}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.hbs.edu/environment/blog/post/IFC-2024-Greenhouses
+      \endverb
+      \verb{url}
+      \verb https://www.hbs.edu/environment/blog/post/IFC-2024-Greenhouses
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

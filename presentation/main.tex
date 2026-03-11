@@ -1,0 +1,144 @@
+% Inbuilt themes in beamer
+\documentclass{beamer}
+\usepackage{graphicx}
+\usepackage{changepage}
+\usepackage[backend=biber, style=ieee]{biblatex}
+\addbibresource{bibliography.bib}
+
+
+% Theme choice:
+\usetheme{Frankfurt}
+
+% Title page details: 
+\title{Decentralizing Agriculture} 
+\subtitle{A shift in the industrial paradigm of food production}
+\author{Marco Zolla Salazar}
+\date{\today}
+\logo{\large \LaTeX{}}
+
+
+\begin{document}
+
+% Title page frame
+\begin{frame}
+    \titlepage 
+\end{frame}
+
+% Remove logo from the next slides
+\logo{}
+
+
+% Outline frame
+\begin{frame}{Outline}
+    \tableofcontents
+\end{frame}
+
+
+% Lists frame
+\section{The many problems of industrial agriculture}
+\begin{frame}{Land use}
+
+\begin{itemize}
+    \item Cropping and animal husbandry cover over one third of the terrestrial land surface \cite[XVI]{IPBES2019GlobalAssessment}. \vspace{10mm}
+    \item Agriculture currently drives 90 percent of global deforestation, with cropland expansion accounting for almost half of the total deforested area. \cite[4]{FAO2025StateFoodAgri}\vspace{10mm}
+    \item Now, as little as 13\% of the ocean and 23\% of the land falling under the classification of 'wilderness' \cite[206]{IPBES2019GlobalAssessment}
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}{Soil degradation and erosion}
+    \begin{itemize}
+        \item Unsustainable agriculture significantly accelerates soil erosion beyond natural rates. \cite{FAO_SoilErosion_GSP} \vspace{10mm}
+        %Unsustainable agriculture significantly accelerates soil erosion beyond natural rates.
+        
+        \item Soil erosion from agricultural systems causes enormous soil loss globally. \cite{IAEA_SoilErosion_Control} \vspace{10mm}
+        %More than 36 billion tonnes of fertile soil is lost from world agricultural systems each year through soil erosion
+        \item Human-driven land degradation (including erosion from agriculture) significantly reduces crop productivity. \cite{FAO_SOFA_2025} \vspace{10mm}
+        %Around 1.7 billion people live in areas where crop yields are 10 percent lower due to human-induced land degradation
+    \end{itemize}
+\end{frame}
+
+\begin{frame}{Pesticide use}
+    \begin{itemize}
+        \item Excessive use and misuse of pesticides result in contamination of surrounding soil and water sources \cite{unep_2021_pesticides_fertilizers}\vspace{10mm}
+        % The report concludes that widespread pesticide use contaminates ecosystems and contributes to biodiversity loss and ecological damage
+        \item Pesticide exposure is associated with “neurological disorders, cancers, reproductive disorders, and respiratory diseases \cite{adam2024hazardous_pesticides} 
+
+    \end{itemize}
+\end{frame}
+
+\begin{frame}{Fertilizer use}
+    \begin{itemize}
+        \item Nutrient losses from fertilizer use contribute significantly to eutrophication of freshwater and coastal ecosystems \cite{UNEP_FAO_WHO_2022_fertilizer_impacts}\vspace{10mm}
+        \item Nitrogen fertilizer use is associated with elevated nitrate pollution concentrations in agricultural water bodies \cite{NitrogenWaterQuality2024}
+    \end{itemize}
+\end{frame}
+
+\begin{frame}{Monoculture}
+    \begin{itemize}
+        \item Unsustainable monoculture-based agriculture… drives biodiversity loss, soil degradation, nutrient depletion and contamination of soil and water \cite{CBD2020_GBO5, FAO2003_EcosystemApproachAgriculture} \vspace{10mm}
+        \item Monoculture agriculture is highly vulnerable to pests compared with plant species-diverse agroecosystems \cite{LenneWood2024_CropDiversity} \vspace{10mm}
+        \item Monocultures frequently increase dependence on pesticides contaminating air, water and soil \cite{Altieri2011_MonocultureImpacts}
+    \end{itemize}
+\end{frame}
+
+\begin{frame}{Produce transportation, storage and disposal}
+    \begin{itemize}
+        \item More than one-third of food is lost or wasted in postharvest operations \cite{Kumar2017PostharvestLoss} \vspace{10mm}
+        \item When food is discarded in a landfill and decomposes anaerobically, it yields methane emissions \cite{FAO2013_food_wastage_footprint} \vspace{10mm}
+        \item Food systems also generate emissions from processing, storage, refrigeration, retail, waste disposal, catering, and transport. \cite{IPCC2019SRCCL}
+    \end{itemize}
+\end{frame}
+
+\begin{frame}{The existential dependency on a few producers}
+    \begin{itemize}
+        \item Four companies account for up to 90 per cent of the global grain trade… concentration runs the risk of reducing the resilience of the global food system. \cite{GSDR2019} \vspace{10mm}
+        
+        \item Dominant agri-food firms have become too big to feed humanity sustainably and equitably. \cite{IPES2017TooBigToFeed}
+    \end{itemize}
+\end{frame}
+
+\section{Background}
+
+\begin{frame}{Case study: The Netherlands}
+    \begin{itemize}
+        \item "Dutch greenhouses aren't your run-of-the-mill structures - they're technological marvels." \cite{hbs2024} \vspace{10mm}
+        \item The Netherlands, despite its small land area, is the second-largest agricultural exporter in the world by value \cite{businessinsider2025} 
+    \end{itemize}
+\end{frame}
+
+\section{Proposed solution}
+
+\begin{frame}{Objectives}
+    \begin{itemize}
+        \item Agriculture decentralization \vspace{10mm}
+        %Local production -> local consumption
+        %Smaller production batches -> less waste and pollution
+        %More diverse produce -> more resilient food chain
+        \item Optimize production efficiency \vspace{10mm}
+        \item Create a scalable, automatic and widely available solution \vspace{10mm}
+    \end{itemize}
+\end{frame}
+
+\begin{frame}{Architecture overview}
+    \begin{adjustwidth}{-2em}{-2em}
+    \centering
+    \includegraphics[width=1.1\textwidth, keepaspectratio]{img/architecture_overview.png}
+    \end{adjustwidth}
+\end{frame}
+
+\begin{frame}{Optimization through collaboration}
+    \begin{itemize}
+        \item Open source hardware, software, models and data\vspace{10mm}
+        %Privacy concern solved my edgeAI computer vision model
+        \item Guides for personal and commercial use\vspace{10mm}
+        \item Seed sharing communities and markets
+    \end{itemize}
+\end{frame}
+
+\section{References}
+\begin{frame}[allowframebreaks]{Bibliography}
+\printbibliography[heading=none]
+\end{frame}
+
+\end{document}

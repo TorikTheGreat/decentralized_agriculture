@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{The many problems of industrial agriculture}{3}{0}{1}
+\beamer@sectionintoc {2}{Background}{10}{0}{2}
+\beamer@sectionintoc {3}{Proposed solution}{11}{0}{3}
+\beamer@sectionintoc {4}{References}{14}{0}{4}
