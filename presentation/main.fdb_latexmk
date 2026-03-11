@@ -1,14 +1,14 @@
 # Fdb version 4
-["biber main"] 0 "main.bcf" "main.bbl" "main" 1773200938.29491 -1
+["biber main"] 0 "main.bcf" "main.bbl" "main" 1773201202.48473 -1
   "bibliography.bib" 1773194789.99297 13776 47fb3e3076f88483b5f42c242128a1b9 ""
-  "main.bcf" 1773200938.20953 108791 5801b22f5c7a50b78e8b05822a0aa928 "pdflatex"
+  "main.bcf" 1773201202.4257 108791 5801b22f5c7a50b78e8b05822a0aa928 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1773200935.54311 "/home/marco/Desktop/proyectos/decentralized_agriculture/repo/decentralized_agriculture/presentation/main.tex" "main.pdf" "main" 1773200938.29515 0
+["pdflatex"] 1773201200.22309 "/home/marco/Desktop/proyectos/decentralized_agriculture/repo/decentralized_agriculture/presentation/main.tex" "main.pdf" "main" 1773201202.48493 0
   "/etc/texmf/web2c/texmf.cnf" 1767758574.17835 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/marco/Desktop/proyectos/decentralized_agriculture/repo/decentralized_agriculture/presentation/main.tex" 1773200935.38253 6347 7210dd153cdf9ff37953bf239f801921 ""
+  "/home/marco/Desktop/proyectos/decentralized_agriculture/repo/decentralized_agriculture/presentation/main.tex" 1773201200.0587 6344 4991a87c99f181353fdef968df540b63 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -226,13 +226,13 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1767758590.28437 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1767758679 8213493 e0c1d7ec2a3c9e8c3036bd8df7c9c512 ""
   "img/architecture_overview.png" 1773197548.17354 101361 8d41537c42c866ccda1acabb46de12c2 ""
-  "main.aux" 1773200938.20753 7907 19cf514a8b6feef66fcc31308e068e1b "pdflatex"
+  "main.aux" 1773201202.4237 7907 19cf514a8b6feef66fcc31308e068e1b "pdflatex"
   "main.bbl" 1773194793.49704 27804 0670946c2011b3418e56dcb33845e171 "biber main"
-  "main.nav" 1773200938.21053 2821 47d0faa2e156e68907964cb2170cad32 "pdflatex"
-  "main.out" 1773200938.20853 590 9672197ceeec3dc77b9bad8676469d28 "pdflatex"
-  "main.run.xml" 1773200938.21053 2404 e448bd39f241edac993cdd8a8bf2c7e0 "pdflatex"
-  "main.tex" 1773200935.38253 6347 7210dd153cdf9ff37953bf239f801921 ""
-  "main.toc" 1773200938.21053 227 17592547b0d2535219dd6902091fab48 "pdflatex"
+  "main.nav" 1773201202.4257 2821 47d0faa2e156e68907964cb2170cad32 "pdflatex"
+  "main.out" 1773201202.4247 590 9672197ceeec3dc77b9bad8676469d28 "pdflatex"
+  "main.run.xml" 1773201202.4257 2404 e448bd39f241edac993cdd8a8bf2c7e0 "pdflatex"
+  "main.tex" 1773201200.0587 6344 4991a87c99f181353fdef968df540b63 ""
+  "main.toc" 1773201202.4257 227 17592547b0d2535219dd6902091fab48 "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"
