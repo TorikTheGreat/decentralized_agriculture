@@ -1,1 +1,25 @@
 \section{Introduction}
+
+\subsection{Motivation}
+
+The global food system is in a state of structural crisis. Industrial agricultural production --- the dominant paradigm for the past century --- has delivered extraordinary increases in caloric output, but at costs that are becoming impossible to ignore: ecosystem collapse, soil exhaustion, water depletion, climate destabilisation, and the creation of food supply chains so concentrated that a single geopolitical shock can threaten the nutrition of hundreds of millions of people.
+
+At the same time, the tools to build something better have never been more accessible. Capable microcontrollers cost a few dollars. Machine learning frameworks are open source. Camera modules capable of running computer vision inference are commodity hardware. The question is no longer whether small-scale, intelligent, automated food production is technically feasible --- it is --- but whether it can be made cheap enough, robust enough, and open enough to displace the incumbent system at meaningful scale.
+
+This paper describes a platform designed to make that possible.
+
+\subsection{Project vision}
+
+The project's core proposition is that a network of many small, locally operated, data-connected greenhouses can collectively outperform a system of few large, centralised farms --- on environmental metrics, on resilience, and eventually on cost --- provided that the intelligence required to operate them efficiently is shared as a common good rather than locked up in proprietary systems.
+
+The platform is designed around four interlocking principles:
+
+\begin{enumerate}
+  \item \textbf{Edge-first control.} All critical control logic runs locally and offline. The system operates without internet connectivity. The cloud connection is optional and asynchronous, used only for learning and coordination, never for real-time operation.
+
+  \item \textbf{Open everything.} Hardware reference designs, firmware, software, trained models, and the collected dataset are all released under maximally permissive open licences. Anyone can deploy, modify, and contribute back.
+
+  \item \textbf{Data flywheel.} Every deployed node, with the user's consent, contributes anonymised telemetry to a shared dataset. Models trained on this dataset are continuously improved and pushed back to all nodes via over-the-air updates. The network becomes smarter as it grows.
+
+  \item \textbf{Climate-adapted intelligence.} The system does not prescribe a fixed set of crops. A climate-aware recommendation engine suggests species whose optimal growing conditions most closely match the local ambient environment, minimising the energy required to close the gap between what the environment provides and what each crop needs.
+\end{enumerate}

@@ -2370,22 +2370,23 @@
     <bcf:citekey order="3" intorder="1">IPBES2019GlobalAssessment</bcf:citekey>
     <bcf:citekey order="4" intorder="1">FAO_SoilErosion_GSP</bcf:citekey>
     <bcf:citekey order="5" intorder="1">IAEA_SoilErosion_Control</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">FAO_SOFA_2025</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">FAO2025StateFoodAgri</bcf:citekey>
     <bcf:citekey order="7" intorder="1">unep_2021_pesticides_fertilizers</bcf:citekey>
     <bcf:citekey order="8" intorder="1">adam2024hazardous_pesticides</bcf:citekey>
     <bcf:citekey order="9" intorder="1">UNEP_FAO_WHO_2022_fertilizer_impacts</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">NitrogenWaterQuality2024</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">NitrogenWaterQuality2025</bcf:citekey>
     <bcf:citekey order="11" intorder="1">CBD2020_GBO5</bcf:citekey>
     <bcf:citekey order="11" intorder="2">FAO2003_EcosystemApproachAgriculture</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">LenneWood2024_CropDiversity</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">Altieri2011_MonocultureImpacts</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">Letourneau2011_PlantDiversityPests</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">Kaur2024_MonocultureImpacts</bcf:citekey>
     <bcf:citekey order="14" intorder="1">Kumar2017PostharvestLoss</bcf:citekey>
     <bcf:citekey order="15" intorder="1">FAO2013_food_wastage_footprint</bcf:citekey>
     <bcf:citekey order="16" intorder="1">IPCC2019SRCCL</bcf:citekey>
     <bcf:citekey order="17" intorder="1">GSDR2019</bcf:citekey>
     <bcf:citekey order="18" intorder="1">IPES2017TooBigToFeed</bcf:citekey>
     <bcf:citekey order="19" intorder="1">hbs2024</bcf:citekey>
-    <bcf:citekey order="20" intorder="1">businessinsider2025</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">ITA2026_Netherlands_Agriculture</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">UNEP_FAO_WHO_2022_fertilizer_impacts</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

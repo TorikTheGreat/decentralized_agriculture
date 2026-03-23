@@ -842,90 +842,6 @@
       \verb 10.1038/s41467-023-39338-z
       \endverb
     \endentry
-    \entry{chislock2013}{article}{}
-      \name{author}{4}{}{%
-        {{hash=7f4d376f56ead6fdc9ba9be4d7445d66}{%
-           family={Chislock},
-           familyi={C\bibinitperiod},
-           given={Michael\bibnamedelima F.},
-           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
-        {{hash=9f9d53a0514fe2c89e2a08a2dbf23fb0}{%
-           family={Doster},
-           familyi={D\bibinitperiod},
-           given={Enrique},
-           giveni={E\bibinitperiod}}}%
-        {{hash=b7cd3680db4e4af3acbb367684affa4e}{%
-           family={Zitomer},
-           familyi={Z\bibinitperiod},
-           given={Rachel\bibnamedelima A.},
-           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=795254f596429b528d6369d11f618dc2}{%
-           family={Wilson},
-           familyi={W\bibinitperiod},
-           given={Alan\bibnamedelima E.},
-           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-      }
-      \strng{namehash}{11dfa45e4be75460bbcecb4d841b27d4}
-      \strng{fullhash}{e472ff435170be05a3eabbb38745f193}
-      \strng{bibnamehash}{e472ff435170be05a3eabbb38745f193}
-      \strng{authorbibnamehash}{e472ff435170be05a3eabbb38745f193}
-      \strng{authornamehash}{11dfa45e4be75460bbcecb4d841b27d4}
-      \strng{authorfullhash}{e472ff435170be05a3eabbb38745f193}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Nature Education Knowledge}
-      \field{number}{4}
-      \field{title}{Eutrophication: {C}auses, {C}onsequences, and {C}ontrols in {A}quatic {E}cosystems}
-      \field{volume}{4}
-      \field{year}{2013}
-      \field{pages}{10}
-      \range{pages}{1}
-      \verb{urlraw}
-      \verb https://www.nature.com/scitable/knowledge/library/eutrophication-causes-consequences-and-controls-in-aquatic-102364466
-      \endverb
-      \verb{url}
-      \verb https://www.nature.com/scitable/knowledge/library/eutrophication-causes-consequences-and-controls-in-aquatic-102364466
-      \endverb
-    \endentry
-    \entry{diaz2008}{article}{}
-      \name{author}{2}{}{%
-        {{hash=276fd36f4f90d6fa5b4c461afcc92cbd}{%
-           family={Diaz},
-           familyi={D\bibinitperiod},
-           given={Robert\bibnamedelima J.},
-           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=c28ae8123c361eab3ba232e2c6a35f77}{%
-           family={Rosenberg},
-           familyi={R\bibinitperiod},
-           given={Rutger},
-           giveni={R\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {American Association for the Advancement of Science}%
-      }
-      \strng{namehash}{2aa17e8f207a1ac78945318153a5ea08}
-      \strng{fullhash}{2aa17e8f207a1ac78945318153a5ea08}
-      \strng{bibnamehash}{2aa17e8f207a1ac78945318153a5ea08}
-      \strng{authorbibnamehash}{2aa17e8f207a1ac78945318153a5ea08}
-      \strng{authornamehash}{2aa17e8f207a1ac78945318153a5ea08}
-      \strng{authorfullhash}{2aa17e8f207a1ac78945318153a5ea08}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Science}
-      \field{number}{5891}
-      \field{title}{Spreading Dead Zones and Consequences for Marine Ecosystems}
-      \field{volume}{321}
-      \field{year}{2008}
-      \field{pages}{926\bibrangedash 929}
-      \range{pages}{4}
-      \verb{doi}
-      \verb 10.1126/science.1156401
-      \endverb
-    \endentry
     \entry{su13105625}{article}{}
       \name{author}{3}{}{%
         {{hash=3b135c16a833c66acf2a5a69a7934e28}{%
@@ -954,6 +870,7 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{abstract}{Nitrogen (N) is a key input to food production. Nearly half of N fertilizer input is not used by crops and is lost into the environment via emission of gases or by polluting water bodies. It is essential to achieve production levels, which enable global food security, without compromising environmental security. The N pollution level expected by 2050 is projected to be 150% higher than in 2010, with the agricultural sector accounting for 60% of this increase. In this paper, we review the status of the pollution from N fertilizers worldwide and make recommendations to address the situation. The analysis reviews the relationship between N fertilizer use, N use efficiency, no-point pollution, the role of farmer management practices, and policy approaches to address diffuse pollution caused by N fertilization. Several studies show a lack of information as one of the main hurdles to achieve changes in habits. The objective of this study is to highlight the gravity of the current global non-point pollution as well as the need for a communication effort to make farmers aware of the relationship between their activity and N pollution and, therefore, the importance of their fertilizer management practices.}
       \field{issn}{2071-1050}
       \field{journaltitle}{Sustainability}
       \field{number}{10}
@@ -968,52 +885,6 @@
       \endverb
       \verb{url}
       \verb https://www.mdpi.com/2071-1050/13/10/5625
-      \endverb
-    \endentry
-    \entry{coskun2017}{article}{}
-      \name{author}{4}{}{%
-        {{hash=bd40162e8e34ae6add8e49efab276c77}{%
-           family={Coskun},
-           familyi={C\bibinitperiod},
-           given={Devrim},
-           giveni={D\bibinitperiod}}}%
-        {{hash=51c0bd7c112a77bb998b3326c3b3b6b6}{%
-           family={Britto},
-           familyi={B\bibinitperiod},
-           given={Dev\bibnamedelima T.},
-           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
-        {{hash=e1e9efed27bef9f97cdfb6833c98bb3b}{%
-           family={Shi},
-           familyi={S\bibinitperiod},
-           given={Weiming},
-           giveni={W\bibinitperiod}}}%
-        {{hash=f07f8d8cb424ee1bae76dfa5a6e5fb89}{%
-           family={Kronzucker},
-           familyi={K\bibinitperiod},
-           given={Herbert\bibnamedelima J.},
-           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Springer Nature}%
-      }
-      \strng{namehash}{339b56aef0a2384696b7a35f105d64f6}
-      \strng{fullhash}{399a7621f298883dbec57a4db2dfaaeb}
-      \strng{bibnamehash}{399a7621f298883dbec57a4db2dfaaeb}
-      \strng{authorbibnamehash}{399a7621f298883dbec57a4db2dfaaeb}
-      \strng{authornamehash}{339b56aef0a2384696b7a35f105d64f6}
-      \strng{authorfullhash}{399a7621f298883dbec57a4db2dfaaeb}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Nature Plants}
-      \field{title}{Nitrogen transformations in modern agriculture and the role of biological nitrification inhibition}
-      \field{volume}{3}
-      \field{year}{2017}
-      \field{pages}{17074}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.1038/nplants.2017.74
       \endverb
     \endentry
     \entry{carpenter1998nonpoint}{report}{}
@@ -1048,549 +919,34 @@
       \verb https://esa.org/wp-content/uploads/2013/03/issue3.pdf
       \endverb
     \endentry
-    \entry{Forster_AR6_Ch7_2021}{incollection}{}
-      \name{author}{12}{}{%
-        {{hash=83ba2e9a516335da912b16c3bb60d42c}{%
-           family={Forster},
-           familyi={F\bibinitperiod},
-           given={P.},
-           giveni={P\bibinitperiod}}}%
-        {{hash=16bc27448b8099ffb3c8879f0d10163d}{%
-           family={Storelvmo},
-           familyi={S\bibinitperiod},
-           given={T.},
-           giveni={T\bibinitperiod}}}%
-        {{hash=c77f549e54480317deacc693b8c03038}{%
-           family={Armour},
-           familyi={A\bibinitperiod},
-           given={K.},
-           giveni={K\bibinitperiod}}}%
-        {{hash=e641ecea654571841bd253ad8f07120a}{%
-           family={Collins},
-           familyi={C\bibinitperiod},
-           given={W.},
-           giveni={W\bibinitperiod}}}%
-        {{hash=6b8d50c57dd854b44a0903e63b6fb3a4}{%
-           family={Dufresne},
-           familyi={D\bibinitperiod},
-           given={J.-L.},
-           giveni={J\bibinithyphendelim L\bibinitperiod}}}%
-        {{hash=f48c268972dc53e99d820b937da3df03}{%
-           family={Frame},
-           familyi={F\bibinitperiod},
-           given={D.},
-           giveni={D\bibinitperiod}}}%
-        {{hash=f9193d835af72d75924e41d3650f7edd}{%
-           family={Lunt},
-           familyi={L\bibinitperiod},
-           given={D.\bibnamedelimi J.},
-           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=614da4e5647d9d5dcd9029c0c8ff6237}{%
-           family={Mauritsen},
-           familyi={M\bibinitperiod},
-           given={T.},
-           giveni={T\bibinitperiod}}}%
-        {{hash=1bdc69704609ada05a62c07d8dc8581f}{%
-           family={Palmer},
-           familyi={P\bibinitperiod},
-           given={M.\bibnamedelimi D.},
-           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{hash=d3b72eae9099dcaa667d7aada8e9438e}{%
-           family={Watanabe},
-           familyi={W\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod}}}%
-        {{hash=3d328c866b90dbc39680fe68f350dde6}{%
-           family={Wild},
-           familyi={W\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod}}}%
-        {{hash=32e563370422457790db030ab2c13183}{%
-           family={Zhang},
-           familyi={Z\bibinitperiod},
-           given={H.},
-           giveni={H\bibinitperiod}}}%
-      }
-      \name{editor}{19}{}{%
-        {{hash=9baa057cd134125664b0d07a362c0c27}{%
-           family={Masson-Delmotte},
-           familyi={M\bibinithyphendelim D\bibinitperiod},
-           given={V.},
-           giveni={V\bibinitperiod}}}%
-        {{hash=40e4e4701c79f538faae3e65611d1446}{%
-           family={Zhai},
-           familyi={Z\bibinitperiod},
-           given={P.},
-           giveni={P\bibinitperiod}}}%
-        {{hash=0b00e20006587972fceede350c638b42}{%
-           family={Pirani},
-           familyi={P\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-        {{hash=9a6c45169a610a8ffdc387702efeb052}{%
-           family={Connors},
-           familyi={C\bibinitperiod},
-           given={S.\bibnamedelimi L.},
-           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=4a925c914b1eb584ac20002e00c0dc34}{%
-           family={Pean},
-           familyi={P\bibinitperiod},
-           given={C.},
-           giveni={C\bibinitperiod}}}%
-        {{hash=8f23d1e458061338a4b3850c212d4de2}{%
-           family={Berger},
-           familyi={B\bibinitperiod},
-           given={S.},
-           giveni={S\bibinitperiod}}}%
-        {{hash=a4d4621930b6f22890632603ae890f34}{%
-           family={Caud},
-           familyi={C\bibinitperiod},
-           given={N.},
-           giveni={N\bibinitperiod}}}%
-        {{hash=ff38b98d2dc65002f66d028a85b9d58d}{%
-           family={Chen},
-           familyi={C\bibinitperiod},
-           given={Y.},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=cde2bee81704818f8cf1123a8b23862b}{%
-           family={Goldfarb},
-           familyi={G\bibinitperiod},
-           given={L.},
-           giveni={L\bibinitperiod}}}%
-        {{hash=2710a6ca48852cb497ef1bce2e9584d4}{%
-           family={Gomis},
-           familyi={G\bibinitperiod},
-           given={M.\bibnamedelimi I.},
-           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
-        {{hash=adbd0ac1cc513e30d814f59ea619661d}{%
-           family={Huang},
-           familyi={H\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod}}}%
-        {{hash=5eace0bb473468ade5639564dd5474f8}{%
-           family={Leitzell},
-           familyi={L\bibinitperiod},
-           given={K.},
-           giveni={K\bibinitperiod}}}%
-        {{hash=4abde0bdb5fd609407bb66794b1d0d9d}{%
-           family={Lonnoy},
-           familyi={L\bibinitperiod},
-           given={E.},
-           giveni={E\bibinitperiod}}}%
-        {{hash=bb504a678251010fed056a4f8779e6a2}{%
-           family={Matthews},
-           familyi={M\bibinitperiod},
-           given={J.\bibnamedelimi B.\bibnamedelimi R.},
-           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-        {{hash=5b9cccbf161ba9f2126df9b5fa823e0a}{%
-           family={Maycock},
-           familyi={M\bibinitperiod},
-           given={T.\bibnamedelimi K.},
-           giveni={T\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=0914370d501f327d27b7b17a5c41585a}{%
-           family={Waterfield},
-           familyi={W\bibinitperiod},
-           given={T.},
-           giveni={T\bibinitperiod}}}%
-        {{hash=850f35f25cf63a5344362abae08e9ab9}{%
-           family={Yelekçi},
-           familyi={Y\bibinitperiod},
-           given={O.},
-           giveni={O\bibinitperiod}}}%
-        {{hash=05ed76149e148fca98e6c03495426736}{%
-           family={Yu},
-           familyi={Y\bibinitperiod},
-           given={R.},
-           giveni={R\bibinitperiod}}}%
-        {{hash=4c178bbd5267e4fefacd4e0234a0688a}{%
-           family={Zhou},
-           familyi={Z\bibinitperiod},
-           given={B.},
-           giveni={B\bibinitperiod}}}%
-      }
-      \list{location}{2}{%
-        {Cambridge, United Kingdom}%
-        {New York, NY, USA}%
-      }
-      \list{publisher}{1}{%
-        {Cambridge University Press}%
-      }
-      \strng{namehash}{7355ef4042949361265c47a9bc785423}
-      \strng{fullhash}{8bc888e4a18c0a378c6d088a89604619}
-      \strng{bibnamehash}{7355ef4042949361265c47a9bc785423}
-      \strng{authorbibnamehash}{7355ef4042949361265c47a9bc785423}
-      \strng{authornamehash}{7355ef4042949361265c47a9bc785423}
-      \strng{authorfullhash}{8bc888e4a18c0a378c6d088a89604619}
-      \strng{editorbibnamehash}{00d4fcf359e965640c28a7b672a70ea5}
-      \strng{editornamehash}{00d4fcf359e965640c28a7b672a70ea5}
-      \strng{editorfullhash}{2478b34d3e50721e04049240264006e8}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Climate Change 2021: The Physical Science Basis. Contribution of Working Group {I} to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change}
-      \field{chapter}{7}
-      \field{title}{The Earth's Energy Budget, Climate Feedbacks, and Climate Sensitivity}
-      \field{year}{2021}
-      \field{pages}{923\bibrangedash 1054}
-      \range{pages}{132}
-      \verb{doi}
-      \verb 10.1017/9781009157896.009
-      \endverb
-    \endentry
-    \entry{Ravishankara2009}{article}{}
-      \name{author}{3}{}{%
-        {{hash=478ee0e72091424a03cf809eb985f25f}{%
-           family={Ravishankara},
-           familyi={R\bibinitperiod},
-           given={A.\bibnamedelimi R.},
-           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-        {{hash=d2f27219bc155c07d169cfa339e2fcdb}{%
-           family={Daniel},
-           familyi={D\bibinitperiod},
-           given={John\bibnamedelima S.},
-           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=47a3ea6e171a6385d9629954f60ac724}{%
-           family={Portmann},
-           familyi={P\bibinitperiod},
-           given={Robert\bibnamedelima W.},
-           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
-      }
-      \strng{namehash}{c133b4c255eade9ce20ac557c1bc1c39}
-      \strng{fullhash}{c133b4c255eade9ce20ac557c1bc1c39}
-      \strng{bibnamehash}{c133b4c255eade9ce20ac557c1bc1c39}
-      \strng{authorbibnamehash}{c133b4c255eade9ce20ac557c1bc1c39}
-      \strng{authornamehash}{c133b4c255eade9ce20ac557c1bc1c39}
-      \strng{authorfullhash}{c133b4c255eade9ce20ac557c1bc1c39}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Science}
-      \field{number}{5949}
-      \field{title}{Nitrous Oxide N2O: The Dominant Ozone-Depleting Substance Emitted in the 21st Century}
-      \field{volume}{326}
-      \field{year}{2009}
-      \field{pages}{123\bibrangedash 125}
-      \range{pages}{3}
-      \verb{doi}
-      \verb 10.1126/science.1176985
-      \endverb
-    \endentry
-    \entry{Tian2024}{article}{}
-      \name{author}{58}{}{%
+    \entry{tian2020n2o}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
         {{hash=c4fb415354afcb9b873870264f4b6cd2}{%
            family={Tian},
            familyi={T\bibinitperiod},
            given={Hanqin},
            giveni={H\bibinitperiod}}}%
-        {{hash=5ff8a95e4e8be25117adac9cf18f1678}{%
-           family={Pan},
-           familyi={P\bibinitperiod},
-           given={Naiqing},
-           giveni={N\bibinitperiod}}}%
-        {{hash=5f97ba233939147e194d1ea9c565fc7c}{%
-           family={Thompson},
-           familyi={T\bibinitperiod},
-           given={Rona\bibnamedelima L.},
-           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=7c3cb5061e583e114447d97a09d0a877}{%
-           family={Canadell},
-           familyi={C\bibinitperiod},
-           given={Josep\bibnamedelima G.},
-           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-        {{hash=17ad11e5e4bfd97b2d3cd5673f453582}{%
-           family={Suntharalingam},
-           familyi={S\bibinitperiod},
-           given={Parvadha},
-           giveni={P\bibinitperiod}}}%
-        {{hash=8baf582d10a4aabe152e93965dc3f1be}{%
-           family={Regnier},
-           familyi={R\bibinitperiod},
-           given={Pierre},
-           giveni={P\bibinitperiod}}}%
-        {{hash=f68ef30532f592368bb271c939b22d8f}{%
-           family={Davidson},
-           familyi={D\bibinitperiod},
-           given={Eric\bibnamedelima A.},
-           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=bc116fea577cc7ee83d833b005334c44}{%
-           family={Prather},
-           familyi={P\bibinitperiod},
-           given={Michael},
-           giveni={M\bibinitperiod}}}%
-        {{hash=6e67f77fe4702964e6cd500a96516c8a}{%
-           family={Ciais},
-           familyi={C\bibinitperiod},
-           given={Philippe},
-           giveni={P\bibinitperiod}}}%
-        {{hash=4a2aed85ccdc7709fd8c2a7e009ac1c8}{%
-           family={Muntean},
-           familyi={M\bibinitperiod},
-           given={Marilena},
-           giveni={M\bibinitperiod}}}%
-        {{hash=addad8eb33ee9dea154db9497e134398}{%
-           family={Pan},
-           familyi={P\bibinitperiod},
-           given={Shufen},
-           giveni={S\bibinitperiod}}}%
-        {{hash=1b3b9eb2633f55e7b7a57f7f7ee6d56c}{%
-           family={Winiwarter},
-           familyi={W\bibinitperiod},
-           given={Wilfried},
-           giveni={W\bibinitperiod}}}%
-        {{hash=f19f26cbda9f533ce96843bd12ba066d}{%
-           family={Zaehle},
-           familyi={Z\bibinitperiod},
-           given={Sönke},
-           giveni={S\bibinitperiod}}}%
-        {{hash=66d3c3089bcd7bce5ea942512ee9f7a2}{%
-           family={Zhou},
-           familyi={Z\bibinitperiod},
-           given={Feng},
-           giveni={F\bibinitperiod}}}%
-        {{hash=99fb475b0459f57edc542316f59bf88e}{%
-           family={Jackson},
-           familyi={J\bibinitperiod},
-           given={Robert\bibnamedelima B.},
-           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
-        {{hash=de56f896783eb5ac9397e796c9ea4086}{%
-           family={Bange},
-           familyi={B\bibinitperiod},
-           given={Hermann\bibnamedelima W.},
-           giveni={H\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
-        {{hash=caa11728d9adb0344f76633574cbe228}{%
-           family={Berthet},
-           familyi={B\bibinitperiod},
-           given={Sarah},
-           giveni={S\bibinitperiod}}}%
-        {{hash=dc370bf6b3fbe37b34f687f861da446e}{%
-           family={Bian},
-           familyi={B\bibinitperiod},
-           given={Zihao},
-           giveni={Z\bibinitperiod}}}%
-        {{hash=701bf05e6bc97158590d61ef73305c6c}{%
-           family={Bianchi},
-           familyi={B\bibinitperiod},
-           given={Daniele},
-           giveni={D\bibinitperiod}}}%
-        {{hash=b15d4b0d2abb1f23d7ab20ef3713e261}{%
-           family={Bouwman},
-           familyi={B\bibinitperiod},
-           given={Alexander\bibnamedelima F.},
-           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
-        {{hash=7e014654c4d516487cef88386c277e67}{%
-           family={Buitenhuis},
-           familyi={B\bibinitperiod},
-           given={Erik\bibnamedelima T.},
-           giveni={E\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
-        {{hash=e9b7ecd38e9bac5ec6493ca7aaf98c0e}{%
-           family={Dutton},
-           familyi={D\bibinitperiod},
-           given={Geoffrey},
-           giveni={G\bibinitperiod}}}%
-        {{hash=89009cc4c5f132a818df67657f124e5b}{%
-           family={Hu},
-           familyi={H\bibinitperiod},
-           given={Minpeng},
-           giveni={M\bibinitperiod}}}%
-        {{hash=d5bbd01c96094955775b20b42cdc53ab}{%
-           family={Ito},
-           familyi={I\bibinitperiod},
-           given={Akihiko},
-           giveni={A\bibinitperiod}}}%
-        {{hash=d32242351f1fc1b8076781b32d855cb3}{%
-           family={Jain},
-           familyi={J\bibinitperiod},
-           given={Atul\bibnamedelima K.},
-           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=321c7ef7ba8d3007dff8e2afed37c769}{%
-           family={Jeltsch-Thömmes},
-           familyi={J\bibinithyphendelim T\bibinitperiod},
-           given={Aurich},
-           giveni={A\bibinitperiod}}}%
-        {{hash=6116bc08fe0095fcf93a1da914b14f6c}{%
-           family={Joos},
-           familyi={J\bibinitperiod},
-           given={Fortunat},
-           giveni={F\bibinitperiod}}}%
-        {{hash=b41d6a112c3a9a2a3156b5644aba05a8}{%
-           family={Kou-Giesbrecht},
-           familyi={K\bibinithyphendelim G\bibinitperiod},
-           given={Sian},
-           giveni={S\bibinitperiod}}}%
-        {{hash=f3cf3c2758322247fc57993e05d619d8}{%
-           family={Krummel},
-           familyi={K\bibinitperiod},
-           given={Paul\bibnamedelima B.},
-           giveni={P\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
-        {{hash=2ab35c7941675b0415888da2ad71cfcf}{%
-           family={Lan},
-           familyi={L\bibinitperiod},
-           given={Xin},
-           giveni={X\bibinitperiod}}}%
-        {{hash=2d2cccd96baa422873d5aeea2cf15ed0}{%
-           family={Landolfi},
-           familyi={L\bibinitperiod},
-           given={Angela},
-           giveni={A\bibinitperiod}}}%
-        {{hash=158984914d003428a95109a9f3784ca1}{%
-           family={Lauerwald},
-           familyi={L\bibinitperiod},
-           given={Ronny},
-           giveni={R\bibinitperiod}}}%
-        {{hash=c15dca1dd47bb240c99f7cf6481272a5}{%
-           family={Li},
-           familyi={L\bibinitperiod},
-           given={Ya},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=cd9bf32911e07e2023e016292340e5a9}{%
-           family={Lu},
-           familyi={L\bibinitperiod},
-           given={Chaoqun},
-           giveni={C\bibinitperiod}}}%
-        {{hash=63774fd7f99163f1559d5260c5d03628}{%
-           family={Maavara},
-           familyi={M\bibinitperiod},
-           given={Taylor},
-           giveni={T\bibinitperiod}}}%
-        {{hash=f8bb6695a92a8e5e3b9af5f758421bb6}{%
-           family={Manizza},
-           familyi={M\bibinitperiod},
-           given={Manfredi},
-           giveni={M\bibinitperiod}}}%
-        {{hash=d96a0cec0c97fb893c7ca0abbc5cd21b}{%
-           family={Millet},
-           familyi={M\bibinitperiod},
-           given={Dylan\bibnamedelima B.},
-           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
-        {{hash=ef1c909f0afb23b31e2570a54cc4e04d}{%
-           family={Mühle},
-           familyi={M\bibinitperiod},
-           given={Jens},
-           giveni={J\bibinitperiod}}}%
-        {{hash=80c3936a8de66b6487f264820625c2ea}{%
-           family={Patra},
-           familyi={P\bibinitperiod},
-           given={Prabir\bibnamedelima K.},
-           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=fa321d840fe47ade8aefd814c8e92ac5}{%
-           family={Peters},
-           familyi={P\bibinitperiod},
-           given={Glen\bibnamedelima P.},
-           giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-        {{hash=c7f6e846940dcc9e05f711abdd7cc00d}{%
-           family={Qin},
-           familyi={Q\bibinitperiod},
-           given={Xin},
-           giveni={X\bibinitperiod}}}%
-        {{hash=dae7cd98e2a93014a2dfaac9adca96a3}{%
-           family={Raymond},
-           familyi={R\bibinitperiod},
-           given={Peter},
-           giveni={P\bibinitperiod}}}%
-        {{hash=8492b2619618cfbad86fc39169f001f9}{%
-           family={Resplandy},
-           familyi={R\bibinitperiod},
-           given={Laure},
-           giveni={L\bibinitperiod}}}%
-        {{hash=435a3e0db2380bb2ba9a2cfd61777df8}{%
-           family={Rosentreter},
-           familyi={R\bibinitperiod},
-           given={Judith\bibnamedelima A.},
-           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=bd856a3b71fd9af902c1afb5c55eccb8}{%
-           family={Shi},
-           familyi={S\bibinitperiod},
-           given={Hao},
-           giveni={H\bibinitperiod}}}%
-        {{hash=a80fa3d77624ab05e05847d984e235c3}{%
-           family={Sun},
-           familyi={S\bibinitperiod},
-           given={Qing},
-           giveni={Q\bibinitperiod}}}%
-        {{hash=1760ecdfac2410f4dcd45db7faa759b5}{%
-           family={Tonina},
-           familyi={T\bibinitperiod},
-           given={Daniele},
-           giveni={D\bibinitperiod}}}%
-        {{hash=29a793187217bb2075087677ab512a40}{%
-           family={Tubiello},
-           familyi={T\bibinitperiod},
-           given={Francesco\bibnamedelima N.},
-           giveni={F\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
-        {{hash=b4bbad7cdf0fa2a20f3b22e848d28dc7}{%
-           family={Werf},
-           familyi={W\bibinitperiod},
-           given={Guido\bibnamedelima R.},
-           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod},
-           prefix={van\bibnamedelima der},
-           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
-        {{hash=6160894ca78a8644b271df0f18e99392}{%
-           family={Vuichard},
-           familyi={V\bibinitperiod},
-           given={Nicolas},
-           giveni={N\bibinitperiod}}}%
-        {{hash=0311431642470a7b59cea4fbf9543da7}{%
-           family={Wang},
-           familyi={W\bibinitperiod},
-           given={Junjie},
-           giveni={J\bibinitperiod}}}%
-        {{hash=318f67d60a427023ddd528bd37cc1ab9}{%
-           family={Wells},
-           familyi={W\bibinitperiod},
-           given={Kelley\bibnamedelima C.},
-           giveni={K\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=181d257a09c7244850fd8853d34f323e}{%
-           family={Western},
-           familyi={W\bibinitperiod},
-           given={Luke\bibnamedelima M.},
-           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=0b7192f900fa1ae2efec10b535d1ac81}{%
-           family={Wilson},
-           familyi={W\bibinitperiod},
-           given={Chris},
-           giveni={C\bibinitperiod}}}%
-        {{hash=072ff71d88d1d37480dde2bddd460fb2}{%
-           family={Yang},
-           familyi={Y\bibinitperiod},
-           given={Jia},
-           giveni={J\bibinitperiod}}}%
-        {{hash=ecff557213d5c6739a6479a311daf1cd}{%
-           family={Yao},
-           familyi={Y\bibinitperiod},
-           given={Yuanzhi},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=4fa898010bbb713d0f7a57349d093368}{%
-           family={You},
-           familyi={Y\bibinitperiod},
-           given={Yang},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=7a555a6bf35aaa4676d6e351fdfa51a1}{%
-           family={Zhu},
-           familyi={Z\bibinitperiod},
-           given={Qing},
-           giveni={Q\bibinitperiod}}}%
       }
-      \strng{namehash}{4bed88b7725dada87e5f42aeb75a6c1c}
-      \strng{fullhash}{c4270b33363419e4df0a524702d9fecc}
-      \strng{bibnamehash}{4bed88b7725dada87e5f42aeb75a6c1c}
-      \strng{authorbibnamehash}{4bed88b7725dada87e5f42aeb75a6c1c}
-      \strng{authornamehash}{4bed88b7725dada87e5f42aeb75a6c1c}
-      \strng{authorfullhash}{c4270b33363419e4df0a524702d9fecc}
+      \strng{namehash}{33ca916ccd61202c89aa7500d89c7b35}
+      \strng{fullhash}{33ca916ccd61202c89aa7500d89c7b35}
+      \strng{bibnamehash}{33ca916ccd61202c89aa7500d89c7b35}
+      \strng{authorbibnamehash}{33ca916ccd61202c89aa7500d89c7b35}
+      \strng{authornamehash}{33ca916ccd61202c89aa7500d89c7b35}
+      \strng{authorfullhash}{33ca916ccd61202c89aa7500d89c7b35}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Earth System Science Data}
-      \field{number}{6}
-      \field{title}{Global nitrous oxide budget (1980--2020)}
-      \field{volume}{16}
-      \field{year}{2024}
-      \field{pages}{2543\bibrangedash 2604}
-      \range{pages}{62}
+      \field{journaltitle}{Nature}
+      \field{title}{A comprehensive quantification of global nitrous oxide sources and sinks}
+      \field{volume}{586}
+      \field{year}{2020}
+      \field{pages}{248\bibrangedash 256}
+      \range{pages}{9}
       \verb{doi}
-      \verb 10.5194/essd-16-2543-2024
+      \verb 10.1038/s41586-020-2780-0
       \endverb
     \endentry
     \entry{vangroenigen2015n2o}{article}{}
@@ -1726,8 +1082,8 @@
       \strng{authorbibnamehash}{2129b4c466ae51c51bd618031aee157f}
       \strng{authornamehash}{2129b4c466ae51c51bd618031aee157f}
       \strng{authorfullhash}{2129b4c466ae51c51bd618031aee157f}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Proceedings of the National Academy of Sciences}
@@ -1755,8 +1111,8 @@
       \strng{authorbibnamehash}{56e145e8f70192e123c180987985ea9b}
       \strng{authornamehash}{56e145e8f70192e123c180987985ea9b}
       \strng{authorfullhash}{56e145e8f70192e123c180987985ea9b}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Proceedings of the National Academy of Sciences}
@@ -1788,8 +1144,8 @@
       \strng{authorbibnamehash}{2b8deb5e24376ad1003d4a9de1e45384}
       \strng{authornamehash}{2b8deb5e24376ad1003d4a9de1e45384}
       \strng{authorfullhash}{2b8deb5e24376ad1003d4a9de1e45384}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Agriculture \& Food Security}
@@ -1966,36 +1322,6 @@
       \verb https://www.fao.org/statistics/highlights-archive/highlights-detail/greenhouse-gas-emissions-from-agrifood-systems
       \endverb
     \endentry
-    \entry{tian2020n2o}{article}{}
-      \true{moreauthor}
-      \true{morelabelname}
-      \name{author}{1}{}{%
-        {{hash=c4fb415354afcb9b873870264f4b6cd2}{%
-           family={Tian},
-           familyi={T\bibinitperiod},
-           given={Hanqin},
-           giveni={H\bibinitperiod}}}%
-      }
-      \strng{namehash}{33ca916ccd61202c89aa7500d89c7b35}
-      \strng{fullhash}{33ca916ccd61202c89aa7500d89c7b35}
-      \strng{bibnamehash}{33ca916ccd61202c89aa7500d89c7b35}
-      \strng{authorbibnamehash}{33ca916ccd61202c89aa7500d89c7b35}
-      \strng{authornamehash}{33ca916ccd61202c89aa7500d89c7b35}
-      \strng{authorfullhash}{33ca916ccd61202c89aa7500d89c7b35}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Nature}
-      \field{title}{A comprehensive quantification of global nitrous oxide sources and sinks}
-      \field{volume}{586}
-      \field{year}{2020}
-      \field{pages}{248\bibrangedash 256}
-      \range{pages}{9}
-      \verb{doi}
-      \verb 10.1038/s41586-020-2780-0
-      \endverb
-    \endentry
     \entry{crippa2021foodghg}{article}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -2051,8 +1377,8 @@
       \strng{authorbibnamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
       \strng{authornamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
       \strng{authorfullhash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Food and climate change: Healthy diets for a healthier planet}
@@ -2079,8 +1405,8 @@
       \strng{authorbibnamehash}{ebd2214471a4e1b7ea73f1a9cb90dfed}
       \strng{authornamehash}{ebd2214471a4e1b7ea73f1a9cb90dfed}
       \strng{authorfullhash}{ebd2214471a4e1b7ea73f1a9cb90dfed}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Quantifying methane emissions from landfilled food waste}
@@ -2291,8 +1617,8 @@
       \strng{authorbibnamehash}{0a9afdf9fa5c803410f4293d996309f2}
       \strng{authornamehash}{0a9afdf9fa5c803410f4293d996309f2}
       \strng{authorfullhash}{0a9afdf9fa5c803410f4293d996309f2}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Netherlands -- Agriculture}
@@ -2319,8 +1645,8 @@
       \strng{authorbibnamehash}{094e9e5585eae04fee84a991efb55f2f}
       \strng{authornamehash}{094e9e5585eae04fee84a991efb55f2f}
       \strng{authorfullhash}{094e9e5585eae04fee84a991efb55f2f}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{National Geographic}

@@ -1,0 +1,34 @@
+\section{Limitations and mitigations}\label{sec:limitations}
+
+\subsection{Energy intensity}
+
+The dominant weakness of controlled environment agriculture is electrical energy consumption. Lighting, HVAC, and humidity control all require electricity. If that electricity is generated from fossil fuels, the environmental benefit from reduced land use and water consumption may be partially or fully offset by increased carbon emissions.
+
+\textbf{Mitigation strategy:}
+
+\begin{itemize}
+  \item The species recommendation engine directly addresses this by recommending crops whose optimal growing conditions minimise the delta between ambient environment and required conditions --- thereby minimising heating, cooling, and supplemental lighting needs.
+  \item The system monitors and logs energy consumption per growth cycle, enabling users to make informed decisions about energy sourcing.
+  \item The platform is designed to integrate with solar photovoltaic systems. Where local solar generation is available, the system can shift energy-intensive operations (lighting, active climate control) to periods of surplus generation.
+  \item The whitepaper explicitly scopes the platform to crops where the environmental tradeoffs favour CEA even with grid electricity --- primarily water-intensive crops where the water savings alone justify the energy overhead.
+\end{itemize}
+
+The energy problem is not fully solved by this platform. In high-latitude climates with short winter days and fossil-fuel-dominated grids, the environmental case for fully artificial-light CEA is weak. The platform should be honest about this in its documentation and recommendation engine output.
+
+\subsection{Cold-start problem for the ML model}
+
+The growth optimisation model requires training data to be useful, but early deployments have no training data. The flywheel only works once the network is large enough to produce statistically useful data.
+
+\textbf{Mitigation:} The initial model is bootstrapped from existing published datasets (PlantVillage for CV; published hydroponic growth studies for the environmental optimisation model). The system is useful from day one --- it provides automated control and monitoring --- even before the ML model reaches meaningful optimisation capability. Early adopters are incentivised by automation, not optimisation.
+
+\subsection{Open-source hardware complexity}
+
+Open-source hardware is harder to distribute than software. Someone must fabricate components, assemble systems, and calibrate sensors.
+
+\textbf{Mitigation:} A tiered hardware support model is proposed (see Section~\ref{sec:hardware-tiers}). The project maintains a small number of fully validated reference configurations. Community-contributed BSPs and hardware variants are documented separately, with clear statements about their validation status.
+
+\subsection{Data governance and quality}
+
+A shared dataset is only as useful as the quality and consistency of the data it contains. Different sensor configurations, calibration procedures, and tagging conventions will degrade model quality if not managed.
+
+\textbf{Mitigation:} The data schema mandates a fixed set of tags for every telemetry record: \texttt{node\_id} (hashed), \texttt{species\_id} (from GBIF taxonomy), \texttt{climate\_zone} (Köppen classification), \texttt{growth\_stage}, and \texttt{hardware\_config} hash. The ingest service enforces schema validation before any record enters the commons. A data quality score is computed per node and used to weight training samples.

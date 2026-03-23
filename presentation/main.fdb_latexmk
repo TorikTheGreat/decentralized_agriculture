@@ -1,14 +1,14 @@
 # Fdb version 4
-["biber main"] 0 "main.bcf" "main.bbl" "main" 1773201202.48473 -1
-  "bibliography.bib" 1773194789.99297 13776 47fb3e3076f88483b5f42c242128a1b9 ""
-  "main.bcf" 1773201202.4257 108791 5801b22f5c7a50b78e8b05822a0aa928 "pdflatex"
+["biber main"] 1774131579.92345 "main.bcf" "main.bbl" "main" 1774231711.00324 0
+  "bibliography.bib" 1774131549.12712 14167 3b977af30058ed6987d45113cff0b00f ""
+  "main.bcf" 1774231710.93987 108906 5e96dc6dabfde9a093e0ae685e8e0d49 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1773201200.22309 "/home/marco/Desktop/proyectos/decentralized_agriculture/repo/decentralized_agriculture/presentation/main.tex" "main.pdf" "main" 1773201202.48493 0
+["pdflatex"] 1774231708.47958 "/home/marco/Desktop/proyectos/decentralized_agriculture/repo/decentralized_agriculture/presentation/main.tex" "main.pdf" "main" 1774231711.00345 0
   "/etc/texmf/web2c/texmf.cnf" 1767758574.17835 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/marco/Desktop/proyectos/decentralized_agriculture/repo/decentralized_agriculture/presentation/main.tex" 1773201200.0587 6344 4991a87c99f181353fdef968df540b63 ""
+  "/home/marco/Desktop/proyectos/decentralized_agriculture/repo/decentralized_agriculture/presentation/main.tex" 1774229494.35935 6390 1fa73a8730541bd2dc0e253c37d838b3 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -175,6 +175,7 @@
   "/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty" 1256071977 4523 a9044e2dc40e764dac60d2acda7ae919 ""
   "/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1579991033 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1601931149 46845 3b58f70c6e861a13d927bff09d35ecbc ""
+  "/usr/share/texlive/texmf-dist/tex/latex/fragments/subscript.sty" 1225037715 559 f53ca027b8fd1a58e07f25ca72d35de5 ""
   "/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty" 1578002852 41601 9cf6c5257b1bc7af01a58859749dd37a ""
   "/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg" 1459978653 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
   "/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1465944070 1224 978390e9c2234eab29404bc21b268d1e ""
@@ -226,13 +227,13 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1767758590.28437 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1767758679 8213493 e0c1d7ec2a3c9e8c3036bd8df7c9c512 ""
   "img/architecture_overview.png" 1773197548.17354 101361 8d41537c42c866ccda1acabb46de12c2 ""
-  "main.aux" 1773201202.4237 7907 19cf514a8b6feef66fcc31308e068e1b "pdflatex"
-  "main.bbl" 1773194793.49704 27804 0670946c2011b3418e56dcb33845e171 "biber main"
-  "main.nav" 1773201202.4257 2821 47d0faa2e156e68907964cb2170cad32 "pdflatex"
-  "main.out" 1773201202.4247 590 9672197ceeec3dc77b9bad8676469d28 "pdflatex"
-  "main.run.xml" 1773201202.4257 2404 e448bd39f241edac993cdd8a8bf2c7e0 "pdflatex"
-  "main.tex" 1773201200.0587 6344 4991a87c99f181353fdef968df540b63 ""
-  "main.toc" 1773201202.4257 227 17592547b0d2535219dd6902091fab48 "pdflatex"
+  "main.aux" 1774231710.93787 8009 1dc2a830da5d4a315017d8391ad080d4 "pdflatex"
+  "main.bbl" 1774131581.14918 31606 94cea45c5144f729178ce367877e8548 "biber main"
+  "main.nav" 1774231710.93987 2821 47d0faa2e156e68907964cb2170cad32 "pdflatex"
+  "main.out" 1774231710.93887 590 9672197ceeec3dc77b9bad8676469d28 "pdflatex"
+  "main.run.xml" 1774231710.93987 2404 e448bd39f241edac993cdd8a8bf2c7e0 "pdflatex"
+  "main.tex" 1774229494.35935 6390 1fa73a8730541bd2dc0e253c37d838b3 ""
+  "main.toc" 1774231710.93987 227 17592547b0d2535219dd6902091fab48 "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"

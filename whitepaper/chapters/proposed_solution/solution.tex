@@ -1,0 +1,48 @@
+\section{The proposed solution}
+
+\subsection{Concept overview}
+
+The platform is a small-scale, open-source, sensor-driven greenhouse with the following operational loop:
+
+\begin{enumerate}
+  \item A sensor array takes periodic measurements of all relevant environmental variables (temperature, relative humidity, CO\textsubscript{2} concentration, pH, electrical conductivity, and light intensity).
+  \item A camera periodically images the crop. A computer vision model extracts growth metrics, identifies disease symptoms, and can identify species.
+  \item An ML growth model --- trained on the shared dataset and running inference at the edge --- computes optimal environmental set-points to maximise yield while minimising resource consumption for the current species and growth stage.
+  \item A PID controller on a microcontroller drives the actuators (LED grow lights, circulation fans, nutrient dosing pumps, heating/cooling elements) to reach and maintain the computed set-points.
+  \item Anonymised telemetry is periodically uploaded to a shared data commons, where it is used to retrain models, which are then pushed back to all nodes via over-the-air updates.
+  \item A climate-aware species recommendation engine suggests crops whose optimal conditions best match the local ambient environment.
+\end{enumerate}
+
+All hardware, firmware, software, models, and data are open source.
+
+\subsection{Alignment with identified problems}
+
+The platform directly addresses the problems identified in the preceding section:
+
+\begin{center}
+\begin{tabular}{p{4.5cm}p{5.5cm}p{3cm}}
+\toprule
+\textbf{Problem} & \textbf{Mechanism} & \textbf{Type of impact} \\
+\midrule
+Land use / habitat loss & CEA yields 10--100$\times$ more per unit of land area than field farming & Direct \\
+Biodiversity loss & Reduced land pressure frees habitat; proximity reduces monoculture incentive & Direct \\
+Soil erosion and degradation & Soilless operation entirely bypasses tillage-driven erosion & Bypass \\
+Fertiliser and eutrophication & Closed nutrient loop with near-zero runoff & Direct \\
+Pesticide pollution & Enclosed environment is a physical pest barrier; greatly reduced need & Direct \\
+Monoculture & Platform enables diverse crop selection per node & Enables diversity \\
+Freshwater depletion & Hydroponic/aeroponic systems use 70--95\% less water than field agriculture & Direct \\
+GHG emissions & Reduced transport, waste, and land conversion; conditional on energy source & Conditional \\
+Transport and food waste & Proximity to consumers reduces both transport emissions and spoilage & Direct \\
+Supply-chain concentration & Network of many small producers is structurally more resilient & Direct \\
+Dietary diversity & Each node can grow different crops, supporting variety the industrial system cannot & Direct \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+The platform introduces one new risk not present in field agriculture: \textbf{energy intensity}. Controlled environment agriculture trades land and water efficiency for electrical energy consumption. Whether this trade is environmentally beneficial depends on the local energy mix. This is addressed in Section~\ref{sec:limitations}.
+
+\subsection{Scope and niche}
+
+The platform is not designed to replace all agriculture. It is designed for a specific, well-defined niche: \textbf{high-value, water-intensive, perishable crops grown in proximity to consumers}. This niche includes leafy greens, herbs, tomatoes, cucumbers, strawberries, peppers, and similar produce --- crops for which the transport, water, and pesticide savings of CEA are largest, and for which the calorie-per-watt ratio is most favourable relative to field alternatives.
+
+The platform does not target caloric staples (grains, legumes at scale) where field agriculture remains more energy-efficient per kilocalorie. However, it can meaningfully contribute to nutritional self-sufficiency at the household level, particularly when the species recommendation engine selects crops that optimise simultaneously for nutritional completeness and energy efficiency.

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.1.6)  24 FEB 2026 19:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.1.6)  22 MAR 2026 21:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -508,57 +508,76 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 \tcb@temp=\box76
 ) (/usr/share/texlive/texmf-dist/tex/latex/gensymb/gensymb.sty
 Package: gensymb 2022/10/17 v1.0.2 (KJH)
+) (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen277
+\lightrulewidth=\dimen278
+\cmidrulewidth=\dimen279
+\belowrulesep=\dimen280
+\belowbottomsep=\dimen281
+\aboverulesep=\dimen282
+\abovetopsep=\dimen283
+\cmidrulesep=\dimen284
+\cmidrulekern=\dimen285
+\defaultaddspace=\dimen286
+\@cmidla=\count326
+\@cmidlb=\count327
+\@aboverulesep=\dimen287
+\@belowrulesep=\dimen288
+\@thisruleclass=\count328
+\@lastruleclass=\count329
+\@thisrulewidth=\dimen289
 ) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
  (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count326
+\lrq@indent=\count330
  (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-\c@tabx@nest=\count327
-\c@listtotal=\count328
-\c@listcount=\count329
-\c@liststart=\count330
-\c@liststop=\count331
-\c@citecount=\count332
-\c@citetotal=\count333
-\c@multicitecount=\count334
-\c@multicitetotal=\count335
-\c@instcount=\count336
-\c@maxnames=\count337
-\c@minnames=\count338
-\c@maxitems=\count339
-\c@minitems=\count340
-\c@citecounter=\count341
-\c@maxcitecounter=\count342
-\c@savedcitecounter=\count343
-\c@uniquelist=\count344
-\c@uniquename=\count345
-\c@refsection=\count346
-\c@refsegment=\count347
-\c@maxextratitle=\count348
-\c@maxextratitleyear=\count349
-\c@maxextraname=\count350
-\c@maxextradate=\count351
-\c@maxextraalpha=\count352
-\c@abbrvpenalty=\count353
-\c@highnamepenalty=\count354
-\c@lownamepenalty=\count355
-\c@maxparens=\count356
-\c@parenlevel=\count357
-\blx@tempcnta=\count358
-\blx@tempcntb=\count359
-\blx@tempcntc=\count360
-\c@blx@maxsection=\count361
-\blx@maxsegment@0=\count362
-\blx@notetype=\count363
-\blx@parenlevel@text=\count364
-\blx@parenlevel@foot=\count365
-\blx@sectionciteorder@0=\count366
-\blx@sectionciteorderinternal@0=\count367
-\blx@entrysetcounter=\count368
-\blx@biblioinstance=\count369
+\c@tabx@nest=\count331
+\c@listtotal=\count332
+\c@listcount=\count333
+\c@liststart=\count334
+\c@liststop=\count335
+\c@citecount=\count336
+\c@citetotal=\count337
+\c@multicitecount=\count338
+\c@multicitetotal=\count339
+\c@instcount=\count340
+\c@maxnames=\count341
+\c@minnames=\count342
+\c@maxitems=\count343
+\c@minitems=\count344
+\c@citecounter=\count345
+\c@maxcitecounter=\count346
+\c@savedcitecounter=\count347
+\c@uniquelist=\count348
+\c@uniquename=\count349
+\c@refsection=\count350
+\c@refsegment=\count351
+\c@maxextratitle=\count352
+\c@maxextratitleyear=\count353
+\c@maxextraname=\count354
+\c@maxextradate=\count355
+\c@maxextraalpha=\count356
+\c@abbrvpenalty=\count357
+\c@highnamepenalty=\count358
+\c@lownamepenalty=\count359
+\c@maxparens=\count360
+\c@parenlevel=\count361
+\blx@tempcnta=\count362
+\blx@tempcntb=\count363
+\blx@tempcntc=\count364
+\c@blx@maxsection=\count365
+\blx@maxsegment@0=\count366
+\blx@notetype=\count367
+\blx@parenlevel@text=\count368
+\blx@parenlevel@foot=\count369
+\blx@sectionciteorder@0=\count370
+\blx@sectionciteorderinternal@0=\count371
+\blx@entrysetcounter=\count372
+\blx@biblioinstance=\count373
 \labelnumberwidth=\skip57
 \labelalphawidth=\skip58
 \biblabelsep=\skip59
@@ -570,9 +589,9 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \blx@bcfin=\read4
 \blx@bcfout=\write4
 \blx@langwohyphens=\language89
-\c@mincomprange=\count370
-\c@maxcomprange=\count371
-\c@mincompwidth=\count372
+\c@mincomprange=\count374
+\c@maxcomprange=\count375
+\c@mincompwidth=\count376
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
  (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
@@ -582,74 +601,74 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'ieee.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count373
-\c@savedafterword=\count374
-\c@annotator=\count375
-\c@savedannotator=\count376
-\c@author=\count377
-\c@savedauthor=\count378
-\c@bookauthor=\count379
-\c@savedbookauthor=\count380
-\c@commentator=\count381
-\c@savedcommentator=\count382
-\c@editor=\count383
-\c@savededitor=\count384
-\c@editora=\count385
-\c@savededitora=\count386
-\c@editorb=\count387
-\c@savededitorb=\count388
-\c@editorc=\count389
-\c@savededitorc=\count390
-\c@foreword=\count391
-\c@savedforeword=\count392
-\c@holder=\count393
-\c@savedholder=\count394
-\c@introduction=\count395
-\c@savedintroduction=\count396
-\c@namea=\count397
-\c@savednamea=\count398
-\c@nameb=\count399
-\c@savednameb=\count400
-\c@namec=\count401
-\c@savednamec=\count402
-\c@translator=\count403
-\c@savedtranslator=\count404
-\c@shortauthor=\count405
-\c@savedshortauthor=\count406
-\c@shorteditor=\count407
-\c@savedshorteditor=\count408
-\c@labelname=\count409
-\c@savedlabelname=\count410
-\c@institution=\count411
-\c@savedinstitution=\count412
-\c@lista=\count413
-\c@savedlista=\count414
-\c@listb=\count415
-\c@savedlistb=\count416
-\c@listc=\count417
-\c@savedlistc=\count418
-\c@listd=\count419
-\c@savedlistd=\count420
-\c@liste=\count421
-\c@savedliste=\count422
-\c@listf=\count423
-\c@savedlistf=\count424
-\c@location=\count425
-\c@savedlocation=\count426
-\c@organization=\count427
-\c@savedorganization=\count428
-\c@origlocation=\count429
-\c@savedoriglocation=\count430
-\c@origpublisher=\count431
-\c@savedorigpublisher=\count432
-\c@publisher=\count433
-\c@savedpublisher=\count434
-\c@language=\count435
-\c@savedlanguage=\count436
-\c@origlanguage=\count437
-\c@savedoriglanguage=\count438
-\c@pageref=\count439
-\c@savedpageref=\count440
+\c@afterword=\count377
+\c@savedafterword=\count378
+\c@annotator=\count379
+\c@savedannotator=\count380
+\c@author=\count381
+\c@savedauthor=\count382
+\c@bookauthor=\count383
+\c@savedbookauthor=\count384
+\c@commentator=\count385
+\c@savedcommentator=\count386
+\c@editor=\count387
+\c@savededitor=\count388
+\c@editora=\count389
+\c@savededitora=\count390
+\c@editorb=\count391
+\c@savededitorb=\count392
+\c@editorc=\count393
+\c@savededitorc=\count394
+\c@foreword=\count395
+\c@savedforeword=\count396
+\c@holder=\count397
+\c@savedholder=\count398
+\c@introduction=\count399
+\c@savedintroduction=\count400
+\c@namea=\count401
+\c@savednamea=\count402
+\c@nameb=\count403
+\c@savednameb=\count404
+\c@namec=\count405
+\c@savednamec=\count406
+\c@translator=\count407
+\c@savedtranslator=\count408
+\c@shortauthor=\count409
+\c@savedshortauthor=\count410
+\c@shorteditor=\count411
+\c@savedshorteditor=\count412
+\c@labelname=\count413
+\c@savedlabelname=\count414
+\c@institution=\count415
+\c@savedinstitution=\count416
+\c@lista=\count417
+\c@savedlista=\count418
+\c@listb=\count419
+\c@savedlistb=\count420
+\c@listc=\count421
+\c@savedlistc=\count422
+\c@listd=\count423
+\c@savedlistd=\count424
+\c@liste=\count425
+\c@savedliste=\count426
+\c@listf=\count427
+\c@savedlistf=\count428
+\c@location=\count429
+\c@savedlocation=\count430
+\c@organization=\count431
+\c@savedorganization=\count432
+\c@origlocation=\count433
+\c@savedoriglocation=\count434
+\c@origpublisher=\count435
+\c@savedorigpublisher=\count436
+\c@publisher=\count437
+\c@savedpublisher=\count438
+\c@language=\count439
+\c@savedlanguage=\count440
+\c@origlanguage=\count441
+\c@savedoriglanguage=\count442
+\c@pageref=\count443
+\c@savedpageref=\count444
 \shorthandwidth=\skip65
 \shortjournalwidth=\skip66
 \shortserieswidth=\skip67
@@ -673,19 +692,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-\c@textcitecount=\count441
-\c@textcitetotal=\count442
-\c@textcitemaxnames=\count443
-\c@biburlbigbreakpenalty=\count444
-\c@biburlbreakpenalty=\count445
-\c@biburlnumpenalty=\count446
-\c@biburlucpenalty=\count447
-\c@biburllcpenalty=\count448
+\c@textcitecount=\count445
+\c@textcitetotal=\count446
+\c@textcitemaxnames=\count447
+\c@biburlbigbreakpenalty=\count448
+\c@biburlbreakpenalty=\count449
+\c@biburlnumpenalty=\count450
+\c@biburlucpenalty=\count451
+\c@biburllcpenalty=\count452
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count449
+\c@smartand=\count453
 )
 Package biblatex Info: Trying to load bibliography style 'ieee'...
 Package biblatex Info: ... file 'ieee.bbx' found.
@@ -703,8 +722,8 @@ Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count450
-\c@bbx:relatedtotal=\count451
+\c@bbx:relatedcount=\count454
+\c@bbx:relatedtotal=\count455
 ))))
 Package biblatex Info: Trying to load citation style 'ieee'...
 Package biblatex Info: ... file 'ieee.cbx' found.
@@ -714,10 +733,10 @@ Package biblatex Info: Trying to load citation style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.cbx' found.
  (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
 File: numeric-comp.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
-\c@cbx@tempcnta=\count452
-\c@cbx@tempcntb=\count453
-\c@cbx@tempcntc=\count454
-\c@cbx@tempcntd=\count455
+\c@cbx@tempcnta=\count456
+\c@cbx@tempcntb=\count457
+\c@cbx@tempcntc=\count458
+\c@cbx@tempcntd=\count459
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -745,7 +764,7 @@ Package biblatex Info: Document encoding is UTF8 ....
 Package: expl3 2024-01-22 L3 programming layer (loader) 
  (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count456
+\l__color_backend_stack_int=\count460
 \l__pdf_internal_box=\box77
 ))
 Package biblatex Info: ... and expl3
@@ -759,29 +778,29 @@ Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
 )) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
 )
-\@quotelevel=\count457
-\@quotereset=\count458
+\@quotelevel=\count461
+\@quotereset=\count462
  (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -817,19 +836,19 @@ LaTeX Font Info:    ... okay on input line 49.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@lstlisting=\count459
+\c@lstlisting=\count463
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count460
-\scratchdimen=\dimen277
+\scratchcounter=\count464
+\scratchdimen=\dimen290
 \scratchbox=\box78
-\nofMPsegments=\count461
-\nofMParguments=\count462
+\nofMPsegments=\count465
+\nofMParguments=\count466
 \everyMPshowfont=\toks43
-\MPscratchCnt=\count463
-\MPscratchDim=\dimen278
-\MPnumerator=\count464
-\makeMPintoPDFobject=\count465
+\MPscratchCnt=\count467
+\MPscratchDim=\dimen291
+\MPnumerator=\count468
+\makeMPintoPDFobject=\count469
 \everyMPtoPDFconversion=\toks44
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -837,19 +856,19 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 49.
+Package hyperref Info: Link coloring OFF on input line 50.
  (./main.out) (./main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
-LaTeX Info: Redefining \celsius on input line 49.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 49.
+LaTeX Info: Redefining \celsius on input line 50.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 50.
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 49.
-Package gensymb Info: Using \Omega for \ohm on input line 49.
+LaTeX Info: Redefining \ohm on input line 50.
+Package gensymb Info: Using \Omega for \ohm on input line 50.
 
 Package gensymb Warning: Not defining \micro.
 
@@ -866,49 +885,289 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 49.
-Package biblatex Info: Reference segment=0 on input line 49.
+Package biblatex Info: Reference section=0 on input line 50.
+Package biblatex Info: Reference segment=0 on input line 50.
  (./cover.tex
-<pictures/publicdomain.png, id=55, 2890.8pt x 1018.80624pt>
+<pictures/publicdomain.png, id=248, 2890.8pt x 1018.80624pt>
 File: pictures/publicdomain.png Graphic file (type png)
 <use pictures/publicdomain.png>
 Package pdftex.def Info: pictures/publicdomain.png  used on input line 27.
 (pdftex.def)             Requested size: 161.4426pt x 56.9055pt.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./pictures/publicdomain.png>]) (./main.toc)
-\tf@toc=\write6
-\openout6 = `main.toc'.
-
-
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./pictures/publicdomain.png>]) (./main.toc
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.54 \newpage
-              [1] (./chapters/abstract/abstract.tex) [2] (./chapters/introduction/intro.tex) [3] (./chapters/problem/problem.tex [4]) [5] (./chapters/background/background.tex) [6] (./chapters/proposed_solution/solution.tex) [7] (./main.aux)
+l.36 ...e node: MCU/SBC split}{19}{subsection.7.2}
+                                                  % [1])
+\tf@toc=\write6
+\openout6 = `main.toc'.
+
+ [2] (./chapters/abstract/abstract.tex) [3] (./chapters/introduction/intro.tex) [4] (./chapters/problem/problem.tex [5] [6] [7] [8{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [9]) [10] (./chapters/background/background.tex [11]) [12] (./chapters/proposed_solution/solution.tex
+Underfull \hbox (badness 1997) in paragraph at lines 29--29
+[]\OT1/cmr/m/n/10.95 Soilless op-er-a-tion en-tirely by-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+[]\OT1/cmr/m/n/10.95 Hydroponic/aeroponic sys-tems
+ []
+
+
+Underfull \hbox (badness 2617) in paragraph at lines 35--35
+\OT1/cmr/m/n/10.95 both trans-port emis-sions and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+[]\OT1/cmr/m/n/10.95 Supply-chain con-cen-tra-
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 37--37
+[]\OT1/cmr/m/n/10.95 Each node can grow dif-fer-ent
+ []
+
+[13] [14]) [15] (./chapters/nutritional/nutritional.tex) [16] (./chapters/limitations/limitations.tex [17]) [18] (./chapters/system/system.tex [19]
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+[]\OT1/cmr/m/n/10.95 Consistent Over-head Byte
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+[]\OT1/cmr/m/n/10.95 CMake with per-target
+ []
+
+
+Underfull \hbox (badness 6542) in paragraph at lines 73--74
+[]\OT1/cmr/m/n/10.95 Supports ESP32, RP2040,
+ []
+
+[20]
+Underfull \hbox (badness 1194) in paragraph at lines 85--86
+[]\OT1/cmr/m/n/10.95 Reproducible, min-i-mal em-bed-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
+[]\OT1/cmr/m/n/10.95 OpenCV + ONNX
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 87--88
+[]\OT1/cmr/m/n/10.95 OpenCV han-dles cap-ture and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+[]\OT1/cmr/m/n/10.95 Local time-series
+ []
+
+
+Underfull \hbox (badness 6625) in paragraph at lines 88--88
+[]\OT1/cmr/m/n/10.95 InfluxDB (or SQLite
+ []
+
+
+Underfull \hbox (badness 2189) in paragraph at lines 89--89
+[]\OT1/cmr/m/n/10.95 Serial + Pro-to-buf or
+ []
+
+
+Underfull \hbox (badness 1275) in paragraph at lines 89--90
+\OT1/cmr/m/n/10.95 both sides to evolve in-de-pen-
+ []
+
+
+Underfull \hbox (badness 4726) in paragraph at lines 90--90
+[]\OT1/cmr/m/n/10.95 FastAPI (Python) or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+[]\OT1/cmr/m/n/10.95 FastAPI: quick de-vel-op-ment.
+ []
+
+
+Underfull \hbox (badness 2990) in paragraph at lines 91--92
+[]\OT1/cmr/m/n/10.95 HTMX pre-ferred: avoids JS
+ []
+
+[21]
+Underfull \hbox (badness 5231) in paragraph at lines 116--117
+[]\OT1/cmr/m/n/10.95 Dominant in re-search; good
+ []
+
+
+Underfull \hbox (badness 6157) in paragraph at lines 117--117
+[]\OT1/cmr/m/n/10.95 Gaussian Pro-cess re-
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 117--118
+[]\OT1/cmr/m/n/10.95 GP: in-ter-pretable, works with
+ []
+
+
+Underfull \hbox (badness 3690) in paragraph at lines 118--119
+\OT1/cmr/m/n/10.95 fine-tuned on PlantVil-lage +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--119
+[]\OT1/cmr/m/n/10.95 Species rec-om-
+ []
+
+
+Underfull \hbox (badness 7814) in paragraph at lines 119--119
+[]\OT1/cmr/m/n/10.95 Constrained op-ti-mi-sa-
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 119--120
+[]\OT1/cmr/m/n/10.95 Not ML --- struc-tured search
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+\OT1/cmr/m/n/10.95 over a crop re-quire-ments
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--120
+[]\OT1/cmr/m/n/10.95 MQTT bro-ker $\OMS/cmsy/m/n/10.95 !$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+[]\OT1/cmr/m/n/10.95 MinIO (self-hostable,
+ []
+
+
+Underfull \hbox (badness 5563) in paragraph at lines 121--122
+[]\OT1/cmr/m/n/10.95 Critical for open-source self-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--123
+[]\OT1/cmr/m/n/10.95 GitHub Ac-tions +
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 124--125
+[]\OT1/cmr/m/n/10.95 Avoid cloud provider lock-in;
+ []
+
+[22] [23]
+Underfull \hbox (badness 10000) in paragraph at lines 162--162
+[]\OT1/cmr/m/n/10.95 string (GBIF taxon
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+[]\OT1/cmr/m/n/10.95 Electrical con-duc-tiv-ity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+[]\OT1/cmr/m/n/10.95 Daily Light In-te-gral
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--192
+[]\OT1/cmr/m/n/10.95 Per-plant bound-ing boxes
+ []
+
+[24] [25]) [26] (./chapters/open_source/open_source.tex
+Overfull \hbox (3.60808pt too wide) in paragraph at lines 33--33
+[]\OT1/cmr/bx/n/10.95 Confidence| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+[]\OT1/cmr/m/n/10.95 Deployment reaches
+ []
+
+
+Underfull \hbox (badness 1675) in paragraph at lines 37--38
+[]\OT1/cmr/m/n/10.95 Not a re-me-di-a-tion of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+[]\OT1/cmr/m/n/10.95 Closed-loop nu-tri-ent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+\OT1/cmr/m/n/10.95 man-age-ment im-ple-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+[]\OT1/cmr/m/n/10.95 Enclosed en-vi-ron-ment
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 40--41
+[]\OT1/cmr/m/n/10.95 Depends on user and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+[]\OT1/cmr/m/n/10.95 Hydroponic/aeroponic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+[]\OT1/cmr/m/n/10.95 Conditional on low-
+ []
+
+
+Underfull \hbox (badness 4144) in paragraph at lines 43--44
+[]\OT1/cmr/m/n/10.95 Local de-ploy-ment re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+[]\OT1/cmr/m/n/10.95 Supply-chain con-cen-tra-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+[]\OT1/cmr/bx/n/10.95 Risk in-tro-
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 46--47
+\OT1/cmr/bx/n/10.95 mender; not elim-i-
+ []
+
+[27]) [28] [29] [30] [31] [32] [33] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: E736561B50B38D1C3B8B23E78BB78C7F;1883.
+(rerunfilecheck)             Checksum: 614B8B86A9417D791BD1FCC9F8875361;10685.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31525 strings out of 474222
- 609472 string characters out of 5748734
- 1934975 words of memory out of 5000000
- 53301 multiletter control sequences out of 15000+600000
- 564114 words of font info for 57 fonts, out of 8000000 for 9000
+ 31991 strings out of 474222
+ 622240 string characters out of 5748734
+ 1943975 words of memory out of 5000000
+ 53599 multiletter control sequences out of 15000+600000
+ 566128 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,5n,101p,2503b,1375s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (8 pages, 188813 bytes).
+ 99i,12n,101p,2503b,1514s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on main.pdf (34 pages, 339011 bytes).
 PDF statistics:
- 193 PDF objects out of 1000 (max. 8388607)
- 161 compressed objects within 2 object streams
- 28 named destinations out of 1000 (max. 500000)
- 114 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 796 PDF objects out of 1000 (max. 8388607)
+ 722 compressed objects within 8 object streams
+ 169 named destinations out of 1000 (max. 500000)
+ 498 words of extra memory for PDF output out of 10000 (max. 10000000)
 

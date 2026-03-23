@@ -1,0 +1,238 @@
+\section{System architecture}
+
+\subsection{Overview}
+
+The system has three physical tiers:
+
+\begin{enumerate}
+  \item \textbf{Greenhouse node} --- embedded hardware (MCU + SBC) inside the greenhouse.
+  \item \textbf{Edge gateway} --- the SBC itself, running Linux, hosting the local API, data store, and edge ML runtime.
+  \item \textbf{Cloud commons} --- optional, self-hostable, handling data aggregation, model training, and OTA distribution.
+\end{enumerate}
+
+The node and gateway operate fully offline. The cloud connection is asynchronous and optional. All user data is anonymised before leaving the local network.
+
+\subsection{The greenhouse node: MCU/SBC split}
+
+The node contains two levels of compute with fundamentally different requirements.
+
+\textbf{MCU subsystem (hard real-time):}
+\begin{itemize}
+  \item Sensor polling at configurable intervals (temperature, humidity, CO\textsubscript{2}, pH, EC, light).
+  \item PID control loop --- continuously running, must not be interrupted.
+  \item Actuator drivers (PWM for LED lights, relay control for pumps and fans).
+  \item Set-point receiver: accepts target values from the SBC via UART/I2C.
+  \item Safety watchdog: if the SBC goes silent, holds actuators at last known safe set-points.
+\end{itemize}
+
+\textbf{SBC subsystem (latency-tolerant, Linux):}
+\begin{itemize}
+  \item Camera capture and CV inference pipeline.
+  \item Edge ML runtime (ONNX Runtime): runs the growth model and produces set-point recommendations.
+  \item Set-point planner: translates model output into PID target values.
+  \item Local time-series store: ring buffer of all sensor readings and camera metadata.
+  \item Local REST API: serves the user dashboard and receives configuration.
+  \item Sync agent: handles asynchronous telemetry upload and OTA model download.
+\end{itemize}
+
+The MCU/SBC split is a deliberate safety design. A kernel panic, a slow CV inference job, or an OTA update on the SBC cannot destabilise the physical environment --- the MCU continues running the PID loop with its last-known set-points until the SBC recovers.
+
+\subsection{The data flywheel}
+
+The cloud commons implements the learning loop:
+
+\begin{enumerate}
+  \item Deployed nodes periodically upload anonymised telemetry (sensor readings, growth stage, yield estimates, energy consumption) to the ingest service.
+  \item The ingest service validates schema, anonymises any remaining identifiers, and writes records to the time-series data store and image object store.
+  \item A training pipeline continuously retrains the growth model and CV model on the growing dataset.
+  \item Trained models are published to the model registry with version numbers.
+  \item The OTA update service pushes new model versions to nodes, which download and apply them without interrupting operation.
+\end{enumerate}
+
+The species recommender is not an ML model. It is a constrained optimisation over a structured database of crop requirements, filtered by local climate data and energy cost estimates. This makes it interpretable and auditable without needing training data.
+
+\subsection{Offline-first principle}
+
+The system is designed to be fully functional without any internet connection. A user who never connects to the cloud commons loses only the improving models and the species recommendation service --- all monitoring, control, and local data logging work offline. This is essential for the project's goal of being deployable anywhere, including locations with poor connectivity.
+
+% -------------------------------------------------------
+
+\section{Technology stack}
+
+\subsection{Embedded firmware (MCU)}
+
+\begin{center}
+\begin{tabular}{p{3.5cm}p{5cm}p{5cm}}
+\toprule
+\textbf{Concern} & \textbf{Choice} & \textbf{Rationale} \\
+\midrule
+Language & C / C++ (Rust viable for safety-critical paths) & Non-negotiable for bare-metal MCU targets \\
+RTOS & FreeRTOS (primary); Zephyr RTOS (alternative) & FreeRTOS: mature, MIT licence. Zephyr: better multi-arch HAL abstraction \\
+PID implementation & Custom, runtime-configurable gains & Simple enough to build and test in-house; avoids unnecessary dependencies \\
+Serial protocol & UART/I2C with COBS framing & Consistent Overhead Byte Stuffing gives reliable framing with minimal overhead \\
+Multi-arch build & CMake with per-target toolchain files & Supports ESP32, RP2040, STM32 from a single codebase via platform abstraction layer \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\subsection{Edge gateway (SBC, Linux)}
+
+\begin{center}
+\begin{tabular}{p{3.5cm}p{4cm}p{5.5cm}}
+\toprule
+\textbf{Concern} & \textbf{Choice} & \textbf{Rationale} \\
+\midrule
+OS build system & Yocto Project & Reproducible, minimal embedded Linux; multiple BSPs as separate Yocto layers \\
+Edge ML runtime & ONNX Runtime & Best cross-architecture support (x86, ARM64, ARM32); accepts PyTorch and TensorFlow exports \\
+CV framework & OpenCV + ONNX Runtime & OpenCV handles capture and preprocessing; ONNX Runtime runs model inference \\
+Local time-series store & InfluxDB (or SQLite ring buffer) & InfluxDB: purpose-built for sensor telemetry. SQLite: lighter alternative for constrained hardware \\
+MCU--SBC IPC & Serial + Protobuf or MessagePack & Versioned binary schema allows both sides to evolve independently \\
+Local API & FastAPI (Python) or Axum (Rust) & FastAPI: quick development. Axum: lower memory overhead for constrained SBCs \\
+Local dashboard & React or HTMX & HTMX preferred: avoids JS build toolchain on a device users flash, not develop on \\
+OTA update client & SWUpdate or RAUC & Mature A/B update frameworks for embedded Linux; safe rollback on failure \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\subsection{Hardware support tiers}\label{sec:hardware-tiers}
+
+To manage the complexity of multi-platform support without overcommitting the core team:
+
+\begin{itemize}
+  \item \textbf{Tier~1 (fully supported):} 2--3 reference hardware configurations validated by the core team on every release. Failures here block release.
+  \item \textbf{Tier~2 (community supported):} Additional BSPs and hardware variants maintained by contributors. Best-effort validation. Status clearly documented.
+\end{itemize}
+
+This mirrors the approach used by mature embedded Linux projects such as OpenWRT and Buildroot.
+
+\subsection{Cloud / data commons}
+
+\begin{center}
+\begin{tabular}{p{3.5cm}p{4cm}p{5.5cm}}
+\toprule
+\textbf{Concern} & \textbf{Choice} & \textbf{Rationale} \\
+\midrule
+Language & Python & Standard for ML pipelines \\
+ML framework & PyTorch & Dominant in research; good ONNX export support \\
+Growth model & Gaussian Process regression $\to$ neural surrogate & GP: interpretable, works with small datasets, provides uncertainty estimates. Transition to neural surrogate as data volume grows \\
+CV model & EfficientNet-B0 or MobileNetV3 (fine-tuned) & Small enough to run on SBC; fine-tuned on PlantVillage + community dataset \\
+Species recommender & Constrained optimisation (scipy / OR-Tools) & Not ML --- structured search over a crop requirements database. More interpretable, no training data needed \\
+Data ingestion & MQTT broker $\to$ TimescaleDB (or Kafka for high volume) & TimescaleDB is a PostgreSQL extension; familiar to most contributors \\
+Image storage & MinIO (self-hostable, S3-compatible) & Critical for open-source self-hosting \\
+Model registry & MLflow & Tracks experiments, stores model versions, provides serving API \\
+CI/CD & GitHub Actions + hardware-in-loop tests & Firmware CI builds all Tier~1 targets on every PR; at least one physical test node in CI \\
+Hosting & Fly.io, Railway, or Hetzner VPS & Avoid cloud provider lock-in; entire stack should be \texttt{docker compose up}-able \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\subsection{Licences}
+
+\begin{center}
+\begin{tabular}{ll}
+\toprule
+\textbf{Asset} & \textbf{Licence} \\
+\midrule
+Firmware and software & AGPL-3.0 \\
+Hardware reference designs & CERN OHL-S v2 \\
+Trained models & Apache 2.0 \\
+Dataset & CC-BY 4.0 \\
+Documentation & CC-BY 4.0 \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+AGPL-3.0 for software ensures that cloud forks must open-source their modifications. CERN OHL-S is the standard for open hardware. Apache 2.0 for models allows broad use while requiring attribution. CC-BY 4.0 for data and documentation maximises reusability.
+
+% -------------------------------------------------------
+
+\section{The data schema}
+
+Every telemetry record must carry the following mandatory fields. This schema is enforced by the ingest service and is version-controlled.
+
+\subsection{Sensor telemetry record}
+
+\begin{center}
+\begin{tabular}{p{4cm}p{4cm}p{5cm}}
+\toprule
+\textbf{Field} & \textbf{Type} & \textbf{Description} \\
+\midrule
+\texttt{node\_id} & string (SHA-256 hash) & Anonymised node identifier \\
+\texttt{timestamp} & ISO 8601 UTC & Measurement time \\
+\texttt{species\_id} & string (GBIF taxon key) & Crop species being grown \\
+\texttt{climate\_zone} & string (Köppen) & Local climate classification \\
+\texttt{growth\_stage} & enum & seedling / vegetative / flowering / fruiting / harvest \\
+\texttt{hardware\_config} & string (hash) & Hash of sensor and actuator configuration \\
+\texttt{temperature\_c} & float & Air temperature (\degree C) \\
+\texttt{humidity\_pct} & float & Relative humidity (\%) \\
+\texttt{co2\_ppm} & float & CO\textsubscript{2} concentration (ppm) \\
+\texttt{ph} & float & Nutrient solution pH \\
+\texttt{ec\_ms\_cm} & float & Electrical conductivity (mS/cm) \\
+\texttt{light\_mol\_m2\_d} & float & Daily Light Integral (mol/m\textsuperscript{2}/day) \\
+\texttt{energy\_kwh} & float & Energy consumed since last record \\
+\texttt{actuator\_states} & JSON object & Current state of all actuators \\
+\texttt{set\_points} & JSON object & Current PID target values \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\subsection{Image record}
+
+\begin{center}
+\begin{tabular}{p{4cm}p{4cm}p{5cm}}
+\toprule
+\textbf{Field} & \textbf{Type} & \textbf{Description} \\
+\midrule
+\texttt{image\_id} & UUID & Unique image identifier \\
+\texttt{node\_id} & string (hash) & Linked node \\
+\texttt{timestamp} & ISO 8601 UTC & Capture time \\
+\texttt{species\_id} & string (GBIF) & Crop species \\
+\texttt{growth\_stage} & enum & As above \\
+\texttt{bounding\_boxes} & JSON array & Per-plant bounding boxes where available \\
+\texttt{cv\_annotations} & JSON object & Model outputs: growth score, disease flags, confidence \\
+\texttt{image\_path} & string & Path in object store \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+% -------------------------------------------------------
+
+\section{The climate-aware species recommender}
+
+\subsection{Concept}
+
+The species recommender is the component that addresses the energy problem most directly. Rather than specifying a fixed set of crops and conditioning the environment to suit them, it inverts the relationship: given a local climate profile, it finds the crops whose requirements best match what the environment already provides, minimising the energy needed to close the gap.
+
+\subsection{Input variables}
+
+\begin{itemize}
+  \item Local ambient temperature profile (monthly min/max/mean).
+  \item Local humidity profile.
+  \item Local solar radiation / DLI profile.
+  \item Greenhouse construction type (passive solar / supplemental lighting / full artificial).
+  \item Energy source and cost (grid / solar / mixed).
+  \item Available floor area and stacking capability.
+  \item Nutritional objectives (user-specified or defaulting to WHO micronutrient completeness).
+\end{itemize}
+
+\subsection{Output}
+
+For a given configuration, the recommender outputs a ranked list of species with:
+
+\begin{itemize}
+  \item Estimated energy cost per kg of yield.
+  \item Estimated yield per m\textsuperscript{2} per year.
+  \item Nutritional contribution score.
+  \item Optimal growing season (or year-round if climate allows).
+  \item Suggested crop rotation or companion planting combinations.
+\end{itemize}
+
+\subsection{Why this is not an ML model}
+
+The recommender is implemented as a constrained optimisation over a structured crop database, not as a learned model. This is a deliberate choice: the decision is deterministic and auditable, the database of crop requirements can be curated and cited from agronomic literature, and the system produces useful recommendations from day one without needing training data.
+
+The database is itself open and versioned, enabling community contributions and corrections. Species entries include: optimal temperature range, optimal humidity range, minimum DLI, nutrient requirements, typical yield per m\textsuperscript{2}/year under CEA, water requirement, and days to harvest.
+
+\subsection{Climate adaptation over time}
+
+As local climates shift, the recommender naturally recalibrates --- suggesting different species as the ambient temperature envelope changes. This gives the platform a long-term climate resilience property: it adapts to a changing environment rather than becoming obsolete as growing conditions shift.

@@ -1,0 +1,61 @@
+\section{Open-source strategy}
+
+\subsection{The data commons as the core asset}
+
+The most valuable long-term output of the project may not be the hardware design or even the software --- it may be the \textbf{shared open dataset}. A large, well-structured, openly licensed dataset of plant growth under controlled conditions, tagged with species, sensor readings, yield outcomes, disease events, and energy consumption, would be a genuinely novel resource. Nothing comparable currently exists for small-scale CEA at the level of granularity this system produces.
+
+This dataset has value to researchers, plant breeders, agronomists, and other engineers independently of any single product. It should be treated as a first-class project output, not a by-product.
+
+\subsection{Community governance}
+
+The project should establish governance structures from the outset to prevent the data commons from becoming a de-facto proprietary asset:
+
+\begin{itemize}
+  \item The dataset is hosted on infrastructure that the community can mirror.
+  \item Model weights are published with provenance (which dataset version, which training run).
+  \item The species database is a separately maintained community project.
+  \item Ingest schema changes require a deprecation period and community discussion.
+\end{itemize}
+
+\subsection{Self-hostability}
+
+The entire cloud stack must be deployable by any community member with a modest VPS. The deployment target is \texttt{docker compose up} from a single repository. This prevents the project from creating a dependency on a single hosted service and ensures continuity if the founding contributors step back.
+
+% -------------------------------------------------------
+
+\section{Impact assessment}
+
+The following is a summary evaluation of the project's potential impact across the eleven problems identified in Section~\ref{sec:problems}.
+
+\begin{center}
+\begin{tabular}{p{4.5cm}p{3cm}p{2cm}p{4cm}}
+\toprule
+\textbf{Problem} & \textbf{Impact type} & \textbf{Confidence} & \textbf{Key condition} \\
+\midrule
+Land use / habitat loss & Direct, strong & High & Deployment reaches meaningful scale \\
+Biodiversity loss & Direct, strong & High & As above \\
+Soil erosion & Bypass (soilless) & High & Not a remediation of damaged land \\
+Fertiliser / eutrophication & Direct, strong & High & Closed-loop nutrient management implemented correctly \\
+Pesticide pollution & Direct, strong & High & Enclosed environment maintained; fungal risks managed \\
+Monoculture & Enables diversity & Medium & Depends on user and community crop choices \\
+Freshwater depletion & Direct, strong & High & Hydroponic/aeroponic systems required \\
+GHG emissions & Conditional & Medium & Conditional on low-carbon electricity \\
+Transport / food waste & Direct, strong & High & Local deployment required \\
+Supply-chain concentration & Direct, strong & High & Deployment breadth required \\
+Dietary diversity & Direct & Medium & Species recommender + user education \\
+\textbf{Energy intensity (new risk)} & \textbf{Risk introduced} & \textbf{High} & \textbf{Mitigated by recommender; not eliminated} \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+% -------------------------------------------------------
+
+\section{Future work}
+
+\begin{itemize}
+  \item Integration with home energy management systems (excess solar $\to$ priority grow-light scheduling).
+  \item Federated learning implementation to allow model improvement without raw data leaving the node.
+  \item Aquaponics extension: closed-loop fish + plant system for protein production.
+  \item Seed library integration: linking the species database to open seed repositories.
+  \item Economic model: cost-per-kg analysis across species, climate zones, and hardware configurations to help users understand the financial viability of their setup.
+\end{itemize}
