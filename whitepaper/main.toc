@@ -1,60 +1,16 @@
-\contentsline {section}{\numberline {1}Introduction}{4}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Motivation}{4}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Project vision}{4}{subsection.1.2}%
-\contentsline {section}{\numberline {2}The problems of industrial agriculture}{5}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Land Use}{5}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Biodiversity loss}{6}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Soil degradation and erosion}{6}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Fertilizer use}{7}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}Pesticide use}{8}{subsection.2.5}%
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Motivation}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Project vision}{3}{subsection.1.2}%
+\contentsline {section}{\numberline {2}The problems of industrial agriculture}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Land Use}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Biodiversity loss}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Soil degradation and erosion}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Fertilizer use}{6}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Pesticide use}{7}{subsection.2.5}%
 \contentsline {subsection}{\numberline {2.6}Monoculture}{8}{subsection.2.6}%
-\contentsline {subsection}{\numberline {2.7}Freshwater depletion}{9}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.7}Freshwater depletion}{8}{subsection.2.7}%
 \contentsline {subsection}{\numberline {2.8}Greenhouse gas emissions}{9}{subsection.2.8}%
 \contentsline {subsection}{\numberline {2.9}Produce transportation, storage and disposal}{9}{subsection.2.9}%
 \contentsline {subsection}{\numberline {2.10}The existential dependency on a few producers}{9}{subsection.2.10}%
 \contentsline {subsection}{\numberline {2.11}Suppression of dietary diversity and nutritional quality}{10}{subsection.2.11}%
-\contentsline {section}{\numberline {3}Background: The Netherlands as a Proof of Concept}{11}{section.3}%
-\contentsline {subsection}{\numberline {3.1}The Dutch agricultural model}{11}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}The Triple Helix institutional model}{11}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Limitations and honest framing}{12}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Relevance to the proposed system}{12}{subsection.3.4}%
-\contentsline {section}{\numberline {4}The proposed solution}{13}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Concept overview}{13}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Alignment with identified problems}{13}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Scope and niche}{14}{subsection.4.3}%
-\contentsline {section}{\numberline {5}Nutritional self-sufficiency analysis}{16}{section.5}%
-\contentsline {subsection}{\numberline {5.1}The calorie problem}{16}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}The correct framing: nutritional self-sufficiency}{16}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Vertical stacking multiplier}{16}{subsection.5.3}%
-\contentsline {section}{\numberline {6}Limitations and mitigations}{17}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Energy intensity}{17}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Cold-start problem for the ML model}{17}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}Open-source hardware complexity}{17}{subsection.6.3}%
-\contentsline {subsection}{\numberline {6.4}Data governance and quality}{18}{subsection.6.4}%
-\contentsline {section}{\numberline {7}System architecture}{19}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Overview}{19}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}The greenhouse node: MCU/SBC split}{19}{subsection.7.2}%
-\contentsline {subsection}{\numberline {7.3}The data flywheel}{20}{subsection.7.3}%
-\contentsline {subsection}{\numberline {7.4}Offline-first principle}{20}{subsection.7.4}%
-\contentsline {section}{\numberline {8}Technology stack}{21}{section.8}%
-\contentsline {subsection}{\numberline {8.1}Embedded firmware (MCU)}{21}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2}Edge gateway (SBC, Linux)}{22}{subsection.8.2}%
-\contentsline {subsection}{\numberline {8.3}Hardware support tiers}{22}{subsection.8.3}%
-\contentsline {subsection}{\numberline {8.4}Cloud / data commons}{23}{subsection.8.4}%
-\contentsline {subsection}{\numberline {8.5}Licences}{23}{subsection.8.5}%
-\contentsline {section}{\numberline {9}The data schema}{24}{section.9}%
-\contentsline {subsection}{\numberline {9.1}Sensor telemetry record}{24}{subsection.9.1}%
-\contentsline {subsection}{\numberline {9.2}Image record}{25}{subsection.9.2}%
-\contentsline {section}{\numberline {10}The climate-aware species recommender}{25}{section.10}%
-\contentsline {subsection}{\numberline {10.1}Concept}{25}{subsection.10.1}%
-\contentsline {subsection}{\numberline {10.2}Input variables}{25}{subsection.10.2}%
-\contentsline {subsection}{\numberline {10.3}Output}{25}{subsection.10.3}%
-\contentsline {subsection}{\numberline {10.4}Why this is not an ML model}{26}{subsection.10.4}%
-\contentsline {subsection}{\numberline {10.5}Climate adaptation over time}{26}{subsection.10.5}%
-\contentsline {section}{\numberline {11}Open-source strategy}{27}{section.11}%
-\contentsline {subsection}{\numberline {11.1}The data commons as the core asset}{27}{subsection.11.1}%
-\contentsline {subsection}{\numberline {11.2}Community governance}{27}{subsection.11.2}%
-\contentsline {subsection}{\numberline {11.3}Self-hostability}{27}{subsection.11.3}%
-\contentsline {section}{\numberline {12}Impact assessment}{27}{section.12}%
-\contentsline {section}{\numberline {13}Future work}{28}{section.13}%
-\contentsline {section}{References}{29}{section*.3}%
+\contentsline {section}{References}{11}{section*.3}%

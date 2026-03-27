@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.1.6)  22 MAR 2026 21:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.1.6)  24 MAR 2026 19:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -888,286 +888,46 @@ Package biblatex Info: ... file 'main.bbl' found.
 Package biblatex Info: Reference section=0 on input line 50.
 Package biblatex Info: Reference segment=0 on input line 50.
  (./cover.tex
-<pictures/publicdomain.png, id=248, 2890.8pt x 1018.80624pt>
+<pictures/publicdomain.png, id=71, 2890.8pt x 1018.80624pt>
 File: pictures/publicdomain.png Graphic file (type png)
 <use pictures/publicdomain.png>
 Package pdftex.def Info: pictures/publicdomain.png  used on input line 27.
 (pdftex.def)             Requested size: 161.4426pt x 56.9055pt.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./pictures/publicdomain.png>]) (./main.toc
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.36 ...e node: MCU/SBC split}{19}{subsection.7.2}
-                                                  % [1])
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./pictures/publicdomain.png>]) (./main.toc)
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
- [2] (./chapters/abstract/abstract.tex) [3] (./chapters/introduction/intro.tex) [4] (./chapters/problem/problem.tex [5] [6] [7] [8{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [9]) [10] (./chapters/background/background.tex [11]) [12] (./chapters/proposed_solution/solution.tex
-Underfull \hbox (badness 1997) in paragraph at lines 29--29
-[]\OT1/cmr/m/n/10.95 Soilless op-er-a-tion en-tirely by-
- []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--33
-[]\OT1/cmr/m/n/10.95 Hydroponic/aeroponic sys-tems
- []
-
-
-Underfull \hbox (badness 2617) in paragraph at lines 35--35
-\OT1/cmr/m/n/10.95 both trans-port emis-sions and
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--36
-[]\OT1/cmr/m/n/10.95 Supply-chain con-cen-tra-
- []
-
-
-Underfull \hbox (badness 1189) in paragraph at lines 37--37
-[]\OT1/cmr/m/n/10.95 Each node can grow dif-fer-ent
- []
-
-[13] [14]) [15] (./chapters/nutritional/nutritional.tex) [16] (./chapters/limitations/limitations.tex [17]) [18] (./chapters/system/system.tex [19]
-Underfull \hbox (badness 10000) in paragraph at lines 72--73
-[]\OT1/cmr/m/n/10.95 Consistent Over-head Byte
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--73
-[]\OT1/cmr/m/n/10.95 CMake with per-target
- []
-
-
-Underfull \hbox (badness 6542) in paragraph at lines 73--74
-[]\OT1/cmr/m/n/10.95 Supports ESP32, RP2040,
- []
-
-[20]
-Underfull \hbox (badness 1194) in paragraph at lines 85--86
-[]\OT1/cmr/m/n/10.95 Reproducible, min-i-mal em-bed-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
-[]\OT1/cmr/m/n/10.95 OpenCV + ONNX
- []
-
-
-Underfull \hbox (badness 1688) in paragraph at lines 87--88
-[]\OT1/cmr/m/n/10.95 OpenCV han-dles cap-ture and
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 88--88
-[]\OT1/cmr/m/n/10.95 Local time-series
- []
-
-
-Underfull \hbox (badness 6625) in paragraph at lines 88--88
-[]\OT1/cmr/m/n/10.95 InfluxDB (or SQLite
- []
-
-
-Underfull \hbox (badness 2189) in paragraph at lines 89--89
-[]\OT1/cmr/m/n/10.95 Serial + Pro-to-buf or
- []
-
-
-Underfull \hbox (badness 1275) in paragraph at lines 89--90
-\OT1/cmr/m/n/10.95 both sides to evolve in-de-pen-
- []
-
-
-Underfull \hbox (badness 4726) in paragraph at lines 90--90
-[]\OT1/cmr/m/n/10.95 FastAPI (Python) or
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 90--91
-[]\OT1/cmr/m/n/10.95 FastAPI: quick de-vel-op-ment.
- []
-
-
-Underfull \hbox (badness 2990) in paragraph at lines 91--92
-[]\OT1/cmr/m/n/10.95 HTMX pre-ferred: avoids JS
- []
-
-[21]
-Underfull \hbox (badness 5231) in paragraph at lines 116--117
-[]\OT1/cmr/m/n/10.95 Dominant in re-search; good
- []
-
-
-Underfull \hbox (badness 6157) in paragraph at lines 117--117
-[]\OT1/cmr/m/n/10.95 Gaussian Pro-cess re-
- []
-
-
-Underfull \hbox (badness 1163) in paragraph at lines 117--118
-[]\OT1/cmr/m/n/10.95 GP: in-ter-pretable, works with
- []
-
-
-Underfull \hbox (badness 3690) in paragraph at lines 118--119
-\OT1/cmr/m/n/10.95 fine-tuned on PlantVil-lage +
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 119--119
-[]\OT1/cmr/m/n/10.95 Species rec-om-
- []
-
-
-Underfull \hbox (badness 7814) in paragraph at lines 119--119
-[]\OT1/cmr/m/n/10.95 Constrained op-ti-mi-sa-
- []
-
-
-Underfull \hbox (badness 1286) in paragraph at lines 119--120
-[]\OT1/cmr/m/n/10.95 Not ML --- struc-tured search
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 119--120
-\OT1/cmr/m/n/10.95 over a crop re-quire-ments
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 120--120
-[]\OT1/cmr/m/n/10.95 MQTT bro-ker $\OMS/cmsy/m/n/10.95 !$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 121--121
-[]\OT1/cmr/m/n/10.95 MinIO (self-hostable,
- []
-
-
-Underfull \hbox (badness 5563) in paragraph at lines 121--122
-[]\OT1/cmr/m/n/10.95 Critical for open-source self-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 123--123
-[]\OT1/cmr/m/n/10.95 GitHub Ac-tions +
- []
-
-
-Underfull \hbox (badness 3049) in paragraph at lines 124--125
-[]\OT1/cmr/m/n/10.95 Avoid cloud provider lock-in;
- []
-
-[22] [23]
-Underfull \hbox (badness 10000) in paragraph at lines 162--162
-[]\OT1/cmr/m/n/10.95 string (GBIF taxon
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 170--171
-[]\OT1/cmr/m/n/10.95 Electrical con-duc-tiv-ity
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 171--172
-[]\OT1/cmr/m/n/10.95 Daily Light In-te-gral
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 191--192
-[]\OT1/cmr/m/n/10.95 Per-plant bound-ing boxes
- []
-
-[24] [25]) [26] (./chapters/open_source/open_source.tex
-Overfull \hbox (3.60808pt too wide) in paragraph at lines 33--33
-[]\OT1/cmr/bx/n/10.95 Confidence| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
-[]\OT1/cmr/m/n/10.95 Deployment reaches
- []
-
-
-Underfull \hbox (badness 1675) in paragraph at lines 37--38
-[]\OT1/cmr/m/n/10.95 Not a re-me-di-a-tion of
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 38--39
-[]\OT1/cmr/m/n/10.95 Closed-loop nu-tri-ent
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 38--39
-\OT1/cmr/m/n/10.95 man-age-ment im-ple-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--40
-[]\OT1/cmr/m/n/10.95 Enclosed en-vi-ron-ment
- []
-
-
-Underfull \hbox (badness 1377) in paragraph at lines 40--41
-[]\OT1/cmr/m/n/10.95 Depends on user and
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
-[]\OT1/cmr/m/n/10.95 Hydroponic/aeroponic
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
-[]\OT1/cmr/m/n/10.95 Conditional on low-
- []
-
-
-Underfull \hbox (badness 4144) in paragraph at lines 43--44
-[]\OT1/cmr/m/n/10.95 Local de-ploy-ment re-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--44
-[]\OT1/cmr/m/n/10.95 Supply-chain con-cen-tra-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--46
-[]\OT1/cmr/bx/n/10.95 Risk in-tro-
- []
-
-
-Underfull \hbox (badness 1067) in paragraph at lines 46--47
-\OT1/cmr/bx/n/10.95 mender; not elim-i-
- []
-
-[27]) [28] [29] [30] [31] [32] [33] (./main.aux)
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.55 \newpage
+              [1] (./chapters/abstract/abstract.tex) [2] (./chapters/introduction/intro.tex) [3] (./chapters/problem/problem.tex [4] [5] [6] [7] [8{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [9]) [10] [11] [12] [13] [14] [15] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 614B8B86A9417D791BD1FCC9F8875361;10685.
+(rerunfilecheck)             Checksum: 8630D95D221A37DE6CF3DFDD74FCD4EE;2793.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31991 strings out of 474222
- 622240 string characters out of 5748734
- 1943975 words of memory out of 5000000
- 53599 multiletter control sequences out of 15000+600000
- 566128 words of font info for 64 fonts, out of 8000000 for 9000
+ 31801 strings out of 474222
+ 618636 string characters out of 5748734
+ 1941975 words of memory out of 5000000
+ 53515 multiletter control sequences out of 15000+600000
+ 564455 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,12n,101p,2503b,1514s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on main.pdf (34 pages, 339011 bytes).
+ 99i,5n,101p,2546b,1513s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on main.pdf (16 pages, 242700 bytes).
 PDF statistics:
- 796 PDF objects out of 1000 (max. 8388607)
- 722 compressed objects within 8 object streams
- 169 named destinations out of 1000 (max. 500000)
- 498 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 447 PDF objects out of 1000 (max. 8388607)
+ 402 compressed objects within 5 object streams
+ 92 named destinations out of 1000 (max. 500000)
+ 146 words of extra memory for PDF output out of 10000 (max. 10000000)
 
