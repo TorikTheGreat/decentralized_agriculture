@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1774402391.96376 "main.bcf" "main.bbl" "main" 1774402891.8277 0
-  "bibliography.bib" 1774402391.80408 36963 16ba862c6a258116eefde213f806dbc8 ""
-  "main.bcf" 1774402891.76756 111759 9ece1871798cf955d9b115564b86c812 "pdflatex"
+["biber main"] 1774821722.77139 "main.bcf" "main.bbl" "main" 1774822399.75998 0
+  "bibliography.bib" 1774821719.91005 46466 61eed8c7a2109fd60d6576cfbe4ed2f1 ""
+  "main.bcf" 1774822399.70167 113612 5eb51293565baf8c020beb5b7067327d "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1774402890.33845 "/home/marco/Desktop/proyectos/decentralized_agriculture/repo/decentralized_agriculture/whitepaper/main.tex" "main.pdf" "main" 1774402891.82791 0
+["pdflatex"] 1774822398.0251 "/home/marco/Desktop/proyectos/decentralized_agriculture/repo/decentralized_agriculture/whitepaper/main.tex" "main.pdf" "main" 1774822399.7602 0
   "/etc/texmf/web2c/texmf.cnf" 1767758574.17835 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/marco/Desktop/proyectos/decentralized_agriculture/repo/decentralized_agriculture/whitepaper/main.tex" 1774395825.71584 1769 8e252354745022095da7e3ad87ed5974 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -36,6 +36,7 @@
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1248133631 32362 179c33bbf43f19adbb3825bb4e36e57a ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1248133631 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb" 1248133631 32626 4f5c1b83753b1dd3a97d1b399a005b4b ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1248133631 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb" 1248133631 31099 c85edf1dd5b9e826d67c9c7293b6786c ""
@@ -194,14 +195,14 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1767758679 8213493 e0c1d7ec2a3c9e8c3036bd8df7c9c512 ""
   "chapters/abstract/abstract.tex" 1774069863.58055 1894 f4bf063b2d7e784de5b629f03477f0ab ""
   "chapters/introduction/intro.tex" 1774069940.28903 2760 fb804d5a747bc5b4b7a00045315e42d7 ""
-  "chapters/problem/problem.tex" 1774402890.17156 27147 7629bf7d81f7cf414fa1f4f0b4d93e1f ""
+  "chapters/problem/problem.tex" 1774822396.11268 38297 7d93be5b0b19d0e5cc5ac091de958b30 ""
   "cover.tex" 1768431693.30975 1280 88fbd5e65742e2586ee450369988635a ""
-  "main.aux" 1774402891.76156 11318 2f1b02b028d5d64e760ac24952c9fb90 "pdflatex"
-  "main.bbl" 1774402392.84807 115492 11b63c737bf1171f8e65453ceb38756f "biber main"
-  "main.out" 1774402891.76456 2793 8630d95d221a37de6cf3dfdd74fcd4ee "pdflatex"
-  "main.run.xml" 1774402891.76756 2404 e448bd39f241edac993cdd8a8bf2c7e0 "pdflatex"
+  "main.aux" 1774822399.69367 15450 8348d6f63d7439236e22454181957b2f "pdflatex"
+  "main.bbl" 1774821723.68987 152486 f9f88fe9858a2dd21a5b0f93a882ac3c "biber main"
+  "main.out" 1774822399.69967 4665 bd4474ddadd27ac7ac85ee177d8b80f8 "pdflatex"
+  "main.run.xml" 1774822399.70167 2404 e448bd39f241edac993cdd8a8bf2c7e0 "pdflatex"
   "main.tex" 1774395825.71584 1769 8e252354745022095da7e3ad87ed5974 ""
-  "main.toc" 1774402891.76756 1382 4ebdef3f6104fbf5fbd1f25b430f44be "pdflatex"
+  "main.toc" 1774822399.70167 2121 a21a3df46d9cac70234608e5cb0bf2ad "pdflatex"
   "pictures/publicdomain.png" 1767846116 61945 923ec45b32344aa49fe7b44ec64a0723 ""
   (generated)
   "main.aux"
