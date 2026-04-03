@@ -2893,6 +2893,553 @@
       \verb 10.1146/annurev-phyto-080615-095835
       \endverb
     \endentry
+    \entry{Pervaiz2020}{article}{}
+      \name{author}{6}{}{%
+        {{hash=79de29bc5be9afa69681ccd70fc04467}{%
+           family={Pervaiz},
+           familyi={P\bibinitperiod},
+           given={Zahida\bibnamedelima H.},
+           giveni={Z\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=733a5f7539293900a86d3d38e9d801a0}{%
+           family={Iqbal},
+           familyi={I\bibinitperiod},
+           given={Javed},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b7ed788fff118de978056b0399416232}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Qingming},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=4698c2d1b61336785a301b4310a48b6b}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Dima},
+           giveni={D\bibinitperiod}}}%
+        {{hash=783b26bee9962dd887fe0df281760549}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Hui},
+           giveni={H\bibinitperiod}}}%
+        {{hash=d2274fbe986995b8ac0dabe2949b6c6f}{%
+           family={Saleem},
+           familyi={S\bibinitperiod},
+           given={Muhammad},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{dd82a516213528ff7fed3e476b4c9c94}
+      \strng{fullhash}{18125d7473b72b9942daabd081ae229e}
+      \strng{bibnamehash}{18125d7473b72b9942daabd081ae229e}
+      \strng{authorbibnamehash}{18125d7473b72b9942daabd081ae229e}
+      \strng{authornamehash}{dd82a516213528ff7fed3e476b4c9c94}
+      \strng{authorfullhash}{18125d7473b72b9942daabd081ae229e}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Soil Systems}
+      \field{number}{4}
+      \field{title}{Continuous Cropping Alters Multiple Biotic and Abiotic Indicators of Soil Health}
+      \field{volume}{4}
+      \field{year}{2020}
+      \field{pages}{59}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/soilsystems4040059
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3390/soilsystems4040059
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3390/soilsystems4040059
+      \endverb
+    \endentry
+    \entry{li2025rotation}{article}{}
+      \name{author}{7}{}{%
+        {{hash=3e898f075a13f6d37258aaf9d87f5000}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Chong},
+           giveni={C\bibinitperiod}}}%
+        {{hash=db462c8b89e6fe187a0f9417542efd69}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Lina},
+           giveni={L\bibinitperiod}}}%
+        {{hash=e45f738e44e89a520974f60a949af72c}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Kecheng},
+           giveni={K\bibinitperiod}}}%
+        {{hash=134519f374c34434bf04bf9d4fb373ad}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Boran},
+           giveni={B\bibinitperiod}}}%
+        {{hash=fdbacfd77cbdadc912bd1e836c965b33}{%
+           family={Liao},
+           familyi={L\bibinitperiod},
+           given={Jiaojiao},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8b467f20557c910de1e80607a2d1775e}{%
+           family={An},
+           familyi={A\bibinitperiod},
+           given={Zhengfeng},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=7309425814b6a4a96cb2141008228ac2}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Scott\bibnamedelima X.},
+           giveni={S\bibinitperiod\bibinitdelim X\bibinitperiod}}}%
+      }
+      \strng{namehash}{fa28cc00c2d99daaa1b6f047d64f47f9}
+      \strng{fullhash}{33078f0eab18de4ef6fcdd603d34576b}
+      \strng{bibnamehash}{fa28cc00c2d99daaa1b6f047d64f47f9}
+      \strng{authorbibnamehash}{fa28cc00c2d99daaa1b6f047d64f47f9}
+      \strng{authornamehash}{fa28cc00c2d99daaa1b6f047d64f47f9}
+      \strng{authorfullhash}{33078f0eab18de4ef6fcdd603d34576b}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Communications}
+      \field{title}{Crop rotation differentially increases soil bacterial and fungal diversities in global croplands: a meta-analysis}
+      \field{volume}{16}
+      \field{year}{2025}
+      \field{pages}{11686}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41467-025-66823-4
+      \endverb
+    \endentry
+    \entry{li2022chemodiversity}{article}{}
+      \name{author}{7}{}{%
+        {{hash=68cb8a0daf2931f421c1418ec15eea61}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Pengfa},
+           giveni={P\bibinitperiod}}}%
+        {{hash=c3c72b33338b8ef6c1fca8b2abc557ac}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Jia},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d2274fbe986995b8ac0dabe2949b6c6f}{%
+           family={Saleem},
+           familyi={S\bibinitperiod},
+           given={Muhammad},
+           giveni={M\bibinitperiod}}}%
+        {{hash=eb46b08c795555062dfdee48521ef0b1}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Guilong},
+           giveni={G\bibinitperiod}}}%
+        {{hash=f05407ad2171b2b581881404e28f6595}{%
+           family={Luan},
+           familyi={L\bibinitperiod},
+           given={Lu},
+           giveni={L\bibinitperiod}}}%
+        {{hash=6c0adcaa5da1546cf8f6a0e1cdd82965}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Meng},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a2096790118ef908dbedff38ca1f2280}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Zhongpei},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{caf7a01412d8ee5067b24c51503ee483}
+      \strng{fullhash}{73c180776c6549f4ee696520fac4e56a}
+      \strng{bibnamehash}{caf7a01412d8ee5067b24c51503ee483}
+      \strng{authorbibnamehash}{caf7a01412d8ee5067b24c51503ee483}
+      \strng{authornamehash}{caf7a01412d8ee5067b24c51503ee483}
+      \strng{authorfullhash}{73c180776c6549f4ee696520fac4e56a}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Microbiome}
+      \field{title}{Reduced chemodiversity suppresses rhizosphere microbiome functioning in the mono-cropped agroecosystems}
+      \field{volume}{10}
+      \field{year}{2022}
+      \field{pages}{108}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s40168-022-01287-y
+      \endverb
+    \endentry
+    \entry{zhou2023rotation}{article}{}
+      \name{author}{12}{}{%
+        {{hash=0b71d294310e1c1f41eed949811d7cbf}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Yanyan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=77454d4baaf8934f9e9d764df5fdef37}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Zhen},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=5bb24d27ef39424efd30d8a8cdd960c0}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Jinguang},
+           giveni={J\bibinitperiod}}}%
+        {{hash=12487718a6678d379872f6a52995bebb}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xudong},
+           giveni={X\bibinitperiod}}}%
+        {{hash=41c36d0c5ddfbdc5568c901927c4eec6}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xingxiang},
+           giveni={X\bibinitperiod}}}%
+        {{hash=e643af63bd31dd56799a1905d38c63a2}{%
+           family={Dai},
+           familyi={D\bibinitperiod},
+           given={Chuanchao},
+           giveni={C\bibinitperiod}}}%
+        {{hash=95b340680c3ae4100f554250db4babd1}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Taolin},
+           giveni={T\bibinitperiod}}}%
+        {{hash=ec4af62ce99ade4841469b21924821e5}{%
+           family={Carrión},
+           familyi={C\bibinitperiod},
+           given={Víctor\bibnamedelima J.},
+           giveni={V\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=2f7bb2026d19bff631a1fee8f0a1f3fc}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Zhong},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=313596de5d2636d049b7a2ac0d8cb27a}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Fuliang},
+           giveni={F\bibinitperiod}}}%
+        {{hash=7456132e1435061eda346ba08e8b5eb0}{%
+           family={Delgado-Baquerizo},
+           familyi={D\bibinithyphendelim B\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d758c0d1edb0a693abee4c9a8f020317}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xiaogang},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{cdd6878c85e79479ccae562022d94ce4}
+      \strng{fullhash}{cc137fc7cc36792f0bd8cfe85c8a3349}
+      \strng{bibnamehash}{cdd6878c85e79479ccae562022d94ce4}
+      \strng{authorbibnamehash}{cdd6878c85e79479ccae562022d94ce4}
+      \strng{authornamehash}{cdd6878c85e79479ccae562022d94ce4}
+      \strng{authorfullhash}{cc137fc7cc36792f0bd8cfe85c8a3349}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Communications}
+      \field{number}{1}
+      \field{title}{Crop rotation and native microbiome inoculation restore soil capacity to suppress a root disease}
+      \field{volume}{14}
+      \field{year}{2023}
+      \field{pages}{8126}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41467-023-43926-4
+      \endverb
+    \endentry
+    \entry{liu2023rotation}{article}{}
+      \name{author}{6}{}{%
+        {{hash=38189fe02b562b8892bd694420804211}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Qing},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=223e17d473e7b6e38a03f4895b0a36ae}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Yingxing},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=14ca7e9fff3d2b975deaa6956febc897}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Teng},
+           giveni={T\bibinitperiod}}}%
+        {{hash=17e889465f015f567550ebf95e2ff125}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Lin},
+           giveni={L\bibinitperiod}}}%
+        {{hash=b5d76298de3709a511fd4dfb0daa99c2}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yuanquan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=9a5e07788f0ed4fe32b4100c7911ec82}{%
+           family={Sui},
+           familyi={S\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{ec598cbec7fe70c0c9078c0cb0134d83}
+      \strng{fullhash}{0a250cd7c26ec1b8069134f3f4c858f5}
+      \strng{bibnamehash}{0a250cd7c26ec1b8069134f3f4c858f5}
+      \strng{authorbibnamehash}{0a250cd7c26ec1b8069134f3f4c858f5}
+      \strng{authornamehash}{ec598cbec7fe70c0c9078c0cb0134d83}
+      \strng{authorfullhash}{0a250cd7c26ec1b8069134f3f4c858f5}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Soil Ecology}
+      \field{title}{Changes in soil microbial biomass, diversity, and activity with crop rotation in cropping systems: A global synthesis}
+      \field{volume}{186}
+      \field{year}{2023}
+      \field{pages}{104815}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.apsoil.2023.104815
+      \endverb
+    \endentry
+    \entry{tisdall1982aggregation}{article}{}
+      \name{author}{2}{}{%
+        {{hash=1894bd64baf555a794220f3cb1796c3c}{%
+           family={Tisdall},
+           familyi={T\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=bada1e25a887b909a7bd14418379b029}{%
+           family={Oades},
+           familyi={O\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6f1c985e8117ef1d3ddd74e414b14ea}
+      \strng{fullhash}{b6f1c985e8117ef1d3ddd74e414b14ea}
+      \strng{bibnamehash}{b6f1c985e8117ef1d3ddd74e414b14ea}
+      \strng{authorbibnamehash}{b6f1c985e8117ef1d3ddd74e414b14ea}
+      \strng{authornamehash}{b6f1c985e8117ef1d3ddd74e414b14ea}
+      \strng{authorfullhash}{b6f1c985e8117ef1d3ddd74e414b14ea}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Soil Science}
+      \field{number}{2}
+      \field{title}{Organic matter and water-stable aggregates in soils}
+      \field{volume}{33}
+      \field{year}{1982}
+      \field{pages}{141\bibrangedash 163}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1111/j.1365-2389.1982.tb01755.x
+      \endverb
+    \endentry
+    \entry{zheng2023aggregation}{article}{}
+      \name{author}{6}{}{%
+        {{hash=897f68c113311b5ed432beeb42a275db}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Fengjun},
+           giveni={F\bibinitperiod}}}%
+        {{hash=258c4ac7ee9b3b54330d2559997e671b}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Xiaotong},
+           giveni={X\bibinitperiod}}}%
+        {{hash=c5b49f8c4ba2c676ea53919b15ab75de}{%
+           family={Ding},
+           familyi={D\bibinitperiod},
+           given={Weiting},
+           giveni={W\bibinitperiod}}}%
+        {{hash=e907fd4bd742d69fa732cb2deff6a4aa}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Xiaojun},
+           giveni={X\bibinitperiod}}}%
+        {{hash=26eee95247637caedb33029b55a8fbf3}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Shengping},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7602a5ce8e6d96cebaa8be9fbe4a2f5d}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Xueping},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{fee46b635ad1e2f17ffbf65bd41ee5d5}
+      \strng{fullhash}{8bdfedbb8fde5a5083d0e39e2b3e9b13}
+      \strng{bibnamehash}{8bdfedbb8fde5a5083d0e39e2b3e9b13}
+      \strng{authorbibnamehash}{8bdfedbb8fde5a5083d0e39e2b3e9b13}
+      \strng{authornamehash}{fee46b635ad1e2f17ffbf65bd41ee5d5}
+      \strng{authorfullhash}{8bdfedbb8fde5a5083d0e39e2b3e9b13}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Agriculture, Ecosystems \& Environment}
+      \field{title}{Positive effects of crop rotation on soil aggregation and associated organic carbon are mainly controlled by climate and initial soil carbon content: {A} meta-analysis}
+      \field{volume}{355}
+      \field{year}{2023}
+      \field{pages}{108600}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.agee.2023.108600
+      \endverb
+    \endentry
+    \entry{mcdaniel2014diversity}{article}{}
+      \name{author}{3}{}{%
+        {{hash=2af7ba0bdce82e03a9221f7e9eeaced5}{%
+           family={McDaniel},
+           familyi={M\bibinitperiod},
+           given={Marshall\bibnamedelima D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=0cf1ac973ef6f5a781ac43222f9afbd4}{%
+           family={Tiemann},
+           familyi={T\bibinitperiod},
+           given={Lisa\bibnamedelima K.},
+           giveni={L\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=a7cf5600b98df5a7fd5591a20fc99869}{%
+           family={Grandy},
+           familyi={G\bibinitperiod},
+           given={A.\bibnamedelimi Stuart},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{0b37cc51e5e477add39820d955223de5}
+      \strng{fullhash}{0b37cc51e5e477add39820d955223de5}
+      \strng{bibnamehash}{0b37cc51e5e477add39820d955223de5}
+      \strng{authorbibnamehash}{0b37cc51e5e477add39820d955223de5}
+      \strng{authornamehash}{0b37cc51e5e477add39820d955223de5}
+      \strng{authorfullhash}{0b37cc51e5e477add39820d955223de5}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ecological Applications}
+      \field{number}{3}
+      \field{title}{Does agricultural crop diversity enhance soil microbial biomass and organic matter dynamics? {A} meta-analysis}
+      \field{volume}{24}
+      \field{year}{2014}
+      \field{pages}{560\bibrangedash 570}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1890/13-0616.1
+      \endverb
+    \endentry
+    \entry{basche2019infiltration}{article}{}
+      \name{author}{2}{}{%
+        {{hash=bb84cff0d142cdd878d11bf14f1f755e}{%
+           family={Basche},
+           familyi={B\bibinitperiod},
+           given={Andrea\bibnamedelima D.},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=a7d4cd799a1121b97a4c2d82d0b94882}{%
+           family={DeLonge},
+           familyi={D\bibinitperiod},
+           given={Marcia\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{cf42176b5aa5fcfbbe8b11b2e7f484fa}
+      \strng{fullhash}{cf42176b5aa5fcfbbe8b11b2e7f484fa}
+      \strng{bibnamehash}{cf42176b5aa5fcfbbe8b11b2e7f484fa}
+      \strng{authorbibnamehash}{cf42176b5aa5fcfbbe8b11b2e7f484fa}
+      \strng{authornamehash}{cf42176b5aa5fcfbbe8b11b2e7f484fa}
+      \strng{authorfullhash}{cf42176b5aa5fcfbbe8b11b2e7f484fa}
+      \field{extraname}{1}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLOS ONE}
+      \field{number}{9}
+      \field{title}{Comparing infiltration rates in soils managed with conventional and alternative farming methods: A meta-analysis}
+      \field{volume}{14}
+      \field{year}{2019}
+      \field{pages}{e0215702}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0215702
+      \endverb
+    \endentry
+    \entry{basche2017waterretention}{article}{}
+      \name{author}{2}{}{%
+        {{hash=bb84cff0d142cdd878d11bf14f1f755e}{%
+           family={Basche},
+           familyi={B\bibinitperiod},
+           given={Andrea\bibnamedelima D.},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=1e3882c49eb5fe2b1939e417f1d2a1e3}{%
+           family={DeLonge},
+           familyi={D\bibinitperiod},
+           given={Marcia},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{1ab7d3acccd374934516061f5267f556}
+      \strng{fullhash}{1ab7d3acccd374934516061f5267f556}
+      \strng{bibnamehash}{1ab7d3acccd374934516061f5267f556}
+      \strng{authorbibnamehash}{1ab7d3acccd374934516061f5267f556}
+      \strng{authornamehash}{1ab7d3acccd374934516061f5267f556}
+      \strng{authorfullhash}{1ab7d3acccd374934516061f5267f556}
+      \field{extraname}{2}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Soil Science Society of America Journal}
+      \field{number}{5}
+      \field{title}{The Impact of Continuous Living Cover on Soil Hydrologic Properties: A Meta-Analysis}
+      \field{volume}{81}
+      \field{year}{2017}
+      \field{pages}{1179\bibrangedash 1190}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.2136/sssaj2017.03.0077
+      \endverb
+    \endentry
+    \entry{alletto2022irrigation}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c683359dba1f1535299237deb724fad4}{%
+           family={Alletto},
+           familyi={A\bibinitperiod},
+           given={Lionel},
+           giveni={L\bibinitperiod}}}%
+        {{hash=63caa07b1f695ebf835ff50923ce4b86}{%
+           family={Vandewalle},
+           familyi={V\bibinitperiod},
+           given={Aline},
+           giveni={A\bibinitperiod}}}%
+        {{hash=893102375942c5424359d9f4c6f4c523}{%
+           family={Debaeke},
+           familyi={D\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{dc89c17242bb809a3fd8b7aa889026b6}
+      \strng{fullhash}{dc89c17242bb809a3fd8b7aa889026b6}
+      \strng{bibnamehash}{dc89c17242bb809a3fd8b7aa889026b6}
+      \strng{authorbibnamehash}{dc89c17242bb809a3fd8b7aa889026b6}
+      \strng{authornamehash}{dc89c17242bb809a3fd8b7aa889026b6}
+      \strng{authorfullhash}{dc89c17242bb809a3fd8b7aa889026b6}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Agricultural Systems}
+      \field{title}{Crop diversification improves cropping system sustainability: An 8-year on-farm experiment in South-Western France}
+      \field{volume}{200}
+      \field{year}{2022}
+      \field{pages}{103433}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.agsy.2022.103433
+      \endverb
+    \endentry
     \entry{bowles2020longterm}{article}{}
       \name{author}{18}{}{%
         {{hash=c9bf3c7387f97cb458658c0366d90893}{%
@@ -2992,8 +3539,8 @@
       \strng{authorbibnamehash}{2d4a038624660c822b1098b8b6135e90}
       \strng{authornamehash}{2d4a038624660c822b1098b8b6135e90}
       \strng{authorfullhash}{924b04cb51ece45552617a0be304d2af}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{One Earth}
@@ -3024,8 +3571,8 @@
       \strng{authornamehash}{6d5b5e2fef7b702584ffb70292b04833}
       \strng{authorfullhash}{6d5b5e2fef7b702584ffb70292b04833}
       \field{extraname}{2}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature Communications}
@@ -3054,8 +3601,8 @@
       \strng{authorbibnamehash}{5413175b60f02fbc1da65864664c4104}
       \strng{authornamehash}{5413175b60f02fbc1da65864664c4104}
       \strng{authorfullhash}{5413175b60f02fbc1da65864664c4104}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature}
@@ -3149,8 +3696,8 @@
       \strng{authorbibnamehash}{2b8deb5e24376ad1003d4a9de1e45384}
       \strng{authornamehash}{2b8deb5e24376ad1003d4a9de1e45384}
       \strng{authorfullhash}{2b8deb5e24376ad1003d4a9de1e45384}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Agriculture \& Food Security}
@@ -3181,8 +3728,8 @@
       \strng{authorbibnamehash}{1908e1dbd2ecd3d7de6a1e6a3d5c5c21}
       \strng{authornamehash}{1908e1dbd2ecd3d7de6a1e6a3d5c5c21}
       \strng{authorfullhash}{1908e1dbd2ecd3d7de6a1e6a3d5c5c21}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Top 10 Agribusiness Giants: Corporate Concentration in Food and Farming in 2025}
@@ -3211,8 +3758,8 @@
       \strng{authorbibnamehash}{afe62bb3293ec440bae23db06a06adaa}
       \strng{authornamehash}{afe62bb3293ec440bae23db06a06adaa}
       \strng{authorfullhash}{afe62bb3293ec440bae23db06a06adaa}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Heliyon}
@@ -3254,8 +3801,8 @@
       \strng{authorbibnamehash}{d14616d82c888dbeecc71e6bc494a0e6}
       \strng{authornamehash}{e47e3f3592e5abd78110a57e78933ec0}
       \strng{authorfullhash}{d14616d82c888dbeecc71e6bc494a0e6}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature}
@@ -3283,8 +3830,8 @@
       \strng{authorbibnamehash}{264d9adc36dcc763205708230a469e23}
       \strng{authornamehash}{264d9adc36dcc763205708230a469e23}
       \strng{authorfullhash}{264d9adc36dcc763205708230a469e23}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Greenhouse gas emissions from agrifood systems. Global, regional and country trends, 2000--2022}
@@ -3312,8 +3859,8 @@
       \strng{authorbibnamehash}{33ca916ccd61202c89aa7500d89c7b35}
       \strng{authornamehash}{33ca916ccd61202c89aa7500d89c7b35}
       \strng{authorfullhash}{33ca916ccd61202c89aa7500d89c7b35}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature}
@@ -3352,8 +3899,8 @@
       \strng{authorbibnamehash}{72e82e23d252f21ef48371dc5509672b}
       \strng{authornamehash}{72e82e23d252f21ef48371dc5509672b}
       \strng{authorfullhash}{72e82e23d252f21ef48371dc5509672b}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature Food}
@@ -3381,8 +3928,8 @@
       \strng{authorbibnamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
       \strng{authornamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
       \strng{authorfullhash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Food and climate change: Healthy diets for a healthier planet}
@@ -3436,8 +3983,8 @@
       \strng{authorbibnamehash}{0d7129805984f366941965ca0114c156}
       \strng{authornamehash}{0d7129805984f366941965ca0114c156}
       \strng{authorfullhash}{0d7129805984f366941965ca0114c156}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Food Science and Technology}
@@ -3462,8 +4009,8 @@
       \strng{authornamehash}{79cfc09588a017373f460083e14117f0}
       \strng{authorfullhash}{79cfc09588a017373f460083e14117f0}
       \field{extraname}{1}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Peasant Studies}
@@ -3488,8 +4035,8 @@
       \strng{authornamehash}{79cfc09588a017373f460083e14117f0}
       \strng{authorfullhash}{79cfc09588a017373f460083e14117f0}
       \field{extraname}{2}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature Food}
@@ -3518,8 +4065,8 @@
       \strng{authorbibnamehash}{99372d5a89e9fe373300f005beac6103}
       \strng{authornamehash}{99372d5a89e9fe373300f005beac6103}
       \strng{authorfullhash}{99372d5a89e9fe373300f005beac6103}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Frontiers in Nutrition}
@@ -3561,8 +4108,8 @@
       \strng{authorbibnamehash}{79d9a6280928d0809813ca752dbf5ba8}
       \strng{authornamehash}{79d9a6280928d0809813ca752dbf5ba8}
       \strng{authorfullhash}{79d9a6280928d0809813ca752dbf5ba8}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Proceedings of the National Academy of Sciences}
@@ -3592,8 +4139,8 @@
       \strng{authorbibnamehash}{362a91c1af20954622d5d24a00b9a778}
       \strng{authornamehash}{362a91c1af20954622d5d24a00b9a778}
       \strng{authorfullhash}{362a91c1af20954622d5d24a00b9a778}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature}
