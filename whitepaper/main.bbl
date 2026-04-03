@@ -828,7 +828,6 @@
       \strng{authorbibnamehash}{6d5b5e2fef7b702584ffb70292b04833}
       \strng{authornamehash}{6d5b5e2fef7b702584ffb70292b04833}
       \strng{authorfullhash}{6d5b5e2fef7b702584ffb70292b04833}
-      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -3440,6 +3439,113 @@
       \verb 10.1016/j.agsy.2022.103433
       \endverb
     \endentry
+    \entry{beillouin2025rotations}{article}{}
+      \name{author}{10}{}{%
+        {{hash=021a7acf7450d62f3dc25f02aed642ed}{%
+           family={Mudare},
+           familyi={M\bibinitperiod},
+           given={Shingirai},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3271ce36cd4520cd99b821fcc49e6f4e}{%
+           family={Jing},
+           familyi={J\bibinitperiod},
+           given={Jingying},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b69e6bc29fbed0b47081f8ca533b3162}{%
+           family={Makowski},
+           familyi={M\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=7e5ba6584171bcea618e6f29210e8066}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Xueging},
+           giveni={X\bibinitperiod}}}%
+        {{hash=0b9cd163440dc01e1b48d1ecb7a804d7}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Zhengyuan},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=d61a6ceb324590ad5e6fbcc85f876492}{%
+           family={Sims},
+           familyi={S\bibinitperiod},
+           given={Zoe},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=7bf6c65f137e50abda73c48737f18d90}{%
+           family={Wagner},
+           familyi={W\bibinitperiod},
+           given={Thomas\bibnamedelima Cherico},
+           giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=56e145e8f70192e123c180987985ea9b}{%
+           family={Tilman},
+           familyi={T\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=09215b5c8d89019c3d2fe90fc8181a74}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Fusuo},
+           giveni={F\bibinitperiod}}}%
+        {{hash=01ac67c431f7604de468be2c7b2b29d6}{%
+           family={Cong},
+           familyi={C\bibinitperiod},
+           given={Wen-Feng},
+           giveni={W\bibinithyphendelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{01fb8cce8ffe1cb09115f2b493e0d8ab}
+      \strng{fullhash}{5299550064b5b181068e166bc8e41db7}
+      \strng{bibnamehash}{01fb8cce8ffe1cb09115f2b493e0d8ab}
+      \strng{authorbibnamehash}{01fb8cce8ffe1cb09115f2b493e0d8ab}
+      \strng{authornamehash}{01fb8cce8ffe1cb09115f2b493e0d8ab}
+      \strng{authorfullhash}{5299550064b5b181068e166bc8e41db7}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Communications}
+      \field{title}{Crop rotations synergize yield, nutrition, and revenue: a meta-analysis}
+      \field{volume}{16}
+      \field{year}{2025}
+      \field{pages}{9552}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41467-025-64567-9
+      \endverb
+    \endentry
+    \entry{renard2019national}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e90c2efe21bebb6ccdfe331944df9482}{%
+           family={Renard},
+           familyi={R\bibinitperiod},
+           given={Delphine},
+           giveni={D\bibinitperiod}}}%
+        {{hash=56e145e8f70192e123c180987985ea9b}{%
+           family={Tilman},
+           familyi={T\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{5413175b60f02fbc1da65864664c4104}
+      \strng{fullhash}{5413175b60f02fbc1da65864664c4104}
+      \strng{bibnamehash}{5413175b60f02fbc1da65864664c4104}
+      \strng{authorbibnamehash}{5413175b60f02fbc1da65864664c4104}
+      \strng{authornamehash}{5413175b60f02fbc1da65864664c4104}
+      \strng{authorfullhash}{5413175b60f02fbc1da65864664c4104}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{number}{7764}
+      \field{title}{National food production stabilized by crop diversity}
+      \field{volume}{571}
+      \field{year}{2019}
+      \field{pages}{257\bibrangedash 260}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1038/s41586-019-1316-y
+      \endverb
+    \endentry
     \entry{bowles2020longterm}{article}{}
       \name{author}{18}{}{%
         {{hash=c9bf3c7387f97cb458658c0366d90893}{%
@@ -3502,10 +3608,10 @@
            familyi={L\bibinitperiod},
            given={R.\bibnamedelimi Michael},
            giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=2e5d3e264b4ed2026bf3ef48bf6bcdc7}{%
+        {{hash=aedb81fd2db74da84c37369f3246b058}{%
            family={Osborne},
            familyi={O\bibinitperiod},
-           given={Stacy\bibnamedelima L.},
+           given={Shannon\bibnamedelima L.},
            giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
         {{hash=de15954ade60f39ae62e7db22c7171fe}{%
            family={Robertson},
@@ -3534,11 +3640,11 @@
            giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
       }
       \strng{namehash}{2d4a038624660c822b1098b8b6135e90}
-      \strng{fullhash}{924b04cb51ece45552617a0be304d2af}
+      \strng{fullhash}{2f423355e5ae612efe7dfbae3e022133}
       \strng{bibnamehash}{2d4a038624660c822b1098b8b6135e90}
       \strng{authorbibnamehash}{2d4a038624660c822b1098b8b6135e90}
       \strng{authornamehash}{2d4a038624660c822b1098b8b6135e90}
-      \strng{authorfullhash}{924b04cb51ece45552617a0be304d2af}
+      \strng{authorfullhash}{2f423355e5ae612efe7dfbae3e022133}
       \field{sortinit}{6}
       \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
@@ -3554,66 +3660,113 @@
       \verb 10.1016/j.oneear.2020.02.007
       \endverb
     \endentry
-    \entry{beillouin2025rotations}{article}{}
-      \true{moreauthor}
-      \true{morelabelname}
-      \name{author}{1}{}{%
-        {{hash=bf6f5008718bdba3642dd8149b6fe118}{%
-           family={Beillouin},
-           familyi={B\bibinitperiod},
-           given={Damien},
-           giveni={D\bibinitperiod}}}%
-      }
-      \strng{namehash}{6d5b5e2fef7b702584ffb70292b04833}
-      \strng{fullhash}{6d5b5e2fef7b702584ffb70292b04833}
-      \strng{bibnamehash}{6d5b5e2fef7b702584ffb70292b04833}
-      \strng{authorbibnamehash}{6d5b5e2fef7b702584ffb70292b04833}
-      \strng{authornamehash}{6d5b5e2fef7b702584ffb70292b04833}
-      \strng{authorfullhash}{6d5b5e2fef7b702584ffb70292b04833}
-      \field{extraname}{2}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Nature Communications}
-      \field{title}{Crop rotations synergize yield, nutrition, and revenue: a meta-analysis}
-      \field{year}{2025}
-      \verb{doi}
-      \verb 10.1038/s41467-025-64567-9
-      \endverb
-    \endentry
-    \entry{renard2019national}{article}{}
-      \name{author}{2}{}{%
-        {{hash=e90c2efe21bebb6ccdfe331944df9482}{%
-           family={Renard},
-           familyi={R\bibinitperiod},
-           given={Delphine},
-           giveni={D\bibinitperiod}}}%
+    \entry{cardinale2012biodiversity}{article}{}
+      \name{author}{17}{}{%
+        {{hash=c5373aebbe83d6b696f396b3de3ce967}{%
+           family={Cardinale},
+           familyi={C\bibinitperiod},
+           given={Bradley\bibnamedelima J.},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=a5fcdacf0c35e38c4b73a4bef1e61234}{%
+           family={Duffy},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi Emmett},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=24bc6ddc5f1579fac8ba3bbb49c3dca8}{%
+           family={Gonzalez},
+           familyi={G\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c3ecd4404157c3230e85012996f9d1e1}{%
+           family={Hooper},
+           familyi={H\bibinitperiod},
+           given={David\bibnamedelima U.},
+           giveni={D\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+        {{hash=a3e2f49846c5ac2e8f5ac08d63d8b8e9}{%
+           family={Perrings},
+           familyi={P\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod}}}%
+        {{hash=168b3dcace4816432c12506afb6778ea}{%
+           family={Venail},
+           familyi={V\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=7014f52e83ec608720798f086f7ee5cc}{%
+           family={Narwani},
+           familyi={N\bibinitperiod},
+           given={Anita},
+           giveni={A\bibinitperiod}}}%
+        {{hash=99f99a8fffbb3d8671430015f8b3ae91}{%
+           family={Mace},
+           familyi={M\bibinitperiod},
+           given={Georgina\bibnamedelima M.},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
         {{hash=56e145e8f70192e123c180987985ea9b}{%
            family={Tilman},
            familyi={T\bibinitperiod},
            given={David},
            giveni={D\bibinitperiod}}}%
+        {{hash=ea5ec7060860b95da0dd025e42b054ea}{%
+           family={Wardle},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=81ffe0941f286e71ff153e21c8122371}{%
+           family={Kinzig},
+           familyi={K\bibinitperiod},
+           given={Ann\bibnamedelima P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=09fd36ed044404d947c61edc593eb9ba}{%
+           family={Daily},
+           familyi={D\bibinitperiod},
+           given={Gretchen\bibnamedelima C.},
+           giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=b74f59617a602bec371b660bb9b1e4f8}{%
+           family={Loreau},
+           familyi={L\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=11ce8e10c063752f1f1cc70eba16a957}{%
+           family={Grace},
+           familyi={G\bibinitperiod},
+           given={James\bibnamedelima B.},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=6a5d473c5d8b72176a5e4db8e5ff7ffb}{%
+           family={Larigauderie},
+           familyi={L\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod}}}%
+        {{hash=eca63ddf4c1704df5c9b3ad06068bede}{%
+           family={Srivastava},
+           familyi={S\bibinitperiod},
+           given={Diane\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=4fd279b45232aa8cb483d6136274177b}{%
+           family={Naeem},
+           familyi={N\bibinitperiod},
+           given={Shahid},
+           giveni={S\bibinitperiod}}}%
       }
-      \strng{namehash}{5413175b60f02fbc1da65864664c4104}
-      \strng{fullhash}{5413175b60f02fbc1da65864664c4104}
-      \strng{bibnamehash}{5413175b60f02fbc1da65864664c4104}
-      \strng{authorbibnamehash}{5413175b60f02fbc1da65864664c4104}
-      \strng{authornamehash}{5413175b60f02fbc1da65864664c4104}
-      \strng{authorfullhash}{5413175b60f02fbc1da65864664c4104}
+      \strng{namehash}{86c6b06260787afcf93187f659c1a850}
+      \strng{fullhash}{da89f948ac05fc4ff9ecd8fdab73dc22}
+      \strng{bibnamehash}{86c6b06260787afcf93187f659c1a850}
+      \strng{authorbibnamehash}{86c6b06260787afcf93187f659c1a850}
+      \strng{authornamehash}{86c6b06260787afcf93187f659c1a850}
+      \strng{authorfullhash}{da89f948ac05fc4ff9ecd8fdab73dc22}
       \field{sortinit}{6}
       \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature}
-      \field{number}{7764}
-      \field{title}{National food production stabilized by crop diversity}
-      \field{volume}{571}
-      \field{year}{2019}
-      \field{pages}{257\bibrangedash 260}
-      \range{pages}{4}
+      \field{number}{7401}
+      \field{title}{Biodiversity loss and its impact on humanity}
+      \field{volume}{486}
+      \field{year}{2012}
+      \field{pages}{59\bibrangedash 67}
+      \range{pages}{9}
       \verb{doi}
-      \verb 10.1038/s41586-019-1316-y
+      \verb 10.1038/nature11148
       \endverb
     \endentry
     \entry{tamburini2020diversification}{article}{}
