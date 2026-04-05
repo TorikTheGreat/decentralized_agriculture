@@ -720,6 +720,12 @@
       \field{labeltitlesource}{title}
       \field{title}{Revised World Soil Charter}
       \field{year}{2015}
+      \verb{urlraw}
+      \verb https://openknowledge.fao.org/server/api/core/bitstreams/65be618a-f5e8-4f67-9cbb-d77f1f5cd31e/content
+      \endverb
+      \verb{url}
+      \verb https://openknowledge.fao.org/server/api/core/bitstreams/65be618a-f5e8-4f67-9cbb-d77f1f5cd31e/content
+      \endverb
     \endentry
     \entry{montgomery2007soil}{article}{}
       \name{author}{1}{}{%
@@ -4276,93 +4282,85 @@
     \endentry
     \entry{fao2024ghg}{report}{}
       \name{author}{1}{}{%
-        {{hash=264d9adc36dcc763205708230a469e23}{%
-           family={{Food and Agriculture Organization of the United Nations}},
+        {{hash=4807e0aebe86c17f559853f35515b533}{%
+           family={{FAO}},
            familyi={F\bibinitperiod}}}%
       }
-      \list{institution}{1}{%
-        {FAO}%
+      \list{institution}{2}{%
+        {Food}%
+        {Agriculture Organization of the United Nations}%
       }
-      \strng{namehash}{264d9adc36dcc763205708230a469e23}
-      \strng{fullhash}{264d9adc36dcc763205708230a469e23}
-      \strng{bibnamehash}{264d9adc36dcc763205708230a469e23}
-      \strng{authorbibnamehash}{264d9adc36dcc763205708230a469e23}
-      \strng{authornamehash}{264d9adc36dcc763205708230a469e23}
-      \strng{authorfullhash}{264d9adc36dcc763205708230a469e23}
+      \list{location}{1}{%
+        {Rome}%
+      }
+      \strng{namehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{fullhash}{4807e0aebe86c17f559853f35515b533}
+      \strng{bibnamehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{authorbibnamehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{authornamehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{authorfullhash}{4807e0aebe86c17f559853f35515b533}
+      \field{extraname}{3}
       \field{sortinit}{8}
       \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Greenhouse gas emissions from agrifood systems. Global, regional and country trends, 2000--2022}
+      \field{issn}{2709-0078}
+      \field{number}{94}
+      \field{title}{Greenhouse Gas Emissions from Agrifood Systems -- Global, Regional and Country Trends, 2000--2022}
+      \field{type}{FAOSTAT Analytical Brief Series}
       \field{year}{2024}
       \verb{urlraw}
-      \verb https://www.fao.org/statistics/highlights-archive/highlights-detail/greenhouse-gas-emissions-from-agrifood-systems
+      \verb https://openknowledge.fao.org/handle/20.500.14283/cd3167en
       \endverb
       \verb{url}
-      \verb https://www.fao.org/statistics/highlights-archive/highlights-detail/greenhouse-gas-emissions-from-agrifood-systems
-      \endverb
-    \endentry
-    \entry{tian2020n2o}{article}{}
-      \true{moreauthor}
-      \true{morelabelname}
-      \name{author}{1}{}{%
-        {{hash=c4fb415354afcb9b873870264f4b6cd2}{%
-           family={Tian},
-           familyi={T\bibinitperiod},
-           given={Hanqin},
-           giveni={H\bibinitperiod}}}%
-      }
-      \strng{namehash}{33ca916ccd61202c89aa7500d89c7b35}
-      \strng{fullhash}{33ca916ccd61202c89aa7500d89c7b35}
-      \strng{bibnamehash}{33ca916ccd61202c89aa7500d89c7b35}
-      \strng{authorbibnamehash}{33ca916ccd61202c89aa7500d89c7b35}
-      \strng{authornamehash}{33ca916ccd61202c89aa7500d89c7b35}
-      \strng{authorfullhash}{33ca916ccd61202c89aa7500d89c7b35}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Nature}
-      \field{title}{A comprehensive quantification of global nitrous oxide sources and sinks}
-      \field{volume}{586}
-      \field{year}{2020}
-      \field{pages}{248\bibrangedash 256}
-      \range{pages}{9}
-      \verb{doi}
-      \verb 10.1038/s41586-020-2780-0
+      \verb https://openknowledge.fao.org/handle/20.500.14283/cd3167en
       \endverb
     \endentry
     \entry{crippa2021foodghg}{article}{}
-      \true{moreauthor}
-      \true{morelabelname}
-      \name{author}{3}{}{%
-        {{hash=1bb9a6cbea48a36330d21a1860d24f67}{%
+      \name{author}{6}{}{%
+        {{hash=a5460a929626ce4953480db226afe604}{%
            family={Crippa},
            familyi={C\bibinitperiod},
-           given={Monica},
+           given={M.},
            giveni={M\bibinitperiod}}}%
-        {{hash=0769c3f726739ec785df06ca267496d8}{%
+        {{hash=5a09b4758653a36635b2762b20adbb7d}{%
            family={Solazzo},
            familyi={S\bibinitperiod},
-           given={Efisio},
+           given={E.},
            giveni={E\bibinitperiod}}}%
-        {{hash=51612072358843e4b16ab6804105fdff}{%
+        {{hash=f8536329f0e230992b325f3b8f138866}{%
            family={Guizzardi},
            familyi={G\bibinitperiod},
-           given={Diego},
+           given={D.},
            giveni={D\bibinitperiod}}}%
+        {{hash=0cbde8230bddeaa7901a45d725b5602c}{%
+           family={Monforti-Ferrario},
+           familyi={M\bibinithyphendelim F\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=3e2271643b9e2eae661ac3f56a6580e3}{%
+           family={Tubiello},
+           familyi={T\bibinitperiod},
+           given={F.N.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=892ada1f93c800d29f0da2e9e69cf658}{%
+           family={Leip},
+           familyi={L\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
       }
-      \strng{namehash}{72e82e23d252f21ef48371dc5509672b}
-      \strng{fullhash}{72e82e23d252f21ef48371dc5509672b}
-      \strng{bibnamehash}{72e82e23d252f21ef48371dc5509672b}
-      \strng{authorbibnamehash}{72e82e23d252f21ef48371dc5509672b}
-      \strng{authornamehash}{72e82e23d252f21ef48371dc5509672b}
-      \strng{authorfullhash}{72e82e23d252f21ef48371dc5509672b}
+      \strng{namehash}{8e6c28c9da49614c77d537f159b72e1b}
+      \strng{fullhash}{050587313e8d9639bfe81ec67799d589}
+      \strng{bibnamehash}{050587313e8d9639bfe81ec67799d589}
+      \strng{authorbibnamehash}{050587313e8d9639bfe81ec67799d589}
+      \strng{authornamehash}{8e6c28c9da49614c77d537f159b72e1b}
+      \strng{authorfullhash}{050587313e8d9639bfe81ec67799d589}
       \field{sortinit}{8}
       \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature Food}
+      \field{number}{3}
       \field{title}{Food systems are responsible for a third of global anthropogenic {GHG} emissions}
       \field{volume}{2}
       \field{year}{2021}
@@ -4370,6 +4368,171 @@
       \range{pages}{12}
       \verb{doi}
       \verb 10.1038/s43016-021-00225-9
+      \endverb
+    \endentry
+    \entry{xu2021animalbased}{article}{}
+      \name{author}{9}{}{%
+        {{hash=f1ffac4793252d9ad2eb868b01f9351d}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Xiaoming},
+           giveni={X\bibinitperiod}}}%
+        {{hash=b63b228a3253a4cfd66919448a7dd374}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Prateek},
+           giveni={P\bibinitperiod}}}%
+        {{hash=fee93d809bc94798a321fabbc87a525a}{%
+           family={Shu},
+           familyi={S\bibinitperiod},
+           given={Shijie},
+           giveni={S\bibinitperiod}}}%
+        {{hash=207580ffaa08b53f39d7067bc8e24aeb}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Tzu-Shun},
+           giveni={T\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=6e67f77fe4702964e6cd500a96516c8a}{%
+           family={Ciais},
+           familyi={C\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod}}}%
+        {{hash=29a793187217bb2075087677ab512a40}{%
+           family={Tubiello},
+           familyi={T\bibinitperiod},
+           given={Francesco\bibnamedelima N.},
+           giveni={F\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=7820adb1d0e47286fa0fc571b8f5cd76}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Pete},
+           giveni={P\bibinitperiod}}}%
+        {{hash=dec8a8422d349f61f5fe9ec0f41105ef}{%
+           family={Campbell},
+           familyi={C\bibinitperiod},
+           given={Nelson},
+           giveni={N\bibinitperiod}}}%
+        {{hash=d32242351f1fc1b8076781b32d855cb3}{%
+           family={Jain},
+           familyi={J\bibinitperiod},
+           given={Atul\bibnamedelima K.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{7664c104dd95babdc8a1814517dc8cb1}
+      \strng{fullhash}{4d44f4f62d4a1811c625fa1248e5ea5c}
+      \strng{bibnamehash}{7664c104dd95babdc8a1814517dc8cb1}
+      \strng{authorbibnamehash}{7664c104dd95babdc8a1814517dc8cb1}
+      \strng{authornamehash}{7664c104dd95babdc8a1814517dc8cb1}
+      \strng{authorfullhash}{4d44f4f62d4a1811c625fa1248e5ea5c}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Food}
+      \field{title}{Global greenhouse gas emissions from animal-based foods are twice those of plant-based foods}
+      \field{volume}{2}
+      \field{year}{2021}
+      \field{pages}{724\bibrangedash 732}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1038/s43016-021-00358-x
+      \endverb
+    \endentry
+    \entry{poore2018reducing}{article}{}
+      \name{author}{2}{}{%
+        {{hash=9c3d6d2d9d6f0d1c959f85bd9e8c9406}{%
+           family={Poore},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1315092719cc48891d1ee10f38d98647}{%
+           family={Nemecek},
+           familyi={N\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{25494c121d3119ada138e3029b7afa7a}
+      \strng{fullhash}{25494c121d3119ada138e3029b7afa7a}
+      \strng{bibnamehash}{25494c121d3119ada138e3029b7afa7a}
+      \strng{authorbibnamehash}{25494c121d3119ada138e3029b7afa7a}
+      \strng{authornamehash}{25494c121d3119ada138e3029b7afa7a}
+      \strng{authorfullhash}{25494c121d3119ada138e3029b7afa7a}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science}
+      \field{number}{6392}
+      \field{title}{Reducing food's environmental impacts through producers and consumers}
+      \field{volume}{360}
+      \field{year}{2018}
+      \field{pages}{987\bibrangedash 992}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1126/science.aaq0216
+      \endverb
+    \endentry
+    \entry{clark2020foodclimate}{article}{}
+      \name{author}{8}{}{%
+        {{hash=ad8bec93748ca2426ed14f2575fee09b}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={Michael\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=662e11dd31e0bdbade6bc97c67aae4bb}{%
+           family={Domingo},
+           familyi={D\bibinitperiod},
+           given={Nina\bibnamedelimb G.\bibnamedelimi G.},
+           giveni={N\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=87e72465c468786c49d1c599ecfeb88f}{%
+           family={Colgan},
+           familyi={C\bibinitperiod},
+           given={Kimberly},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c86a329e64aa6223fc0a9650d4a5bf85}{%
+           family={Thakrar},
+           familyi={T\bibinitperiod},
+           given={Sumil\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=56e145e8f70192e123c180987985ea9b}{%
+           family={Tilman},
+           familyi={T\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=7fbb54472b7d7841c21e90f5138c8ef8}{%
+           family={Lynch},
+           familyi={L\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=95527c4de7b97a4a7c46f59b025cb9a7}{%
+           family={Azevedo},
+           familyi={A\bibinitperiod},
+           given={Inês\bibnamedelima L.},
+           giveni={I\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=e599476fef7faf8c826603828271a44b}{%
+           family={Hill},
+           familyi={H\bibinitperiod},
+           given={Jason\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{4bb00a53f22e84532c810d5b440e0d66}
+      \strng{fullhash}{0785039ba4037dcfab2bfa3273fec682}
+      \strng{bibnamehash}{4bb00a53f22e84532c810d5b440e0d66}
+      \strng{authorbibnamehash}{4bb00a53f22e84532c810d5b440e0d66}
+      \strng{authornamehash}{4bb00a53f22e84532c810d5b440e0d66}
+      \strng{authorfullhash}{0785039ba4037dcfab2bfa3273fec682}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science}
+      \field{title}{Global food system emissions could preclude achieving the 1.5{°} and 2{°}{C} climate change targets}
+      \field{volume}{370}
+      \field{year}{2020}
+      \field{pages}{705\bibrangedash 708}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1126/science.aba7357
       \endverb
     \endentry
     \entry{un2023foodclimate}{report}{}
@@ -4387,8 +4550,8 @@
       \strng{authorbibnamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
       \strng{authornamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
       \strng{authorfullhash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Food and climate change: Healthy diets for a healthier planet}
@@ -4415,8 +4578,8 @@
       \strng{authorbibnamehash}{ebd2214471a4e1b7ea73f1a9cb90dfed}
       \strng{authornamehash}{ebd2214471a4e1b7ea73f1a9cb90dfed}
       \strng{authorfullhash}{ebd2214471a4e1b7ea73f1a9cb90dfed}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Quantifying methane emissions from landfilled food waste}
@@ -4494,8 +4657,8 @@
       \strng{authornamehash}{79cfc09588a017373f460083e14117f0}
       \strng{authorfullhash}{79cfc09588a017373f460083e14117f0}
       \field{extraname}{3}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature Food}
@@ -4524,8 +4687,8 @@
       \strng{authorbibnamehash}{99372d5a89e9fe373300f005beac6103}
       \strng{authornamehash}{99372d5a89e9fe373300f005beac6103}
       \strng{authorfullhash}{99372d5a89e9fe373300f005beac6103}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Frontiers in Nutrition}
@@ -4567,8 +4730,8 @@
       \strng{authorbibnamehash}{79d9a6280928d0809813ca752dbf5ba8}
       \strng{authornamehash}{79d9a6280928d0809813ca752dbf5ba8}
       \strng{authorfullhash}{79d9a6280928d0809813ca752dbf5ba8}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Proceedings of the National Academy of Sciences}
@@ -4598,8 +4761,8 @@
       \strng{authorbibnamehash}{362a91c1af20954622d5d24a00b9a778}
       \strng{authornamehash}{362a91c1af20954622d5d24a00b9a778}
       \strng{authorfullhash}{362a91c1af20954622d5d24a00b9a778}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature}
