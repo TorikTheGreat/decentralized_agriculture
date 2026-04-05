@@ -798,6 +798,13 @@
       \list{institution}{1}{%
         {Intergovernmental Panel on Climate Change}%
       }
+      \list{location}{2}{%
+        {Cambridge, UK}%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
       \strng{namehash}{676f7b9b8e5bb30500c01e2385e59174}
       \strng{fullhash}{676f7b9b8e5bb30500c01e2385e59174}
       \strng{bibnamehash}{676f7b9b8e5bb30500c01e2385e59174}
@@ -808,9 +815,12 @@
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Special Report on Climate Change and Land}
+      \field{title}{Climate Change and Land: An {IPCC} Special Report on Climate Change, Desertification, Land Degradation, Sustainable Land Management, Food Security, and Greenhouse Gas Fluxes in Terrestrial Ecosystems}
       \field{type}{techreport}
       \field{year}{2019}
+      \verb{doi}
+      \verb 10.1017/9781009157988
+      \endverb
       \verb{urlraw}
       \verb https://www.ipcc.ch/srccl/
       \endverb
@@ -4457,8 +4467,8 @@
       \strng{authorbibnamehash}{25494c121d3119ada138e3029b7afa7a}
       \strng{authornamehash}{25494c121d3119ada138e3029b7afa7a}
       \strng{authorfullhash}{25494c121d3119ada138e3029b7afa7a}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Science}
@@ -4535,32 +4545,58 @@
       \verb 10.1126/science.aba7357
       \endverb
     \endentry
-    \entry{un2023foodclimate}{report}{}
-      \name{author}{1}{}{%
-        {{hash=3cc54e2c0d69c1b76b4d49edb22dd6d1}{%
-           family={{United Nations}},
-           familyi={U\bibinitperiod}}}%
+    \entry{flammini2024coldchain}{article}{}
+      \name{author}{6}{}{%
+        {{hash=2596bc60fbbe46dccfc09ae3fd2522d0}{%
+           family={Flammini},
+           familyi={F\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod}}}%
+        {{hash=218cf0b466087063f21277cdb994edfd}{%
+           family={Adzmir},
+           familyi={A\bibinitperiod},
+           given={Hanif},
+           giveni={H\bibinitperiod}}}%
+        {{hash=ad0a99f5b9ca2d51605679f42a95bc50}{%
+           family={Pattison},
+           familyi={P\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=ab58a2c16d607bf44cf322d2991e8a3d}{%
+           family={Karl},
+           familyi={K\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=960c0e928a7da555da9aacde59a1be20}{%
+           family={Allouche},
+           familyi={A\bibinitperiod},
+           given={Yosr},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=787b8b1330e82b7a25a97e9b936d433d}{%
+           family={Tubiello},
+           familyi={T\bibinitperiod},
+           given={Francesco\bibnamedelima Nicola},
+           giveni={F\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
       }
-      \list{institution}{1}{%
-        {United Nations}%
-      }
-      \strng{namehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
-      \strng{fullhash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
-      \strng{bibnamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
-      \strng{authorbibnamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
-      \strng{authornamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
-      \strng{authorfullhash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \strng{namehash}{861901c7a250026d1b522c2543f1357e}
+      \strng{fullhash}{3017956a975b85b26676fa50c43c54f6}
+      \strng{bibnamehash}{3017956a975b85b26676fa50c43c54f6}
+      \strng{authorbibnamehash}{3017956a975b85b26676fa50c43c54f6}
+      \strng{authornamehash}{861901c7a250026d1b522c2543f1357e}
+      \strng{authorfullhash}{3017956a975b85b26676fa50c43c54f6}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Food and climate change: Healthy diets for a healthier planet}
-      \field{year}{2023}
-      \verb{urlraw}
-      \verb https://www.un.org/en/climatechange/science/climate-issues/food
-      \endverb
-      \verb{url}
-      \verb https://www.un.org/en/climatechange/science/climate-issues/food
+      \field{journaltitle}{Sustainability}
+      \field{number}{21}
+      \field{title}{Greenhouse Gas Emissions from Cold Chains in Agrifood Systems}
+      \field{volume}{16}
+      \field{year}{2024}
+      \field{pages}{9184}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/su16219184
       \endverb
     \endentry
     \entry{epa2023methane}{report}{}
@@ -4578,10 +4614,11 @@
       \strng{authorbibnamehash}{ebd2214471a4e1b7ea73f1a9cb90dfed}
       \strng{authornamehash}{ebd2214471a4e1b7ea73f1a9cb90dfed}
       \strng{authorfullhash}{ebd2214471a4e1b7ea73f1a9cb90dfed}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{number}{EPA-600-R-23-064}
       \field{title}{Quantifying methane emissions from landfilled food waste}
       \field{year}{2023}
       \verb{urlraw}
@@ -4605,8 +4642,8 @@
       \strng{authorbibnamehash}{0d7129805984f366941965ca0114c156}
       \strng{authornamehash}{0d7129805984f366941965ca0114c156}
       \strng{authorfullhash}{0d7129805984f366941965ca0114c156}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Food Science and Technology}
@@ -4631,8 +4668,8 @@
       \strng{authornamehash}{79cfc09588a017373f460083e14117f0}
       \strng{authorfullhash}{79cfc09588a017373f460083e14117f0}
       \field{extraname}{2}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Peasant Studies}
