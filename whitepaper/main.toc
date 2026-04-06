@@ -19,4 +19,4 @@
 \contentsline {subsection}{\numberline {2.9}Produce transportation, storage and disposal}{14}{subsection.2.9}%
 \contentsline {subsection}{\numberline {2.10}The existential dependency on a few producers}{14}{subsection.2.10}%
 \contentsline {subsection}{\numberline {2.11}Suppression of dietary diversity and nutritional quality}{15}{subsection.2.11}%
-\contentsline {section}{References}{16}{section*.3}%
+\contentsline {section}{References}{17}{section*.3}%

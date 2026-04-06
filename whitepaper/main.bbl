@@ -3887,8 +3887,9 @@
            family={{GRAIN}},
            familyi={G\bibinitperiod}}}%
       }
-      \list{institution}{1}{%
+      \list{institution}{2}{%
         {ETC Group}%
+        {GRAIN}%
       }
       \strng{namehash}{1908e1dbd2ecd3d7de6a1e6a3d5c5c21}
       \strng{fullhash}{1908e1dbd2ecd3d7de6a1e6a3d5c5c21}
@@ -3900,7 +3901,7 @@
       \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Top 10 Agribusiness Giants: Corporate Concentration in Food and Farming in 2025}
+      \field{title}{Top 10 Agribusiness Giants: Corporate Concentration in Food \& Farming in 2025}
       \field{type}{techreport}
       \field{year}{2025}
       \verb{urlraw}
@@ -4628,32 +4629,7 @@
       \verb https://www.epa.gov/land-research/quantifying-methane-emissions-landfilled-food-waste
       \endverb
     \endentry
-    \entry{ifst2024fragile}{article}{}
-      \name{author}{1}{}{%
-        {{hash=0d7129805984f366941965ca0114c156}{%
-           family={Masoura},
-           familyi={M\bibinitperiod},
-           given={Maria},
-           giveni={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{0d7129805984f366941965ca0114c156}
-      \strng{fullhash}{0d7129805984f366941965ca0114c156}
-      \strng{bibnamehash}{0d7129805984f366941965ca0114c156}
-      \strng{authorbibnamehash}{0d7129805984f366941965ca0114c156}
-      \strng{authornamehash}{0d7129805984f366941965ca0114c156}
-      \strng{authorfullhash}{0d7129805984f366941965ca0114c156}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Food Science and Technology}
-      \field{title}{The fragile link: Supply chain disruptions and global food security}
-      \field{year}{2024}
-      \verb{doi}
-      \verb 10.1002/fsat.3803_9.x
-      \endverb
-    \endentry
-    \entry{fraser2022concentration}{article}{}
+    \entry{clapp2023concentration}{article}{}
       \name{author}{1}{}{%
         {{hash=79cfc09588a017373f460083e14117f0}{%
            family={Clapp},
@@ -4673,10 +4649,44 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Peasant Studies}
+      \field{number}{1}
       \field{title}{Concentration and crises: exploring the deep roots of vulnerability in the global industrial food system}
-      \field{year}{2022}
+      \field{volume}{50}
+      \field{year}{2023}
+      \field{pages}{1\bibrangedash 25}
+      \range{pages}{25}
       \verb{doi}
       \verb 10.1080/03066150.2022.2129013
+      \endverb
+    \endentry
+    \entry{usda2025grain}{report}{}
+      \name{author}{1}{}{%
+        {{hash=20887337719d3b2b30d732e7cb8a2995}{%
+           family={{USDA Foreign Agricultural Service}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {United States Department of Agriculture}%
+      }
+      \strng{namehash}{20887337719d3b2b30d732e7cb8a2995}
+      \strng{fullhash}{20887337719d3b2b30d732e7cb8a2995}
+      \strng{bibnamehash}{20887337719d3b2b30d732e7cb8a2995}
+      \strng{authorbibnamehash}{20887337719d3b2b30d732e7cb8a2995}
+      \strng{authornamehash}{20887337719d3b2b30d732e7cb8a2995}
+      \strng{authorfullhash}{20887337719d3b2b30d732e7cb8a2995}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{title}{Grain: World Markets and Trade}
+      \field{type}{techreport}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://apps.fas.usda.gov/psdonline/circulars/grain.pdf
+      \endverb
+      \verb{url}
+      \verb https://apps.fas.usda.gov/psdonline/circulars/grain.pdf
       \endverb
     \endentry
     \entry{clapp2021concentration}{article}{}
@@ -4699,6 +4709,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature Food}
+      \field{number}{6}
       \field{title}{The problem with growing corporate concentration and power in the global food system}
       \field{volume}{2}
       \field{year}{2021}
@@ -4708,29 +4719,87 @@
       \verb 10.1038/s43016-021-00297-7
       \endverb
     \endentry
-    \entry{haegele2025regenerative}{article}{}
-      \true{moreauthor}
-      \true{morelabelname}
+    \entry{fao2025sofa}{report}{}
       \name{author}{1}{}{%
-        {{hash=73569b12d81d4c31e7ee5e597bac9662}{%
+        {{hash=4807e0aebe86c17f559853f35515b533}{%
+           family={{FAO}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {Food}%
+        {Agriculture Organization of the United Nations}%
+      }
+      \list{location}{1}{%
+        {Rome}%
+      }
+      \strng{namehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{fullhash}{4807e0aebe86c17f559853f35515b533}
+      \strng{bibnamehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{authorbibnamehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{authornamehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{authorfullhash}{4807e0aebe86c17f559853f35515b533}
+      \field{extraname}{4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-92-5-140142-2}
+      \field{title}{The State of Food and Agriculture 2025 --- Addressing Land Degradation across Landholding Scales}
+      \field{type}{techreport}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.4060/cd7067en
+      \endverb
+    \endentry
+    \entry{rosier2025regenerative}{article}{}
+      \name{author}{6}{}{%
+        {{hash=04cdecc3907bee35c679d93aa46ab535}{%
            family={Rosier},
            familyi={R\bibinitperiod},
-           given={C.},
-           giveni={C\bibinitperiod}}}%
+           given={Carl\bibnamedelima L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=c501792773175ee722d9946aae996e31}{%
+           family={Knecht},
+           familyi={K\bibinitperiod},
+           given={Anya},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e6e4b44700e9be41ba16a488fe4cced6}{%
+           family={Steinmetz},
+           familyi={S\bibinitperiod},
+           given={Jasia\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=5b7ef7fdcc238508f99d2488e06b2746}{%
+           family={Weckle},
+           familyi={W\bibinitperiod},
+           given={Amy},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4a939442fcb8d102771610f9422b7345}{%
+           family={Bloedorn},
+           familyi={B\bibinitperiod},
+           given={Kelly},
+           giveni={K\bibinitperiod}}}%
+        {{hash=897ec60258087b820b0add3cc886e60c}{%
+           family={Meyer},
+           familyi={M\bibinitperiod},
+           given={Erin},
+           giveni={E\bibinitperiod}}}%
       }
-      \strng{namehash}{99372d5a89e9fe373300f005beac6103}
-      \strng{fullhash}{99372d5a89e9fe373300f005beac6103}
-      \strng{bibnamehash}{99372d5a89e9fe373300f005beac6103}
-      \strng{authorbibnamehash}{99372d5a89e9fe373300f005beac6103}
-      \strng{authornamehash}{99372d5a89e9fe373300f005beac6103}
-      \strng{authorfullhash}{99372d5a89e9fe373300f005beac6103}
+      \strng{namehash}{709bf9edc7d06f56dc507271046b2fdf}
+      \strng{fullhash}{c380ea3274179186c1450df9399be432}
+      \strng{bibnamehash}{c380ea3274179186c1450df9399be432}
+      \strng{authorbibnamehash}{c380ea3274179186c1450df9399be432}
+      \strng{authornamehash}{709bf9edc7d06f56dc507271046b2fdf}
+      \strng{authorfullhash}{c380ea3274179186c1450df9399be432}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Frontiers in Nutrition}
       \field{title}{From soil to health: advancing regenerative agriculture for improved food quality and nutrition security}
+      \field{volume}{12}
       \field{year}{2025}
+      \field{pages}{1638507}
+      \range{pages}{1}
       \verb{doi}
       \verb 10.3389/fnut.2025.1638507
       \endverb
@@ -4739,6 +4808,344 @@
       \endverb
       \verb{url}
       \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC12576041/
+      \endverb
+    \endentry
+    \entry{monteiro2013upf}{article}{}
+      \name{author}{5}{}{%
+        {{hash=208e2ac8a939668174c211acffb626f8}{%
+           family={Monteiro},
+           familyi={M\bibinitperiod},
+           given={Carlos\bibnamedelima A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=bfa3a2b4f7152ee001a819bdb33c5130}{%
+           family={Moubarac},
+           familyi={M\bibinitperiod},
+           given={Jean-Claude},
+           giveni={J\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=9101014af23de4c55c56ecdd9fe58b8e}{%
+           family={Cannon},
+           familyi={C\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0b6f76334efb06af9264a9c8b5dde844}{%
+           family={Ng},
+           familyi={N\bibinitperiod},
+           given={Shu\bibnamedelima Wen},
+           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=e3705f2f361e6d6722d52a05ccd42f01}{%
+           family={Popkin},
+           familyi={P\bibinitperiod},
+           given={Barry},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{5d39302dffc78f606c66fd6e8d559192}
+      \strng{fullhash}{f0ba14d05dbe427bac2d6f24fc8bc12b}
+      \strng{bibnamehash}{f0ba14d05dbe427bac2d6f24fc8bc12b}
+      \strng{authorbibnamehash}{f0ba14d05dbe427bac2d6f24fc8bc12b}
+      \strng{authornamehash}{5d39302dffc78f606c66fd6e8d559192}
+      \strng{authorfullhash}{f0ba14d05dbe427bac2d6f24fc8bc12b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Obesity Reviews}
+      \field{number}{S2}
+      \field{title}{Ultra-processed products are becoming dominant in the global food system}
+      \field{volume}{14}
+      \field{year}{2013}
+      \field{pages}{21\bibrangedash 28}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1111/obr.12107
+      \endverb
+    \endentry
+    \entry{monteiro2025upf}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{6}{}{%
+        {{hash=208e2ac8a939668174c211acffb626f8}{%
+           family={Monteiro},
+           familyi={M\bibinitperiod},
+           given={Carlos\bibnamedelima A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=820960e3bfa8e27a58c36aa9de68d737}{%
+           family={Louzada},
+           familyi={L\bibinitperiod},
+           given={Maria\bibnamedelimb Laura\bibnamedelima C.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=4a1a8283bd11ff3ad12b0b046fe1c3d0}{%
+           family={Steele-Martinez},
+           familyi={S\bibinithyphendelim M\bibinitperiod},
+           given={Euridice},
+           giveni={E\bibinitperiod}}}%
+        {{hash=9101014af23de4c55c56ecdd9fe58b8e}{%
+           family={Cannon},
+           familyi={C\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod}}}%
+        {{hash=62207cb0fd96146ac0207943d5da2706}{%
+           family={Andrade},
+           familyi={A\bibinitperiod},
+           given={Giovanna\bibnamedelima C.},
+           giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=fe2f7c77b6a30dff1c52a7ceb6b27d24}{%
+           family={Baker},
+           familyi={B\bibinitperiod},
+           given={Phillip},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{66fd750f9d4dd302aba1b50ed4ae2abe}
+      \strng{fullhash}{981df440dfc83e13ce430d77973021de}
+      \strng{bibnamehash}{981df440dfc83e13ce430d77973021de}
+      \strng{authorbibnamehash}{981df440dfc83e13ce430d77973021de}
+      \strng{authornamehash}{66fd750f9d4dd302aba1b50ed4ae2abe}
+      \strng{authorfullhash}{981df440dfc83e13ce430d77973021de}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Lancet}
+      \field{title}{Ultra-processed foods and human health: the main thesis and the evidence}
+      \field{volume}{406}
+      \field{year}{2025}
+      \field{pages}{2667\bibrangedash 2684}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1016/S0140-6736(25)01565-X
+      \endverb
+    \endentry
+    \entry{lane2024upf}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=7e9d0196ff5eb29c6a28779dfe84792c}{%
+           family={Lane},
+           familyi={L\bibinitperiod},
+           given={Melissa\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=0488df9329fc5111b5d75000d850a468}{%
+           family={Gamage},
+           familyi={G\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod}}}%
+        {{hash=42161c477b20fdf8718fe22f22982254}{%
+           family={Du},
+           familyi={D\bibinitperiod},
+           given={Shutong},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{80b003097655e3328879b5b431f2b8cf}
+      \strng{fullhash}{80b003097655e3328879b5b431f2b8cf}
+      \strng{bibnamehash}{80b003097655e3328879b5b431f2b8cf}
+      \strng{authorbibnamehash}{80b003097655e3328879b5b431f2b8cf}
+      \strng{authornamehash}{80b003097655e3328879b5b431f2b8cf}
+      \strng{authorfullhash}{80b003097655e3328879b5b431f2b8cf}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMJ}
+      \field{title}{Ultra-processed food exposure and adverse health outcomes: umbrella review of epidemiological meta-analyses}
+      \field{volume}{384}
+      \field{year}{2024}
+      \field{pages}{e077310}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1136/bmj-2023-077310
+      \endverb
+    \endentry
+    \entry{fan2008nutrient}{article}{}
+      \name{author}{6}{}{%
+        {{hash=3edc0e661cfeabf2e649409ad95d61ca}{%
+           family={Fan},
+           familyi={F\bibinitperiod},
+           given={Ming-Sheng},
+           giveni={M\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=f0b6121170a5a89701e41a25f617e8a8}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Fang-Jie},
+           giveni={F\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=e197a1d7056bcbe5b9ccd91d3b41f2f0}{%
+           family={Fairweather-Tait},
+           familyi={F\bibinithyphendelim T\bibinitperiod},
+           given={Susan\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=37769d32a94c6a37a40c12e0056c84b1}{%
+           family={Poulton},
+           familyi={P\bibinitperiod},
+           given={Paul\bibnamedelima R.},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=8e6d876e7a6ecf8ea0f757238ec0e7de}{%
+           family={Dunham},
+           familyi={D\bibinitperiod},
+           given={Sarah\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=cfcf780789f23f5f00adc7026cc059a3}{%
+           family={McGrath},
+           familyi={M\bibinitperiod},
+           given={Steve\bibnamedelima P.},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{892f343ef3a5623aac2ad809083edfe7}
+      \strng{fullhash}{5920dbd9fcf12d4c9a26e36688c0aebb}
+      \strng{bibnamehash}{5920dbd9fcf12d4c9a26e36688c0aebb}
+      \strng{authorbibnamehash}{5920dbd9fcf12d4c9a26e36688c0aebb}
+      \strng{authornamehash}{892f343ef3a5623aac2ad809083edfe7}
+      \strng{authorfullhash}{5920dbd9fcf12d4c9a26e36688c0aebb}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Trace Elements in Medicine and Biology}
+      \field{number}{4}
+      \field{title}{Evidence of decreasing mineral density in wheat grain over the last 160 years}
+      \field{volume}{22}
+      \field{year}{2008}
+      \field{pages}{315\bibrangedash 324}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.jtemb.2008.07.002
+      \endverb
+    \endentry
+    \entry{davis2004changes}{article}{}
+      \name{author}{3}{}{%
+        {{hash=7eb59c01595a80845ab66ea7b9475ffb}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Donald\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=a0ef6d25371c229959ba03cac824d1f6}{%
+           family={Epp},
+           familyi={E\bibinitperiod},
+           given={Melvin\bibnamedelima D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=9fb0e4a90da40a17268bcae774ade8e4}{%
+           family={Riordan},
+           familyi={R\bibinitperiod},
+           given={Hugh\bibnamedelima D.},
+           giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{6b5e8e0001af9210bda4bf5912e8e347}
+      \strng{fullhash}{6b5e8e0001af9210bda4bf5912e8e347}
+      \strng{bibnamehash}{6b5e8e0001af9210bda4bf5912e8e347}
+      \strng{authorbibnamehash}{6b5e8e0001af9210bda4bf5912e8e347}
+      \strng{authornamehash}{6b5e8e0001af9210bda4bf5912e8e347}
+      \strng{authorfullhash}{6b5e8e0001af9210bda4bf5912e8e347}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American College of Nutrition}
+      \field{number}{6}
+      \field{title}{Changes in {USDA} food composition data for 43 garden crops, 1950 to 1999}
+      \field{volume}{23}
+      \field{year}{2004}
+      \field{pages}{669\bibrangedash 682}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1080/07315724.2004.10719409
+      \endverb
+    \endentry
+    \entry{marles2017mineral}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c224c3b6c02d2e5a327e020206432b87}{%
+           family={Marles},
+           familyi={M\bibinitperiod},
+           given={Robin\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{c224c3b6c02d2e5a327e020206432b87}
+      \strng{fullhash}{c224c3b6c02d2e5a327e020206432b87}
+      \strng{bibnamehash}{c224c3b6c02d2e5a327e020206432b87}
+      \strng{authorbibnamehash}{c224c3b6c02d2e5a327e020206432b87}
+      \strng{authornamehash}{c224c3b6c02d2e5a327e020206432b87}
+      \strng{authorfullhash}{c224c3b6c02d2e5a327e020206432b87}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Food Composition and Analysis}
+      \field{title}{Mineral nutrient composition of vegetables, fruits and grains: The context of reports of apparent historical declines}
+      \field{volume}{56}
+      \field{year}{2017}
+      \field{pages}{93\bibrangedash 103}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.jfca.2016.11.012
+      \endverb
+    \endentry
+    \entry{mayer2022mineral}{article}{}
+      \name{author}{3}{}{%
+        {{hash=7b8ca87bc53b8c5bb100689feb0f2815}{%
+           family={Mayer},
+           familyi={M\bibinitperiod},
+           given={Anne-Marie\bibnamedelima Berenice},
+           giveni={A\bibinithyphendelim M\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=2b7e3bee5006dc0437bf3e0e3380e3ad}{%
+           family={Trenchard},
+           familyi={T\bibinitperiod},
+           given={Liz},
+           giveni={L\bibinitperiod}}}%
+        {{hash=5f706acb5e1bb03cd6e5e7e0b1a46710}{%
+           family={Rayns},
+           familyi={R\bibinitperiod},
+           given={Francis},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{8db7708521c2980a34ed0ba2e86ea74c}
+      \strng{fullhash}{8db7708521c2980a34ed0ba2e86ea74c}
+      \strng{bibnamehash}{8db7708521c2980a34ed0ba2e86ea74c}
+      \strng{authorbibnamehash}{8db7708521c2980a34ed0ba2e86ea74c}
+      \strng{authornamehash}{8db7708521c2980a34ed0ba2e86ea74c}
+      \strng{authorfullhash}{8db7708521c2980a34ed0ba2e86ea74c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Food Sciences and Nutrition}
+      \field{number}{3}
+      \field{title}{Historical changes in the mineral content of fruit and vegetables in the {UK} from 1940 to 2019: a concern for human nutrition and agriculture}
+      \field{volume}{73}
+      \field{year}{2022}
+      \field{pages}{315\bibrangedash 326}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1080/09637486.2021.1981831
+      \endverb
+    \endentry
+    \entry{welch2004breeding}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8280873416b32ab99cf4639fb7834447}{%
+           family={Welch},
+           familyi={W\bibinitperiod},
+           given={Ross\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=bec8c460386e4a5a459021049ddf0730}{%
+           family={Graham},
+           familyi={G\bibinitperiod},
+           given={Robin\bibnamedelima D.},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{8e1f3c22acb40d03bcc3d3525ecdf7fe}
+      \strng{fullhash}{8e1f3c22acb40d03bcc3d3525ecdf7fe}
+      \strng{bibnamehash}{8e1f3c22acb40d03bcc3d3525ecdf7fe}
+      \strng{authorbibnamehash}{8e1f3c22acb40d03bcc3d3525ecdf7fe}
+      \strng{authornamehash}{8e1f3c22acb40d03bcc3d3525ecdf7fe}
+      \strng{authorfullhash}{8e1f3c22acb40d03bcc3d3525ecdf7fe}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Experimental Botany}
+      \field{number}{396}
+      \field{title}{Breeding for micronutrients in staple food crops from a human nutrition perspective}
+      \field{volume}{55}
+      \field{year}{2004}
+      \field{pages}{353\bibrangedash 364}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1093/jxb/erh064
       \endverb
     \endentry
     \entry{khoury2014homogeneity}{article}{}
