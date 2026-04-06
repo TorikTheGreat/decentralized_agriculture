@@ -4751,114 +4751,6 @@
       \verb 10.4060/cd7067en
       \endverb
     \endentry
-    \entry{rosier2025regenerative}{article}{}
-      \name{author}{6}{}{%
-        {{hash=04cdecc3907bee35c679d93aa46ab535}{%
-           family={Rosier},
-           familyi={R\bibinitperiod},
-           given={Carl\bibnamedelima L.},
-           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=c501792773175ee722d9946aae996e31}{%
-           family={Knecht},
-           familyi={K\bibinitperiod},
-           given={Anya},
-           giveni={A\bibinitperiod}}}%
-        {{hash=e6e4b44700e9be41ba16a488fe4cced6}{%
-           family={Steinmetz},
-           familyi={S\bibinitperiod},
-           given={Jasia\bibnamedelima S.},
-           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=5b7ef7fdcc238508f99d2488e06b2746}{%
-           family={Weckle},
-           familyi={W\bibinitperiod},
-           given={Amy},
-           giveni={A\bibinitperiod}}}%
-        {{hash=4a939442fcb8d102771610f9422b7345}{%
-           family={Bloedorn},
-           familyi={B\bibinitperiod},
-           given={Kelly},
-           giveni={K\bibinitperiod}}}%
-        {{hash=897ec60258087b820b0add3cc886e60c}{%
-           family={Meyer},
-           familyi={M\bibinitperiod},
-           given={Erin},
-           giveni={E\bibinitperiod}}}%
-      }
-      \strng{namehash}{709bf9edc7d06f56dc507271046b2fdf}
-      \strng{fullhash}{c380ea3274179186c1450df9399be432}
-      \strng{bibnamehash}{c380ea3274179186c1450df9399be432}
-      \strng{authorbibnamehash}{c380ea3274179186c1450df9399be432}
-      \strng{authornamehash}{709bf9edc7d06f56dc507271046b2fdf}
-      \strng{authorfullhash}{c380ea3274179186c1450df9399be432}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Frontiers in Nutrition}
-      \field{title}{From soil to health: advancing regenerative agriculture for improved food quality and nutrition security}
-      \field{volume}{12}
-      \field{year}{2025}
-      \field{pages}{1638507}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.3389/fnut.2025.1638507
-      \endverb
-      \verb{urlraw}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC12576041/
-      \endverb
-      \verb{url}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC12576041/
-      \endverb
-    \endentry
-    \entry{monteiro2013upf}{article}{}
-      \name{author}{5}{}{%
-        {{hash=208e2ac8a939668174c211acffb626f8}{%
-           family={Monteiro},
-           familyi={M\bibinitperiod},
-           given={Carlos\bibnamedelima A.},
-           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=bfa3a2b4f7152ee001a819bdb33c5130}{%
-           family={Moubarac},
-           familyi={M\bibinitperiod},
-           given={Jean-Claude},
-           giveni={J\bibinithyphendelim C\bibinitperiod}}}%
-        {{hash=9101014af23de4c55c56ecdd9fe58b8e}{%
-           family={Cannon},
-           familyi={C\bibinitperiod},
-           given={Geoffrey},
-           giveni={G\bibinitperiod}}}%
-        {{hash=0b6f76334efb06af9264a9c8b5dde844}{%
-           family={Ng},
-           familyi={N\bibinitperiod},
-           given={Shu\bibnamedelima Wen},
-           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
-        {{hash=e3705f2f361e6d6722d52a05ccd42f01}{%
-           family={Popkin},
-           familyi={P\bibinitperiod},
-           given={Barry},
-           giveni={B\bibinitperiod}}}%
-      }
-      \strng{namehash}{5d39302dffc78f606c66fd6e8d559192}
-      \strng{fullhash}{f0ba14d05dbe427bac2d6f24fc8bc12b}
-      \strng{bibnamehash}{f0ba14d05dbe427bac2d6f24fc8bc12b}
-      \strng{authorbibnamehash}{f0ba14d05dbe427bac2d6f24fc8bc12b}
-      \strng{authornamehash}{5d39302dffc78f606c66fd6e8d559192}
-      \strng{authorfullhash}{f0ba14d05dbe427bac2d6f24fc8bc12b}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Obesity Reviews}
-      \field{number}{S2}
-      \field{title}{Ultra-processed products are becoming dominant in the global food system}
-      \field{volume}{14}
-      \field{year}{2013}
-      \field{pages}{21\bibrangedash 28}
-      \range{pages}{8}
-      \verb{doi}
-      \verb 10.1111/obr.12107
-      \endverb
-    \endentry
     \entry{monteiro2025upf}{article}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -4912,6 +4804,55 @@
       \range{pages}{18}
       \verb{doi}
       \verb 10.1016/S0140-6736(25)01565-X
+      \endverb
+    \endentry
+    \entry{monteiro2013upf}{article}{}
+      \name{author}{5}{}{%
+        {{hash=208e2ac8a939668174c211acffb626f8}{%
+           family={Monteiro},
+           familyi={M\bibinitperiod},
+           given={Carlos\bibnamedelima A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=bfa3a2b4f7152ee001a819bdb33c5130}{%
+           family={Moubarac},
+           familyi={M\bibinitperiod},
+           given={Jean-Claude},
+           giveni={J\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=9101014af23de4c55c56ecdd9fe58b8e}{%
+           family={Cannon},
+           familyi={C\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0b6f76334efb06af9264a9c8b5dde844}{%
+           family={Ng},
+           familyi={N\bibinitperiod},
+           given={Shu\bibnamedelima Wen},
+           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=e3705f2f361e6d6722d52a05ccd42f01}{%
+           family={Popkin},
+           familyi={P\bibinitperiod},
+           given={Barry},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{5d39302dffc78f606c66fd6e8d559192}
+      \strng{fullhash}{f0ba14d05dbe427bac2d6f24fc8bc12b}
+      \strng{bibnamehash}{f0ba14d05dbe427bac2d6f24fc8bc12b}
+      \strng{authorbibnamehash}{f0ba14d05dbe427bac2d6f24fc8bc12b}
+      \strng{authornamehash}{5d39302dffc78f606c66fd6e8d559192}
+      \strng{authorfullhash}{f0ba14d05dbe427bac2d6f24fc8bc12b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Obesity Reviews}
+      \field{number}{S2}
+      \field{title}{Ultra-processed products are becoming dominant in the global food system}
+      \field{volume}{14}
+      \field{year}{2013}
+      \field{pages}{21\bibrangedash 28}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1111/obr.12107
       \endverb
     \endentry
     \entry{lane2024upf}{article}{}

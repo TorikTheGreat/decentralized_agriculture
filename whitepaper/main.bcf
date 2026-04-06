@@ -2493,20 +2493,19 @@
     <bcf:citekey order="112" intorder="1">fao2025sofa</bcf:citekey>
     <bcf:citekey order="113" intorder="1">fao2025sofa</bcf:citekey>
     <bcf:citekey order="114" intorder="1">fao2025sofa</bcf:citekey>
-    <bcf:citekey order="115" intorder="1">rosier2025regenerative</bcf:citekey>
-    <bcf:citekey order="116" intorder="1">rosier2025regenerative</bcf:citekey>
-    <bcf:citekey order="117" intorder="1">monteiro2013upf</bcf:citekey>
-    <bcf:citekey order="118" intorder="1">monteiro2025upf</bcf:citekey>
-    <bcf:citekey order="119" intorder="1">lane2024upf</bcf:citekey>
+    <bcf:citekey order="115" intorder="1">monteiro2025upf</bcf:citekey>
+    <bcf:citekey order="116" intorder="1">monteiro2013upf</bcf:citekey>
+    <bcf:citekey order="117" intorder="1">monteiro2025upf</bcf:citekey>
+    <bcf:citekey order="118" intorder="1">lane2024upf</bcf:citekey>
+    <bcf:citekey order="119" intorder="1">fan2008nutrient</bcf:citekey>
     <bcf:citekey order="120" intorder="1">fan2008nutrient</bcf:citekey>
-    <bcf:citekey order="121" intorder="1">fan2008nutrient</bcf:citekey>
-    <bcf:citekey order="122" intorder="1">davis2004changes</bcf:citekey>
+    <bcf:citekey order="121" intorder="1">davis2004changes</bcf:citekey>
+    <bcf:citekey order="122" intorder="1">marles2017mineral</bcf:citekey>
     <bcf:citekey order="123" intorder="1">marles2017mineral</bcf:citekey>
-    <bcf:citekey order="124" intorder="1">marles2017mineral</bcf:citekey>
-    <bcf:citekey order="125" intorder="1">mayer2022mineral</bcf:citekey>
-    <bcf:citekey order="126" intorder="1">welch2004breeding</bcf:citekey>
-    <bcf:citekey order="127" intorder="1">khoury2014homogeneity</bcf:citekey>
-    <bcf:citekey order="128" intorder="1">springmann2018options</bcf:citekey>
+    <bcf:citekey order="124" intorder="1">mayer2022mineral</bcf:citekey>
+    <bcf:citekey order="125" intorder="1">welch2004breeding</bcf:citekey>
+    <bcf:citekey order="126" intorder="1">khoury2014homogeneity</bcf:citekey>
+    <bcf:citekey order="127" intorder="1">springmann2018options</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
