@@ -43,6 +43,47 @@ The platform introduces one new risk not present in field agriculture: \textbf{e
 
 \subsection{Scope and niche}
 
-The platform is not designed to replace all agriculture. It is designed for a specific, well-defined niche: \textbf{high-value, water-intensive, perishable crops grown in proximity to consumers}. This niche includes leafy greens, herbs, tomatoes, cucumbers, strawberries, peppers, and similar produce --- crops for which the transport, water, and pesticide savings of CEA are largest, and for which the calorie-per-watt ratio is most favourable relative to field alternatives.
+The platform is not designed to replace all agriculture. Commodity grain production (wheat, rice, maize) remains outside the scope of small-scale CEA, and field agriculture will continue to supply these staples. The platform's objective is \textbf{nutritional self-sufficiency}: the ability to produce, in proximity to consumers, the full spectrum of macronutrients and micronutrients needed for health, using a diversified crop portfolio that extends well beyond the leafy greens and tomatoes of conventional commercial CEA.
 
-The platform does not target caloric staples (grains, legumes at scale) where field agriculture remains more energy-efficient per kilocalorie. However, it can meaningfully contribute to nutritional self-sufficiency at the household level, particularly when the species recommendation engine selects crops that optimise simultaneously for nutritional completeness and energy efficiency.
+This portfolio includes: calorie-dense tubers (potatoes, sweet potatoes) that can also be processed into storable flours and starches; mushrooms, which are already a mainstream CEA crop, require no light, and provide protein on waste substrates; oilseed legumes (peanuts, soybeans) whose caloric density exceeds that of wheat flour and which yield storable oils and protein-rich flours; and micronutrient-dense vegetables, herbs, and fruits for which the transport, water, and pesticide savings of CEA are largest. Some of these crops are well-established in CEA (mushrooms, leafy greens, tubers); others (oilseed legumes, seed crops) are plausible but largely unproven and constitute R\&D targets for the project. The species recommendation engine selects crops that optimise simultaneously for nutritional completeness, caloric contribution, and energy efficiency --- matching the crop portfolio to the local climate to minimise the energy cost of environmental control.
+
+This framing positions the platform as a complement to, not a replacement for, field agriculture: it supplies the diverse produce, legumes, and tubers that healthier dietary patterns require (see Section~\ref{sec:nutrition}), while commodity grains continue to be produced in fields --- at lower volume if the dietary shift away from animal feed crops documented in the problem analysis is realised.
+
+\subsection{Economic viability}
+
+% TODO: This section needs a full treatment. Key points to develop:
+%
+% 1. Cost per kg. CEA produce is currently more expensive than field-grown
+%    equivalents for most crops. The paper must acknowledge this honestly
+%    and frame the cost trajectory — how ML optimisation, open-source
+%    designs (no licensing fees), modular standardised hardware, and
+%    community-shared crop protocols drive costs down over time.
+%
+% 2. The right comparison. Cost per kg is not the only metric. The
+%    relevant comparison includes: avoided transport and cold-chain costs
+%    for local production; avoided food waste from shorter farm-to-table
+%    distance; avoided externalities (water treatment, soil remediation,
+%    healthcare costs from pesticide exposure) that field agriculture
+%    imposes but does not pay for; and nutritional value per unit cost,
+%    not just calories per unit cost.
+%
+% 3. Competing on diversity, not volume. Multiple local producers in
+%    overlapping zones specialise in different crop profiles rather than
+%    competing on the same commodity. This avoids the commodity treadmill
+%    documented in Section 2.6.6 and creates a local market structure
+%    where differentiation, not scale, is the competitive advantage.
+%    Open-source crop protocols lower the barrier to switching crops,
+%    enabling specialisation without proprietary knowledge.
+%
+% 4. Who pays and who benefits. The economic case differs by context:
+%    a supermarket rooftop installation has different economics than a
+%    family backyard greenhouse or a community cooperative. The paper
+%    should address at least two or three deployment scenarios with
+%    rough cost structures.
+%
+% 5. Energy cost dominance. Energy is the largest operating cost, just
+%    as it is the largest environmental cost. The ML optimisation and
+%    species recommendation engine directly reduce this. Solar
+%    integration further changes the economics. Quantify where possible.
+
+The economic case for the platform is not yet fully developed and will be a primary output of the R\&D phase. The critical question is whether ML-optimised, open-source CEA can reach cost parity with conventional produce for the target crop portfolio --- and under what conditions (climate zone, energy source, scale) it does so. This analysis is deferred to a dedicated economic assessment once energy consumption and yield data from prototype deployments are available.
