@@ -1,17 +1,17 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'main.blg'
-[109] biber:340> INFO - === Tue Apr  7, 2026, 16:22:08
-[123] Biber.pm:419> INFO - Reading 'main.bcf'
-[196] Biber.pm:979> INFO - Found 102 citekeys in bib section 0
-[208] Biber.pm:4419> INFO - Processing section 0
-[221] Biber.pm:4610> INFO - Looking for bibtex file 'bibliography.bib' for section 0
-[231] bibtex.pm:1713> INFO - LaTeX decoding ...
-[369] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
-[1469] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1469] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1469] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[1469] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[1523] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[1593] bbl.pm:763> INFO - Output to main.bbl
-[1594] Biber.pm:131> WARN - legacy month field 'April' in entry 'Tang2021' is not an integer - this will probably not sort properly.
-[1594] Biber.pm:133> INFO - WARNINGS: 1
+[108] biber:340> INFO - === Wed Apr  8, 2026, 21:30:39
+[129] Biber.pm:419> INFO - Reading 'main.bcf'
+[236] Biber.pm:979> INFO - Found 99 citekeys in bib section 0
+[254] Biber.pm:4419> INFO - Processing section 0
+[269] Biber.pm:4610> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[280] bibtex.pm:1713> INFO - LaTeX decoding ...
+[455] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
+[1893] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1893] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1893] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[1893] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[1979] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[2031] bbl.pm:763> INFO - Output to main.bbl
+[2032] Biber.pm:131> WARN - legacy month field 'April' in entry 'Tang2021' is not an integer - this will probably not sort properly.
+[2032] Biber.pm:133> INFO - WARNINGS: 1
