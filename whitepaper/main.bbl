@@ -2214,6 +2214,34 @@
       \verb 10.1098/rstb.1986.0072
       \endverb
     \endentry
+    \entry{mundt2002multiline}{article}{}
+      \name{author}{1}{}{%
+        {{hash=186d7c6b859e5f92ad65beac966de025}{%
+           family={Mundt},
+           familyi={M\bibinitperiod},
+           given={Christopher\bibnamedelima C.},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{186d7c6b859e5f92ad65beac966de025}
+      \strng{fullhash}{186d7c6b859e5f92ad65beac966de025}
+      \strng{bibnamehash}{186d7c6b859e5f92ad65beac966de025}
+      \strng{authorbibnamehash}{186d7c6b859e5f92ad65beac966de025}
+      \strng{authornamehash}{186d7c6b859e5f92ad65beac966de025}
+      \strng{authorfullhash}{186d7c6b859e5f92ad65beac966de025}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annual Review of Phytopathology}
+      \field{title}{Use of multiline cultivars and cultivar mixtures for disease management}
+      \field{volume}{40}
+      \field{year}{2002}
+      \field{pages}{381\bibrangedash 410}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.1146/annurev.phyto.40.011402.113723
+      \endverb
+    \endentry
     \entry{zhu2000genetic}{article}{}
       \name{author}{14}{}{%
         {{hash=4cfb8337785a3d26bf2e92a6798bfc32}{%
@@ -2307,34 +2335,6 @@
       \verb 10.1038/35021046
       \endverb
     \endentry
-    \entry{mundt2002multiline}{article}{}
-      \name{author}{1}{}{%
-        {{hash=186d7c6b859e5f92ad65beac966de025}{%
-           family={Mundt},
-           familyi={M\bibinitperiod},
-           given={Christopher\bibnamedelima C.},
-           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-      }
-      \strng{namehash}{186d7c6b859e5f92ad65beac966de025}
-      \strng{fullhash}{186d7c6b859e5f92ad65beac966de025}
-      \strng{bibnamehash}{186d7c6b859e5f92ad65beac966de025}
-      \strng{authorbibnamehash}{186d7c6b859e5f92ad65beac966de025}
-      \strng{authornamehash}{186d7c6b859e5f92ad65beac966de025}
-      \strng{authorfullhash}{186d7c6b859e5f92ad65beac966de025}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Annual Review of Phytopathology}
-      \field{title}{Use of multiline cultivars and cultivar mixtures for disease management}
-      \field{volume}{40}
-      \field{year}{2002}
-      \field{pages}{381\bibrangedash 410}
-      \range{pages}{30}
-      \verb{doi}
-      \verb 10.1146/annurev.phyto.40.011402.113723
-      \endverb
-    \endentry
     \entry{gibson2021genetic}{article}{}
       \name{author}{2}{}{%
         {{hash=c400756e5ba13fe03194454123746ddc}{%
@@ -2354,8 +2354,8 @@
       \strng{authorbibnamehash}{95205a002700b9d5bc7a861f617cf84f}
       \strng{authornamehash}{95205a002700b9d5bc7a861f617cf84f}
       \strng{authorfullhash}{95205a002700b9d5bc7a861f617cf84f}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Evolution Letters}
@@ -2591,33 +2591,32 @@
       \verb 10.1111/j.1365-2664.2012.02173.x
       \endverb
     \endentry
-    \entry{Bruns2017}{article}{}
+    \entry{NRC1972}{book}{}
       \name{author}{1}{}{%
-        {{hash=8cefcb67b04713fe13f6f3a55fe304bf}{%
-           family={Bruns},
-           familyi={B\bibinitperiod},
-           given={H.\bibnamedelimi Arnold},
-           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=542dbf807c6825455f75670116436ebd}{%
+           family={{National Research Council}},
+           familyi={N\bibinitperiod}}}%
       }
-      \strng{namehash}{8cefcb67b04713fe13f6f3a55fe304bf}
-      \strng{fullhash}{8cefcb67b04713fe13f6f3a55fe304bf}
-      \strng{bibnamehash}{8cefcb67b04713fe13f6f3a55fe304bf}
-      \strng{authorbibnamehash}{8cefcb67b04713fe13f6f3a55fe304bf}
-      \strng{authornamehash}{8cefcb67b04713fe13f6f3a55fe304bf}
-      \strng{authorfullhash}{8cefcb67b04713fe13f6f3a55fe304bf}
+      \list{location}{1}{%
+        {Washington, DC}%
+      }
+      \list{publisher}{1}{%
+        {The National Academies Press}%
+      }
+      \strng{namehash}{542dbf807c6825455f75670116436ebd}
+      \strng{fullhash}{542dbf807c6825455f75670116436ebd}
+      \strng{bibnamehash}{542dbf807c6825455f75670116436ebd}
+      \strng{authorbibnamehash}{542dbf807c6825455f75670116436ebd}
+      \strng{authornamehash}{542dbf807c6825455f75670116436ebd}
+      \strng{authorfullhash}{542dbf807c6825455f75670116436ebd}
       \field{sortinit}{5}
       \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Agronomy Journal}
-      \field{number}{4}
-      \field{title}{Southern Corn Leaf Blight: A Story Worth Retelling}
-      \field{volume}{109}
-      \field{year}{2017}
-      \field{pages}{1218\bibrangedash 1224}
-      \range{pages}{7}
+      \field{title}{Genetic Vulnerability of Major Crops}
+      \field{year}{1972}
       \verb{doi}
-      \verb 10.2134/agronj2017.01.0006
+      \verb 10.17226/27600
       \endverb
     \endentry
     \entry{Tatum1971}{article}{}
@@ -2647,6 +2646,69 @@
       \range{pages}{4}
       \verb{doi}
       \verb 10.1126/science.171.3976.1113
+      \endverb
+    \endentry
+    \entry{Bruns2017}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8cefcb67b04713fe13f6f3a55fe304bf}{%
+           family={Bruns},
+           familyi={B\bibinitperiod},
+           given={H.\bibnamedelimi Arnold},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{8cefcb67b04713fe13f6f3a55fe304bf}
+      \strng{fullhash}{8cefcb67b04713fe13f6f3a55fe304bf}
+      \strng{bibnamehash}{8cefcb67b04713fe13f6f3a55fe304bf}
+      \strng{authorbibnamehash}{8cefcb67b04713fe13f6f3a55fe304bf}
+      \strng{authornamehash}{8cefcb67b04713fe13f6f3a55fe304bf}
+      \strng{authorfullhash}{8cefcb67b04713fe13f6f3a55fe304bf}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Agronomy Journal}
+      \field{number}{4}
+      \field{title}{Southern Corn Leaf Blight: A Story Worth Retelling}
+      \field{volume}{109}
+      \field{year}{2017}
+      \field{pages}{1218\bibrangedash 1224}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.2134/agronj2017.01.0006
+      \endverb
+    \endentry
+    \entry{mikel2006evolution}{article}{}
+      \name{author}{2}{}{%
+        {{hash=1fad6e66c581506a4f385b58afdc1a41}{%
+           family={Mikel},
+           familyi={M\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=158a535d4cc5894a3b8cf3f225fc877e}{%
+           family={Dudley},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{af983a8b9e86559ac81f4f15723aada9}
+      \strng{fullhash}{af983a8b9e86559ac81f4f15723aada9}
+      \strng{bibnamehash}{af983a8b9e86559ac81f4f15723aada9}
+      \strng{authorbibnamehash}{af983a8b9e86559ac81f4f15723aada9}
+      \strng{authornamehash}{af983a8b9e86559ac81f4f15723aada9}
+      \strng{authorfullhash}{af983a8b9e86559ac81f4f15723aada9}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Crop Science}
+      \field{number}{3}
+      \field{title}{Evolution of {North American} Dent Corn from Public to Proprietary Germplasm}
+      \field{volume}{46}
+      \field{year}{2006}
+      \field{pages}{1193\bibrangedash 1205}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.2135/cropsci2005.10-0371
       \endverb
     \endentry
     \entry{kema2021vulnerability}{article}{}
@@ -2732,6 +2794,35 @@
       \verb 10.3389/fpls.2024.1397617
       \endverb
     \endentry
+    \entry{ploetz2006fusarium}{article}{}
+      \name{author}{1}{}{%
+        {{hash=79e181863786952fd1d99fa56069a2d9}{%
+           family={Ploetz},
+           familyi={P\bibinitperiod},
+           given={Randy\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{79e181863786952fd1d99fa56069a2d9}
+      \strng{fullhash}{79e181863786952fd1d99fa56069a2d9}
+      \strng{bibnamehash}{79e181863786952fd1d99fa56069a2d9}
+      \strng{authorbibnamehash}{79e181863786952fd1d99fa56069a2d9}
+      \strng{authornamehash}{79e181863786952fd1d99fa56069a2d9}
+      \strng{authorfullhash}{79e181863786952fd1d99fa56069a2d9}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Phytopathology}
+      \field{number}{6}
+      \field{title}{{Fusarium} Wilt of Banana Is Caused by Several Pathogens Referred to as \textit{{Fusarium} oxysporum} f.\ sp.\ \textit{cubense}}
+      \field{volume}{96}
+      \field{year}{2006}
+      \field{pages}{653\bibrangedash 656}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1094/PHYTO-96-0653
+      \endverb
+    \endentry
     \entry{roberts2024diagnostics}{article}{}
       \name{author}{5}{}{%
         {{hash=3fec0004483451d288dd28e8caef0d8f}{%
@@ -2779,94 +2870,6 @@
       \range{pages}{17}
       \verb{doi}
       \verb 10.1111/ppa.13863
-      \endverb
-    \endentry
-    \entry{Yoshida2013}{article}{}
-      \name{author}{13}{}{%
-        {{hash=060e2d5cb986f15f75c64f6c822758e6}{%
-           family={Yoshida},
-           familyi={Y\bibinitperiod},
-           given={Kentaro},
-           giveni={K\bibinitperiod}}}%
-        {{hash=01b78d9f77d4456468a7499c120c624f}{%
-           family={Schuenemann},
-           familyi={S\bibinitperiod},
-           given={Verena\bibnamedelima J.},
-           giveni={V\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=281a1ca162a27b69b09cd686ca47ad1a}{%
-           family={Cano},
-           familyi={C\bibinitperiod},
-           given={Liliana\bibnamedelima M.},
-           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=f6c30ed1d588222bf77094f2eeef4b56}{%
-           family={Pais},
-           familyi={P\bibinitperiod},
-           given={Marina},
-           giveni={M\bibinitperiod}}}%
-        {{hash=5942f153e62c27add15580fa84734888}{%
-           family={Mishra},
-           familyi={M\bibinitperiod},
-           given={Bagdevi},
-           giveni={B\bibinitperiod}}}%
-        {{hash=f5c184ac68798ea801914f18e49d22bd}{%
-           family={Sharma},
-           familyi={S\bibinitperiod},
-           given={Rahul},
-           giveni={R\bibinitperiod}}}%
-        {{hash=d88fdc332c608a73a7588c8dcd97cedf}{%
-           family={Lanz},
-           familyi={L\bibinitperiod},
-           given={Chirsta},
-           giveni={C\bibinitperiod}}}%
-        {{hash=ed4e21c6d6a648075758a6cac9436805}{%
-           family={Martin},
-           familyi={M\bibinitperiod},
-           given={Frank\bibnamedelima N.},
-           giveni={F\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
-        {{hash=66c715b2349c5440416795eb03952b71}{%
-           family={Kamoun},
-           familyi={K\bibinitperiod},
-           given={Sophien},
-           giveni={S\bibinitperiod}}}%
-        {{hash=b4b2b91d171d7820623f0976b7dbf301}{%
-           family={Krause},
-           familyi={K\bibinitperiod},
-           given={Johannes},
-           giveni={J\bibinitperiod}}}%
-        {{hash=24c6461f49d49632b12f0222ce8ca3b5}{%
-           family={Thines},
-           familyi={T\bibinitperiod},
-           given={Marco},
-           giveni={M\bibinitperiod}}}%
-        {{hash=fa761ae277d59727373fcb407a79f038}{%
-           family={Weigel},
-           familyi={W\bibinitperiod},
-           given={Detlef},
-           giveni={D\bibinitperiod}}}%
-        {{hash=62caf694da6bb5c425fead41f4cc076d}{%
-           family={Burbano},
-           familyi={B\bibinitperiod},
-           given={Hernán\bibnamedelima A.},
-           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-      }
-      \strng{namehash}{6fc2b34c2f085808089a8381c19f121a}
-      \strng{fullhash}{148095515b21af829d8172a130cf8ec0}
-      \strng{bibnamehash}{6fc2b34c2f085808089a8381c19f121a}
-      \strng{authorbibnamehash}{6fc2b34c2f085808089a8381c19f121a}
-      \strng{authornamehash}{6fc2b34c2f085808089a8381c19f121a}
-      \strng{authorfullhash}{148095515b21af829d8172a130cf8ec0}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{eLife}
-      \field{title}{The rise and fall of the \textit{Phytophthora infestans} lineage that triggered the {Irish} potato famine}
-      \field{volume}{2}
-      \field{year}{2013}
-      \field{pages}{e00731}
-      \range{pages}{-1}
-      \verb{doi}
-      \verb 10.7554/eLife.00731
       \endverb
     \endentry
     \entry{Talhinhas2017}{article}{}
@@ -2938,8 +2941,8 @@
       \strng{authorbibnamehash}{cde18ced8d564ab62feb6fce41436297}
       \strng{authornamehash}{cde18ced8d564ab62feb6fce41436297}
       \strng{authorfullhash}{c8ebe28108be9a72e3b66a386fc3060b}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular Plant Pathology}
@@ -3002,8 +3005,8 @@
       \strng{authorbibnamehash}{8de8e9d957e64ac4b246da0ec0c85b2c}
       \strng{authornamehash}{8de8e9d957e64ac4b246da0ec0c85b2c}
       \strng{authorfullhash}{d73b767999632911c56585c3f4a68efc}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Annual Review of Phytopathology}
@@ -3055,8 +3058,8 @@
       \strng{authorbibnamehash}{18125d7473b72b9942daabd081ae229e}
       \strng{authornamehash}{dd82a516213528ff7fed3e476b4c9c94}
       \strng{authorfullhash}{18125d7473b72b9942daabd081ae229e}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Soil Systems}
@@ -3120,8 +3123,8 @@
       \strng{authorbibnamehash}{fa28cc00c2d99daaa1b6f047d64f47f9}
       \strng{authornamehash}{fa28cc00c2d99daaa1b6f047d64f47f9}
       \strng{authorfullhash}{33078f0eab18de4ef6fcdd603d34576b}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature Communications}
@@ -3178,8 +3181,8 @@
       \strng{authorbibnamehash}{caf7a01412d8ee5067b24c51503ee483}
       \strng{authornamehash}{caf7a01412d8ee5067b24c51503ee483}
       \strng{authorfullhash}{73c180776c6549f4ee696520fac4e56a}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Microbiome}
@@ -3261,8 +3264,8 @@
       \strng{authorbibnamehash}{cdd6878c85e79479ccae562022d94ce4}
       \strng{authornamehash}{cdd6878c85e79479ccae562022d94ce4}
       \strng{authorfullhash}{cc137fc7cc36792f0bd8cfe85c8a3349}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature Communications}
@@ -3315,8 +3318,8 @@
       \strng{authorbibnamehash}{0a250cd7c26ec1b8069134f3f4c858f5}
       \strng{authornamehash}{ec598cbec7fe70c0c9078c0cb0134d83}
       \strng{authorfullhash}{0a250cd7c26ec1b8069134f3f4c858f5}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Applied Soil Ecology}
@@ -3348,8 +3351,8 @@
       \strng{authorbibnamehash}{b6f1c985e8117ef1d3ddd74e414b14ea}
       \strng{authornamehash}{b6f1c985e8117ef1d3ddd74e414b14ea}
       \strng{authorfullhash}{b6f1c985e8117ef1d3ddd74e414b14ea}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Soil Science}
@@ -3402,8 +3405,8 @@
       \strng{authorbibnamehash}{8bdfedbb8fde5a5083d0e39e2b3e9b13}
       \strng{authornamehash}{fee46b635ad1e2f17ffbf65bd41ee5d5}
       \strng{authorfullhash}{8bdfedbb8fde5a5083d0e39e2b3e9b13}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Agriculture, Ecosystems \& Environment}
@@ -3440,8 +3443,8 @@
       \strng{authorbibnamehash}{0b37cc51e5e477add39820d955223de5}
       \strng{authornamehash}{0b37cc51e5e477add39820d955223de5}
       \strng{authorfullhash}{0b37cc51e5e477add39820d955223de5}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Ecological Applications}
@@ -3475,8 +3478,8 @@
       \strng{authornamehash}{cf42176b5aa5fcfbbe8b11b2e7f484fa}
       \strng{authorfullhash}{cf42176b5aa5fcfbbe8b11b2e7f484fa}
       \field{extraname}{1}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{PLOS ONE}
@@ -3510,8 +3513,8 @@
       \strng{authornamehash}{1ab7d3acccd374934516061f5267f556}
       \strng{authorfullhash}{1ab7d3acccd374934516061f5267f556}
       \field{extraname}{2}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Soil Science Society of America Journal}
@@ -3549,8 +3552,8 @@
       \strng{authorbibnamehash}{dc89c17242bb809a3fd8b7aa889026b6}
       \strng{authornamehash}{dc89c17242bb809a3fd8b7aa889026b6}
       \strng{authorfullhash}{dc89c17242bb809a3fd8b7aa889026b6}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Agricultural Systems}
@@ -3622,8 +3625,8 @@
       \strng{authorbibnamehash}{01fb8cce8ffe1cb09115f2b493e0d8ab}
       \strng{authornamehash}{01fb8cce8ffe1cb09115f2b493e0d8ab}
       \strng{authorfullhash}{5299550064b5b181068e166bc8e41db7}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature Communications}
@@ -3655,8 +3658,8 @@
       \strng{authorbibnamehash}{5413175b60f02fbc1da65864664c4104}
       \strng{authornamehash}{5413175b60f02fbc1da65864664c4104}
       \strng{authorfullhash}{5413175b60f02fbc1da65864664c4104}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature}
@@ -3769,8 +3772,8 @@
       \strng{authorbibnamehash}{2d4a038624660c822b1098b8b6135e90}
       \strng{authornamehash}{2d4a038624660c822b1098b8b6135e90}
       \strng{authorfullhash}{2f423355e5ae612efe7dfbae3e022133}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{One Earth}
@@ -3878,8 +3881,8 @@
       \strng{authorbibnamehash}{86c6b06260787afcf93187f659c1a850}
       \strng{authornamehash}{86c6b06260787afcf93187f659c1a850}
       \strng{authorfullhash}{da89f948ac05fc4ff9ecd8fdab73dc22}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature}
@@ -3939,8 +3942,8 @@
       \strng{authorbibnamehash}{43f9d13ae59734a7237bc9d9db38d1ff}
       \strng{authornamehash}{43f9d13ae59734a7237bc9d9db38d1ff}
       \strng{authorfullhash}{34bc6ba1a0aca5067a8412694a9753b1}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Science Advances}
@@ -3973,8 +3976,8 @@
       \strng{authorbibnamehash}{2b8deb5e24376ad1003d4a9de1e45384}
       \strng{authornamehash}{2b8deb5e24376ad1003d4a9de1e45384}
       \strng{authorfullhash}{2b8deb5e24376ad1003d4a9de1e45384}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Agriculture \& Food Security}
@@ -4005,8 +4008,8 @@
       \strng{authorbibnamehash}{1908e1dbd2ecd3d7de6a1e6a3d5c5c21}
       \strng{authornamehash}{1908e1dbd2ecd3d7de6a1e6a3d5c5c21}
       \strng{authorfullhash}{1908e1dbd2ecd3d7de6a1e6a3d5c5c21}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Top 10 Agribusiness Giants: Corporate Concentration in Food \& Farming in 2025}
@@ -4033,8 +4036,8 @@
       \strng{authorbibnamehash}{440bf00273564eff24975adac9e2751b}
       \strng{authornamehash}{440bf00273564eff24975adac9e2751b}
       \strng{authorfullhash}{440bf00273564eff24975adac9e2751b}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Sustainability}
@@ -4067,8 +4070,8 @@
       \strng{authorbibnamehash}{c1020ffd83093a2ade23a78dd27df1b2}
       \strng{authornamehash}{c1020ffd83093a2ade23a78dd27df1b2}
       \strng{authorfullhash}{c1020ffd83093a2ade23a78dd27df1b2}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Research Policy}
@@ -4096,8 +4099,8 @@
       \strng{authorbibnamehash}{da88645197dbc53c9eaf3df71b2c714d}
       \strng{authornamehash}{da88645197dbc53c9eaf3df71b2c714d}
       \strng{authorfullhash}{da88645197dbc53c9eaf3df71b2c714d}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Annual Review of Resource Economics}
@@ -4134,8 +4137,8 @@
       \strng{authorbibnamehash}{e82c2cef1d500a2c513e8ceadfd68fb4}
       \strng{authornamehash}{e82c2cef1d500a2c513e8ceadfd68fb4}
       \strng{authorfullhash}{e82c2cef1d500a2c513e8ceadfd68fb4}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Geoforum}
@@ -4163,8 +4166,8 @@
       \strng{authornamehash}{79cfc09588a017373f460083e14117f0}
       \strng{authorfullhash}{79cfc09588a017373f460083e14117f0}
       \field{extraname}{1}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Review of International Political Economy}
@@ -4232,8 +4235,8 @@
       \strng{authorbibnamehash}{be0215d6aea24e48f267b165a40340b5}
       \strng{authornamehash}{be0215d6aea24e48f267b165a40340b5}
       \strng{authorfullhash}{f060e7a08bffaa517c63071b56ffe4df}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{PNAS Nexus}
@@ -4276,8 +4279,8 @@
       \strng{authorbibnamehash}{d14616d82c888dbeecc71e6bc494a0e6}
       \strng{authornamehash}{e47e3f3592e5abd78110a57e78933ec0}
       \strng{authorfullhash}{d14616d82c888dbeecc71e6bc494a0e6}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature}
@@ -4384,8 +4387,8 @@
       \strng{authorbibnamehash}{17694f557ecd65f855e1978cef056148}
       \strng{authornamehash}{17694f557ecd65f855e1978cef056148}
       \strng{authorfullhash}{499d803fbb1df56d215840115edd1f84}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Science}
@@ -4419,8 +4422,8 @@
       \strng{authornamehash}{4807e0aebe86c17f559853f35515b533}
       \strng{authorfullhash}{4807e0aebe86c17f559853f35515b533}
       \field{extraname}{3}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{2709-0078}
@@ -4474,8 +4477,8 @@
       \strng{authorbibnamehash}{050587313e8d9639bfe81ec67799d589}
       \strng{authornamehash}{8e6c28c9da49614c77d537f159b72e1b}
       \strng{authorfullhash}{050587313e8d9639bfe81ec67799d589}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature Food}
@@ -4543,8 +4546,8 @@
       \strng{authorbibnamehash}{7664c104dd95babdc8a1814517dc8cb1}
       \strng{authornamehash}{7664c104dd95babdc8a1814517dc8cb1}
       \strng{authorfullhash}{4d44f4f62d4a1811c625fa1248e5ea5c}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature Food}

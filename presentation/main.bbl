@@ -111,6 +111,7 @@
       \strng{shortauthorbibnamehash}{4807e0aebe86c17f559853f35515b533}
       \strng{shortauthornamehash}{4807e0aebe86c17f559853f35515b533}
       \strng{shortauthorfullhash}{4807e0aebe86c17f559853f35515b533}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -129,593 +130,1400 @@
       \verb https://doi.org/10.4060/cd7067en
       \endverb
     \endentry
-    \entry{FAO_SoilErosion_GSP}{misc}{}
+    \entry{cabernard2024biodiversity}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
       \name{author}{1}{}{%
-        {{hash=264d9adc36dcc763205708230a469e23}{%
-           family={{Food and Agriculture Organization of the United Nations}},
-           familyi={F\bibinitperiod}}}%
+        {{hash=47e3d049374d5e7b7e6180573d6d7c88}{%
+           family={Cabernard},
+           familyi={C\bibinitperiod},
+           given={Livia},
+           giveni={L\bibinitperiod}}}%
       }
-      \list{organization}{1}{%
-        {Global Soil Partnership}%
+      \strng{namehash}{f68e96a7aa348730883f752fd9e5ffb6}
+      \strng{fullhash}{f68e96a7aa348730883f752fd9e5ffb6}
+      \strng{bibnamehash}{f68e96a7aa348730883f752fd9e5ffb6}
+      \strng{authorbibnamehash}{f68e96a7aa348730883f752fd9e5ffb6}
+      \strng{authornamehash}{f68e96a7aa348730883f752fd9e5ffb6}
+      \strng{authorfullhash}{f68e96a7aa348730883f752fd9e5ffb6}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Sustainability}
+      \field{title}{Biodiversity impacts of recent land-use change driven by increases in agri-food imports}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.1038/s41893-024-01433-4
+      \endverb
+    \endentry
+    \entry{hallmann2017insect}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=ffe232443b1d16acd863a78bf5b7b7aa}{%
+           family={Hallmann},
+           familyi={H\bibinitperiod},
+           given={Caspar\bibnamedelima A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=62716e62c80d8c2eaad4e8d3010c6222}{%
+           family={Sorg},
+           familyi={S\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3b5400b78edfe701580b37f82c05d0b0}{%
+           family={Jongejans},
+           familyi={J\bibinitperiod},
+           given={Eelke},
+           giveni={E\bibinitperiod}}}%
       }
-      \strng{namehash}{264d9adc36dcc763205708230a469e23}
-      \strng{fullhash}{264d9adc36dcc763205708230a469e23}
-      \strng{bibnamehash}{264d9adc36dcc763205708230a469e23}
-      \strng{authorbibnamehash}{264d9adc36dcc763205708230a469e23}
-      \strng{authornamehash}{264d9adc36dcc763205708230a469e23}
-      \strng{authorfullhash}{264d9adc36dcc763205708230a469e23}
-      \field{extraname}{1}
+      \strng{namehash}{8b9dd64b0df8ac94c7fd589d88fe2b48}
+      \strng{fullhash}{8b9dd64b0df8ac94c7fd589d88fe2b48}
+      \strng{bibnamehash}{8b9dd64b0df8ac94c7fd589d88fe2b48}
+      \strng{authorbibnamehash}{8b9dd64b0df8ac94c7fd589d88fe2b48}
+      \strng{authornamehash}{8b9dd64b0df8ac94c7fd589d88fe2b48}
+      \strng{authorfullhash}{8b9dd64b0df8ac94c7fd589d88fe2b48}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Accessed: 2026-03-10}
-      \field{title}{Soil Erosion}
-      \field{year}{2024}
-      \verb{urlraw}
-      \verb https://www.fao.org/global-soil-partnership/areas-of-work/soil-erosion/en/
-      \endverb
-      \verb{url}
-      \verb https://www.fao.org/global-soil-partnership/areas-of-work/soil-erosion/en/
+      \field{journaltitle}{PLOS ONE}
+      \field{number}{10}
+      \field{title}{More than 75 percent decline over 27 years in total flying insect biomass in protected areas}
+      \field{volume}{12}
+      \field{year}{2017}
+      \field{pages}{e0185809}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0185809
       \endverb
     \endentry
-    \entry{IAEA_SoilErosion_Control}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=a120b3091ba982e2e21b4d053f5ff51e}{%
-           family={{International Atomic Energy Agency}},
-           familyi={I\bibinitperiod}}}%
+    \entry{rigal2023farmlandbirds}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=d3ef7cdc95476df3d41b1caff979e5f0}{%
+           family={Rigal},
+           familyi={R\bibinitperiod},
+           given={Stanislas},
+           giveni={S\bibinitperiod}}}%
+        {{hash=10beb6c905e8929a07d6e9b526bfd536}{%
+           family={Dakos},
+           familyi={D\bibinitperiod},
+           given={Vasilis},
+           giveni={V\bibinitperiod}}}%
+        {{hash=8ebe5534692aaa059a052e141a793dc7}{%
+           family={Alonso},
+           familyi={A\bibinitperiod},
+           given={Hugo},
+           giveni={H\bibinitperiod}}}%
       }
-      \list{organization}{1}{%
-        {International Atomic Energy Agency}%
-      }
-      \strng{namehash}{a120b3091ba982e2e21b4d053f5ff51e}
-      \strng{fullhash}{a120b3091ba982e2e21b4d053f5ff51e}
-      \strng{bibnamehash}{a120b3091ba982e2e21b4d053f5ff51e}
-      \strng{authorbibnamehash}{a120b3091ba982e2e21b4d053f5ff51e}
-      \strng{authornamehash}{a120b3091ba982e2e21b4d053f5ff51e}
-      \strng{authorfullhash}{a120b3091ba982e2e21b4d053f5ff51e}
+      \strng{namehash}{fb2dd1c4bab9ab50bc48abb2883c4bf5}
+      \strng{fullhash}{fb2dd1c4bab9ab50bc48abb2883c4bf5}
+      \strng{bibnamehash}{fb2dd1c4bab9ab50bc48abb2883c4bf5}
+      \strng{authorbibnamehash}{fb2dd1c4bab9ab50bc48abb2883c4bf5}
+      \strng{authornamehash}{fb2dd1c4bab9ab50bc48abb2883c4bf5}
+      \strng{authorfullhash}{fb2dd1c4bab9ab50bc48abb2883c4bf5}
       \field{sortinit}{5}
       \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Accessed: 2026-03-10}
-      \field{title}{Soil Erosion Control}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{21}
+      \field{title}{Farmland practices are driving bird population decline across {Europe}}
+      \field{volume}{120}
       \field{year}{2023}
-      \verb{urlraw}
-      \verb https://www.iaea.org/topics/soil-erosion-control
-      \endverb
-      \verb{url}
-      \verb https://www.iaea.org/topics/soil-erosion-control
+      \field{pages}{e2216573120}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1073/pnas.2216573120
       \endverb
     \endentry
-    \entry{unep_2021_pesticides_fertilizers}{report}{}
+    \entry{montgomery2007soil}{article}{}
       \name{author}{1}{}{%
-        {{hash=fbcea6c47a5127b61dd6f58639d8f9fd}{%
-           family={{United Nations Environment Programme}},
-           familyi={U\bibinitperiod}}}%
+        {{hash=94c2af14427a3a1875f8497c418e810a}{%
+           family={Montgomery},
+           familyi={M\bibinitperiod},
+           given={David\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{94c2af14427a3a1875f8497c418e810a}
+      \strng{fullhash}{94c2af14427a3a1875f8497c418e810a}
+      \strng{bibnamehash}{94c2af14427a3a1875f8497c418e810a}
+      \strng{authorbibnamehash}{94c2af14427a3a1875f8497c418e810a}
+      \strng{authornamehash}{94c2af14427a3a1875f8497c418e810a}
+      \strng{authorfullhash}{94c2af14427a3a1875f8497c418e810a}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{33}
+      \field{title}{Soil erosion and agricultural sustainability}
+      \field{volume}{104}
+      \field{year}{2007}
+      \field{pages}{13268\bibrangedash 13272}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1073/pnas.0611508104
+      \endverb
+    \endentry
+    \entry{ipcc2019srccl}{report}{}
+      \name{author}{1}{}{%
+        {{hash=676f7b9b8e5bb30500c01e2385e59174}{%
+           family={{IPCC}},
+           familyi={I\bibinitperiod}}}%
       }
       \list{institution}{1}{%
-        {UNEP}%
+        {Intergovernmental Panel on Climate Change}%
       }
-      \list{location}{1}{%
-        {Nairobi}%
+      \list{location}{2}{%
+        {Cambridge, UK}%
+        {New York, NY, USA}%
       }
-      \strng{namehash}{fbcea6c47a5127b61dd6f58639d8f9fd}
-      \strng{fullhash}{fbcea6c47a5127b61dd6f58639d8f9fd}
-      \strng{bibnamehash}{fbcea6c47a5127b61dd6f58639d8f9fd}
-      \strng{authorbibnamehash}{fbcea6c47a5127b61dd6f58639d8f9fd}
-      \strng{authornamehash}{fbcea6c47a5127b61dd6f58639d8f9fd}
-      \strng{authorfullhash}{fbcea6c47a5127b61dd6f58639d8f9fd}
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{676f7b9b8e5bb30500c01e2385e59174}
+      \strng{fullhash}{676f7b9b8e5bb30500c01e2385e59174}
+      \strng{bibnamehash}{676f7b9b8e5bb30500c01e2385e59174}
+      \strng{authorbibnamehash}{676f7b9b8e5bb30500c01e2385e59174}
+      \strng{authornamehash}{676f7b9b8e5bb30500c01e2385e59174}
+      \strng{authorfullhash}{676f7b9b8e5bb30500c01e2385e59174}
       \field{sortinit}{7}
       \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Summary for Policymakers prepared ahead of UNEA-5; the full synthesis report was published as \cite{UNEP_FAO_WHO_2022_fertilizer_impacts}}
-      \field{title}{Environmental and Health Impacts of Pesticides and Fertilizers and Ways of Minimizing Them: Summary for Policymakers}
-      \field{year}{2021}
+      \field{title}{Climate Change and Land: An {IPCC} Special Report on Climate Change, Desertification, Land Degradation, Sustainable Land Management, Food Security, and Greenhouse Gas Fluxes in Terrestrial Ecosystems}
+      \field{type}{techreport}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.1017/9781009157988
+      \endverb
       \verb{urlraw}
-      \verb https://www.unep.org/resources/report/environmental-and-health-impacts-pesticides-and-fertilizers-and-ways-minimizing
+      \verb https://www.ipcc.ch/srccl/
       \endverb
       \verb{url}
-      \verb https://www.unep.org/resources/report/environmental-and-health-impacts-pesticides-and-fertilizers-and-ways-minimizing
+      \verb https://www.ipcc.ch/srccl/
       \endverb
     \endentry
-    \entry{adam2024hazardous_pesticides}{article}{}
-      \name{author}{3}{}{%
-        {{hash=d0f3f14af5edf5871bedbc9be36c4224}{%
-           family={Ádám},
-           familyi={Á\bibinitperiod},
-           given={Balázs},
-           giveni={B\bibinitperiod}}}%
-        {{hash=eab71be349991c6f7c3cef1d7922dfc7}{%
-           family={Cocco},
-           familyi={C\bibinitperiod},
-           given={Pierluigi},
-           giveni={P\bibinitperiod}}}%
-        {{hash=c1328326fd453134ca2c5e74478ccede}{%
-           family={Godderis},
-           familyi={G\bibinitperiod},
-           given={Lode},
-           giveni={L\bibinitperiod}}}%
+    \entry{beillouin2023soc}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=bf6f5008718bdba3642dd8149b6fe118}{%
+           family={Beillouin},
+           familyi={B\bibinitperiod},
+           given={Damien},
+           giveni={D\bibinitperiod}}}%
       }
-      \strng{namehash}{901dbca55f277be65981d0204324b036}
-      \strng{fullhash}{901dbca55f277be65981d0204324b036}
-      \strng{bibnamehash}{901dbca55f277be65981d0204324b036}
-      \strng{authorbibnamehash}{901dbca55f277be65981d0204324b036}
-      \strng{authornamehash}{901dbca55f277be65981d0204324b036}
-      \strng{authorfullhash}{901dbca55f277be65981d0204324b036}
+      \strng{namehash}{6d5b5e2fef7b702584ffb70292b04833}
+      \strng{fullhash}{6d5b5e2fef7b702584ffb70292b04833}
+      \strng{bibnamehash}{6d5b5e2fef7b702584ffb70292b04833}
+      \strng{authorbibnamehash}{6d5b5e2fef7b702584ffb70292b04833}
+      \strng{authornamehash}{6d5b5e2fef7b702584ffb70292b04833}
+      \strng{authorfullhash}{6d5b5e2fef7b702584ffb70292b04833}
       \field{sortinit}{8}
       \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Toxics}
-      \field{number}{3}
-      \field{title}{Hazardous Effects of Pesticides on Human Health}
-      \field{volume}{12}
-      \field{year}{2024}
-      \field{pages}{186}
+      \field{journaltitle}{Nature Communications}
+      \field{title}{A global meta-analysis of soil organic carbon in the {Anthropocene}}
+      \field{volume}{14}
+      \field{year}{2023}
+      \field{pages}{3700}
       \range{pages}{1}
       \verb{doi}
-      \verb 10.3390/toxics12030186
+      \verb 10.1038/s41467-023-39338-z
       \endverb
     \endentry
-    \entry{UNEP_FAO_WHO_2022_fertilizer_impacts}{misc}{}
-      \name{author}{3}{}{%
-        {{hash=fbcea6c47a5127b61dd6f58639d8f9fd}{%
-           family={{United Nations Environment Programme}},
-           familyi={U\bibinitperiod}}}%
-        {{hash=264d9adc36dcc763205708230a469e23}{%
-           family={{Food and Agriculture Organization of the United Nations}},
-           familyi={F\bibinitperiod}}}%
-        {{hash=531217507bec092b6ec36c0f78f46736}{%
-           family={{World Health Organization}},
-           familyi={W\bibinitperiod}}}%
+    \entry{Tang2021}{article}{}
+      \name{author}{4}{}{%
+        {{hash=34ad5261cb2bac0e16f21d92b4a858ec}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Fiona\bibnamedelimb H.\bibnamedelimi M.},
+           giveni={F\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=cf7d8b08908c775c6a3146b4f1a9a757}{%
+           family={Lenzen},
+           familyi={L\bibinitperiod},
+           given={Manfred},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4367aa23acc8d3dd12cf62005828e697}{%
+           family={McBratney},
+           familyi={M\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=33c39d2a14f0a87e48c597722550e31f}{%
+           family={Maggi},
+           familyi={M\bibinitperiod},
+           given={Federico},
+           giveni={F\bibinitperiod}}}%
       }
-      \list{institution}{1}{%
-        {UNEP}%
-      }
-      \strng{namehash}{89123d30c04efc01ec7b17f7b98d7437}
-      \strng{fullhash}{89123d30c04efc01ec7b17f7b98d7437}
-      \strng{bibnamehash}{89123d30c04efc01ec7b17f7b98d7437}
-      \strng{authorbibnamehash}{89123d30c04efc01ec7b17f7b98d7437}
-      \strng{authornamehash}{89123d30c04efc01ec7b17f7b98d7437}
-      \strng{authorfullhash}{89123d30c04efc01ec7b17f7b98d7437}
+      \strng{namehash}{cf2a7983de9f2563c34dcd79a6cc5e34}
+      \strng{fullhash}{f9a85d41e7d259feefdff55541a7f5e4}
+      \strng{bibnamehash}{f9a85d41e7d259feefdff55541a7f5e4}
+      \strng{authorbibnamehash}{f9a85d41e7d259feefdff55541a7f5e4}
+      \strng{authornamehash}{cf2a7983de9f2563c34dcd79a6cc5e34}
+      \strng{authorfullhash}{f9a85d41e7d259feefdff55541a7f5e4}
       \field{sortinit}{9}
       \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Environmental and Health Impacts of Pesticides and Fertilizers and Ways to Minimize Them: Envisioning a Chemical-Safe World}
-      \field{year}{2022}
-      \verb{urlraw}
-      \verb https://wedocs.unep.org/20.500.11822/38409
-      \endverb
-      \verb{url}
-      \verb https://wedocs.unep.org/20.500.11822/38409
-      \endverb
-    \endentry
-    \entry{NitrogenWaterQuality2025}{article}{}
-      \name{author}{2}{}{%
-        {{hash=ce27bce777a6f607bc2518436960c903}{%
-           family={Adebanjo-Aina},
-           familyi={A\bibinithyphendelim A\bibinitperiod},
-           given={Opeyemi},
-           giveni={O\bibinitperiod}}}%
-        {{hash=4e76790d7214e429c67c684d3b781302}{%
-           family={Oludoye},
-           familyi={O\bibinitperiod},
-           given={Oluseye\bibnamedelima O.},
-           giveni={O\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
-      }
-      \strng{namehash}{63190539e8412780367a549c5b4c9f59}
-      \strng{fullhash}{63190539e8412780367a549c5b4c9f59}
-      \strng{bibnamehash}{63190539e8412780367a549c5b4c9f59}
-      \strng{authorbibnamehash}{63190539e8412780367a549c5b4c9f59}
-      \strng{authornamehash}{63190539e8412780367a549c5b4c9f59}
-      \strng{authorfullhash}{63190539e8412780367a549c5b4c9f59}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Pollutants}
-      \field{number}{3}
-      \field{title}{Impact of Nitrogen Fertiliser Usage in Agriculture on Water Quality}
-      \field{volume}{5}
-      \field{year}{2025}
-      \field{pages}{21}
-      \range{pages}{1}
+      \field{journaltitle}{Nature Geoscience}
+      \field{month}{4}
+      \field{title}{Risk of pesticide pollution at the global scale}
+      \field{volume}{14}
+      \field{year}{2021}
+      \field{pages}{206\bibrangedash 210}
+      \range{pages}{5}
       \verb{doi}
-      \verb 10.3390/pollutants5030021
-      \endverb
-      \verb{urlraw}
-      \verb https://www.mdpi.com/2673-4672/5/3/21
-      \endverb
-      \verb{url}
-      \verb https://www.mdpi.com/2673-4672/5/3/21
+      \verb 10.1038/s41561-021-00712-5
       \endverb
     \endentry
-    \entry{CBD2020_GBO5}{book}{}
-      \name{author}{1}{}{%
-        {{hash=5e16c97a79e402eb8a3923f5b91477ab}{%
-           family={{Secretariat of the Convention on Biological Diversity}},
-           familyi={S\bibinitperiod}}}%
+    \entry{breitburg2018oxygen}{article}{}
+      \name{author}{22}{}{%
+        {{hash=2b2e690fb45b70ed4a20d48ccb2184cd}{%
+           family={Breitburg},
+           familyi={B\bibinitperiod},
+           given={Denise},
+           giveni={D\bibinitperiod}}}%
+        {{hash=97f6f26922306950872cafa58f2d0c95}{%
+           family={Levin},
+           familyi={L\bibinitperiod},
+           given={Lisa\bibnamedelima A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=49eceb4e9e04040ca677894a52827ee2}{%
+           family={Oschlies},
+           familyi={O\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c75e6a747de2bf6cf662ea06154f81ee}{%
+           family={Grégoire},
+           familyi={G\bibinitperiod},
+           given={Marilaure},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d0fb3209875272086f3797bf52d5754b}{%
+           family={Chavez},
+           familyi={C\bibinitperiod},
+           given={Francisco\bibnamedelima P.},
+           giveni={F\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=bc13700b788d5253b3a9573bb91e9c47}{%
+           family={Conley},
+           familyi={C\bibinitperiod},
+           given={Daniel\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=f1ce3c28547f7ff3922afb9a4865deb8}{%
+           family={Garçon},
+           familyi={G\bibinitperiod},
+           given={Véronique},
+           giveni={V\bibinitperiod}}}%
+        {{hash=742513ea02359de2704b51928a13973c}{%
+           family={Gilbert},
+           familyi={G\bibinitperiod},
+           given={Denis},
+           giveni={D\bibinitperiod}}}%
+        {{hash=0097612e28ae5072309b045e33586c16}{%
+           family={Gutiérrez},
+           familyi={G\bibinitperiod},
+           given={Dimitri},
+           giveni={D\bibinitperiod}}}%
+        {{hash=97c027de2edba72789771e9e1a97488b}{%
+           family={Isensee},
+           familyi={I\bibinitperiod},
+           given={Kirsten},
+           giveni={K\bibinitperiod}}}%
+        {{hash=8014bde8bb6f378435e3da74525f0428}{%
+           family={Jacinto},
+           familyi={J\bibinitperiod},
+           given={Gil\bibnamedelima S.},
+           giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=b33cbd36aaa29099ccceec941733dd67}{%
+           family={Limburg},
+           familyi={L\bibinitperiod},
+           given={Karin\bibnamedelima E.},
+           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=7e1a2b81dc51060c69bbf2dca5218c73}{%
+           family={Montes},
+           familyi={M\bibinitperiod},
+           given={Ivonne},
+           giveni={I\bibinitperiod}}}%
+        {{hash=b2bc33a6fc73de05e4ee784ded372580}{%
+           family={Naqvi},
+           familyi={N\bibinitperiod},
+           given={S.\bibnamedelimi W.\bibnamedelimi A.},
+           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=d0e4d56f361aa5e3e431acb72cbfc6ba}{%
+           family={Pitcher},
+           familyi={P\bibinitperiod},
+           given={Grant\bibnamedelima C.},
+           giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=38383ee003344451ee17bd771df74dda}{%
+           family={Rabalais},
+           familyi={R\bibinitperiod},
+           given={Nancy\bibnamedelima N.},
+           giveni={N\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=e465d35be40c74742cb99dd471acbeac}{%
+           family={Roman},
+           familyi={R\bibinitperiod},
+           given={Michael\bibnamedelima R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=7800d2cd5a791e25d8b952501ff37da5}{%
+           family={Rose},
+           familyi={R\bibinitperiod},
+           given={Kenneth\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=39a8adbf93f263efbf3f2b4e910d5109}{%
+           family={Seibel},
+           familyi={S\bibinitperiod},
+           given={Brad\bibnamedelima A.},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=6bde57b84d68ed600d8ac19208c8f75c}{%
+           family={Telszewski},
+           familyi={T\bibinitperiod},
+           given={Maciej},
+           giveni={M\bibinitperiod}}}%
+        {{hash=cfb5c18b2389a18a3b6a75051e2ec9e0}{%
+           family={Yasuhara},
+           familyi={Y\bibinitperiod},
+           given={Moriaki},
+           giveni={M\bibinitperiod}}}%
+        {{hash=948f26b38fba102b6f820808e554bc53}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Jing},
+           giveni={J\bibinitperiod}}}%
       }
-      \list{location}{1}{%
-        {Montreal}%
-      }
-      \list{publisher}{1}{%
-        {United Nations Environment Programme}%
-      }
-      \strng{namehash}{5e16c97a79e402eb8a3923f5b91477ab}
-      \strng{fullhash}{5e16c97a79e402eb8a3923f5b91477ab}
-      \strng{bibnamehash}{5e16c97a79e402eb8a3923f5b91477ab}
-      \strng{authorbibnamehash}{5e16c97a79e402eb8a3923f5b91477ab}
-      \strng{authornamehash}{5e16c97a79e402eb8a3923f5b91477ab}
-      \strng{authorfullhash}{5e16c97a79e402eb8a3923f5b91477ab}
+      \strng{namehash}{2ed135e3d461449af67e9b3b4f4c7794}
+      \strng{fullhash}{03195e18b18501a4c673516de22e066e}
+      \strng{bibnamehash}{2ed135e3d461449af67e9b3b4f4c7794}
+      \strng{authorbibnamehash}{2ed135e3d461449af67e9b3b4f4c7794}
+      \strng{authornamehash}{2ed135e3d461449af67e9b3b4f4c7794}
+      \strng{authorfullhash}{03195e18b18501a4c673516de22e066e}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Global Biodiversity Outlook 5}
-      \field{year}{2020}
-      \verb{urlraw}
-      \verb https://www.cbd.int/gbo/gbo5/publication/gbo-5-en.pdf
-      \endverb
-      \verb{url}
-      \verb https://www.cbd.int/gbo/gbo5/publication/gbo-5-en.pdf
+      \field{journaltitle}{Science}
+      \field{number}{6371}
+      \field{title}{Declining oxygen in the global ocean and coastal waters}
+      \field{volume}{359}
+      \field{year}{2018}
+      \field{pages}{eaam7240}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1126/science.aam7240
       \endverb
     \endentry
-    \entry{FAO2003_EcosystemApproachAgriculture}{book}{}
+    \entry{Tian2024}{article}{}
+      \name{author}{58}{}{%
+        {{hash=c4fb415354afcb9b873870264f4b6cd2}{%
+           family={Tian},
+           familyi={T\bibinitperiod},
+           given={Hanqin},
+           giveni={H\bibinitperiod}}}%
+        {{hash=5ff8a95e4e8be25117adac9cf18f1678}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Naiqing},
+           giveni={N\bibinitperiod}}}%
+        {{hash=5f97ba233939147e194d1ea9c565fc7c}{%
+           family={Thompson},
+           familyi={T\bibinitperiod},
+           given={Rona\bibnamedelima L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=7c3cb5061e583e114447d97a09d0a877}{%
+           family={Canadell},
+           familyi={C\bibinitperiod},
+           given={Josep\bibnamedelima G.},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=17ad11e5e4bfd97b2d3cd5673f453582}{%
+           family={Suntharalingam},
+           familyi={S\bibinitperiod},
+           given={Parvadha},
+           giveni={P\bibinitperiod}}}%
+        {{hash=8baf582d10a4aabe152e93965dc3f1be}{%
+           family={Regnier},
+           familyi={R\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+        {{hash=f68ef30532f592368bb271c939b22d8f}{%
+           family={Davidson},
+           familyi={D\bibinitperiod},
+           given={Eric\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=bc116fea577cc7ee83d833b005334c44}{%
+           family={Prather},
+           familyi={P\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6e67f77fe4702964e6cd500a96516c8a}{%
+           family={Ciais},
+           familyi={C\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod}}}%
+        {{hash=4a2aed85ccdc7709fd8c2a7e009ac1c8}{%
+           family={Muntean},
+           familyi={M\bibinitperiod},
+           given={Marilena},
+           giveni={M\bibinitperiod}}}%
+        {{hash=addad8eb33ee9dea154db9497e134398}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Shufen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1b3b9eb2633f55e7b7a57f7f7ee6d56c}{%
+           family={Winiwarter},
+           familyi={W\bibinitperiod},
+           given={Wilfried},
+           giveni={W\bibinitperiod}}}%
+        {{hash=f19f26cbda9f533ce96843bd12ba066d}{%
+           family={Zaehle},
+           familyi={Z\bibinitperiod},
+           given={Sönke},
+           giveni={S\bibinitperiod}}}%
+        {{hash=66d3c3089bcd7bce5ea942512ee9f7a2}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod}}}%
+        {{hash=99fb475b0459f57edc542316f59bf88e}{%
+           family={Jackson},
+           familyi={J\bibinitperiod},
+           given={Robert\bibnamedelima B.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=de56f896783eb5ac9397e796c9ea4086}{%
+           family={Bange},
+           familyi={B\bibinitperiod},
+           given={Hermann\bibnamedelima W.},
+           giveni={H\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=caa11728d9adb0344f76633574cbe228}{%
+           family={Berthet},
+           familyi={B\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod}}}%
+        {{hash=dc370bf6b3fbe37b34f687f861da446e}{%
+           family={Bian},
+           familyi={B\bibinitperiod},
+           given={Zihao},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=701bf05e6bc97158590d61ef73305c6c}{%
+           family={Bianchi},
+           familyi={B\bibinitperiod},
+           given={Daniele},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b15d4b0d2abb1f23d7ab20ef3713e261}{%
+           family={Bouwman},
+           familyi={B\bibinitperiod},
+           given={Alexander\bibnamedelima F.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=7e014654c4d516487cef88386c277e67}{%
+           family={Buitenhuis},
+           familyi={B\bibinitperiod},
+           given={Erik\bibnamedelima T.},
+           giveni={E\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=e9b7ecd38e9bac5ec6493ca7aaf98c0e}{%
+           family={Dutton},
+           familyi={D\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod}}}%
+        {{hash=89009cc4c5f132a818df67657f124e5b}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Minpeng},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d5bbd01c96094955775b20b42cdc53ab}{%
+           family={Ito},
+           familyi={I\bibinitperiod},
+           given={Akihiko},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d32242351f1fc1b8076781b32d855cb3}{%
+           family={Jain},
+           familyi={J\bibinitperiod},
+           given={Atul\bibnamedelima K.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=321c7ef7ba8d3007dff8e2afed37c769}{%
+           family={Jeltsch-Thömmes},
+           familyi={J\bibinithyphendelim T\bibinitperiod},
+           given={Aurich},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6116bc08fe0095fcf93a1da914b14f6c}{%
+           family={Joos},
+           familyi={J\bibinitperiod},
+           given={Fortunat},
+           giveni={F\bibinitperiod}}}%
+        {{hash=b41d6a112c3a9a2a3156b5644aba05a8}{%
+           family={Kou-Giesbrecht},
+           familyi={K\bibinithyphendelim G\bibinitperiod},
+           given={Sian},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f3cf3c2758322247fc57993e05d619d8}{%
+           family={Krummel},
+           familyi={K\bibinitperiod},
+           given={Paul\bibnamedelima B.},
+           giveni={P\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=2ab35c7941675b0415888da2ad71cfcf}{%
+           family={Lan},
+           familyi={L\bibinitperiod},
+           given={Xin},
+           giveni={X\bibinitperiod}}}%
+        {{hash=2d2cccd96baa422873d5aeea2cf15ed0}{%
+           family={Landolfi},
+           familyi={L\bibinitperiod},
+           given={Angela},
+           giveni={A\bibinitperiod}}}%
+        {{hash=158984914d003428a95109a9f3784ca1}{%
+           family={Lauerwald},
+           familyi={L\bibinitperiod},
+           given={Ronny},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c15dca1dd47bb240c99f7cf6481272a5}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Ya},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=cd9bf32911e07e2023e016292340e5a9}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Chaoqun},
+           giveni={C\bibinitperiod}}}%
+        {{hash=63774fd7f99163f1559d5260c5d03628}{%
+           family={Maavara},
+           familyi={M\bibinitperiod},
+           given={Taylor},
+           giveni={T\bibinitperiod}}}%
+        {{hash=f8bb6695a92a8e5e3b9af5f758421bb6}{%
+           family={Manizza},
+           familyi={M\bibinitperiod},
+           given={Manfredi},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d96a0cec0c97fb893c7ca0abbc5cd21b}{%
+           family={Millet},
+           familyi={M\bibinitperiod},
+           given={Dylan\bibnamedelima B.},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=ef1c909f0afb23b31e2570a54cc4e04d}{%
+           family={Mühle},
+           familyi={M\bibinitperiod},
+           given={Jens},
+           giveni={J\bibinitperiod}}}%
+        {{hash=80c3936a8de66b6487f264820625c2ea}{%
+           family={Patra},
+           familyi={P\bibinitperiod},
+           given={Prabir\bibnamedelima K.},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=fa321d840fe47ade8aefd814c8e92ac5}{%
+           family={Peters},
+           familyi={P\bibinitperiod},
+           given={Glen\bibnamedelima P.},
+           giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=c7f6e846940dcc9e05f711abdd7cc00d}{%
+           family={Qin},
+           familyi={Q\bibinitperiod},
+           given={Xin},
+           giveni={X\bibinitperiod}}}%
+        {{hash=dae7cd98e2a93014a2dfaac9adca96a3}{%
+           family={Raymond},
+           familyi={R\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=8492b2619618cfbad86fc39169f001f9}{%
+           family={Resplandy},
+           familyi={R\bibinitperiod},
+           given={Laure},
+           giveni={L\bibinitperiod}}}%
+        {{hash=435a3e0db2380bb2ba9a2cfd61777df8}{%
+           family={Rosentreter},
+           familyi={R\bibinitperiod},
+           given={Judith\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=bd856a3b71fd9af902c1afb5c55eccb8}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod}}}%
+        {{hash=a80fa3d77624ab05e05847d984e235c3}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Qing},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=1760ecdfac2410f4dcd45db7faa759b5}{%
+           family={Tonina},
+           familyi={T\bibinitperiod},
+           given={Daniele},
+           giveni={D\bibinitperiod}}}%
+        {{hash=29a793187217bb2075087677ab512a40}{%
+           family={Tubiello},
+           familyi={T\bibinitperiod},
+           given={Francesco\bibnamedelima N.},
+           giveni={F\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=b4bbad7cdf0fa2a20f3b22e848d28dc7}{%
+           family={Werf},
+           familyi={W\bibinitperiod},
+           given={Guido\bibnamedelima R.},
+           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=6160894ca78a8644b271df0f18e99392}{%
+           family={Vuichard},
+           familyi={V\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=0311431642470a7b59cea4fbf9543da7}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Junjie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=318f67d60a427023ddd528bd37cc1ab9}{%
+           family={Wells},
+           familyi={W\bibinitperiod},
+           given={Kelley\bibnamedelima C.},
+           giveni={K\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=181d257a09c7244850fd8853d34f323e}{%
+           family={Western},
+           familyi={W\bibinitperiod},
+           given={Luke\bibnamedelima M.},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=0b7192f900fa1ae2efec10b535d1ac81}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+        {{hash=072ff71d88d1d37480dde2bddd460fb2}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Jia},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ecff557213d5c6739a6479a311daf1cd}{%
+           family={Yao},
+           familyi={Y\bibinitperiod},
+           given={Yuanzhi},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=4fa898010bbb713d0f7a57349d093368}{%
+           family={You},
+           familyi={Y\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=7a555a6bf35aaa4676d6e351fdfa51a1}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Qing},
+           giveni={Q\bibinitperiod}}}%
+      }
+      \strng{namehash}{4bed88b7725dada87e5f42aeb75a6c1c}
+      \strng{fullhash}{c4270b33363419e4df0a524702d9fecc}
+      \strng{bibnamehash}{4bed88b7725dada87e5f42aeb75a6c1c}
+      \strng{authorbibnamehash}{4bed88b7725dada87e5f42aeb75a6c1c}
+      \strng{authornamehash}{4bed88b7725dada87e5f42aeb75a6c1c}
+      \strng{authorfullhash}{c4270b33363419e4df0a524702d9fecc}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Earth System Science Data}
+      \field{number}{6}
+      \field{title}{Global nitrous oxide budget (1980--2020)}
+      \field{volume}{16}
+      \field{year}{2024}
+      \field{pages}{2543\bibrangedash 2604}
+      \range{pages}{62}
+      \verb{doi}
+      \verb 10.5194/essd-16-2543-2024
+      \endverb
+    \endentry
+    \entry{zhu2000genetic}{article}{}
+      \name{author}{14}{}{%
+        {{hash=4cfb8337785a3d26bf2e92a6798bfc32}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Youyong},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=8f7f4869d99c9483fe30ea98995d6369}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Hairu},
+           giveni={H\bibinitperiod}}}%
+        {{hash=156332541aad841b92bb6c4a9f9aaffc}{%
+           family={Fan},
+           familyi={F\bibinitperiod},
+           given={Jinghua},
+           giveni={J\bibinitperiod}}}%
+        {{hash=254d5abb6648481922fc0e2a5286f2ff}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yunyue},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=92e14a8c19eb5a0c7c199c85db74f106}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=79fe484acc6013370ffbbea0c314975f}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Jianbing},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8556c935bf689c4ee43528cfb1f863d9}{%
+           family={Fan},
+           familyi={F\bibinitperiod},
+           given={Jin\bibnamedelima Xiang},
+           giveni={J\bibinitperiod\bibinitdelim X\bibinitperiod}}}%
+        {{hash=337a208b377fe64da3d7838713782035}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Shisheng},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d3321d79822af876f8bb4ecaaabab125}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Lingping},
+           giveni={L\bibinitperiod}}}%
+        {{hash=0d68a063816e2375c497448ed1215e47}{%
+           family={Leung},
+           familyi={L\bibinitperiod},
+           given={Hei},
+           giveni={H\bibinitperiod}}}%
+        {{hash=ab373f5416d33bd0b7b7f4c21858e3fc}{%
+           family={Mew},
+           familyi={M\bibinitperiod},
+           given={Tom\bibnamedelima W.},
+           giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=b25df6515a89e8fe4bb8c4d1eb4cbe25}{%
+           family={Teng},
+           familyi={T\bibinitperiod},
+           given={Paul\bibnamedelima S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=e4f912c36a249a2f192a6191c317d7af}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Zonghua},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=186d7c6b859e5f92ad65beac966de025}{%
+           family={Mundt},
+           familyi={M\bibinitperiod},
+           given={Christopher\bibnamedelima C.},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{a40e5731c01838a91751c9484ebcf004}
+      \strng{fullhash}{6f27da56bb9e1a7acfa34c0fe12d4346}
+      \strng{bibnamehash}{a40e5731c01838a91751c9484ebcf004}
+      \strng{authorbibnamehash}{a40e5731c01838a91751c9484ebcf004}
+      \strng{authornamehash}{a40e5731c01838a91751c9484ebcf004}
+      \strng{authorfullhash}{6f27da56bb9e1a7acfa34c0fe12d4346}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{title}{Genetic diversity and disease control in rice}
+      \field{volume}{406}
+      \field{year}{2000}
+      \field{pages}{718\bibrangedash 722}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1038/35021046
+      \endverb
+    \endentry
+    \entry{kema2021vulnerability}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d2cce8997b865a6c7ab3d809fbad04f9}{%
+           family={Drenth},
+           familyi={D\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5102dec3a8cdb44fee0ff752687e8abd}{%
+           family={Kema},
+           familyi={K\bibinitperiod},
+           given={Gert},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{2994b700b8a2ada4302317d9e0789908}
+      \strng{fullhash}{2994b700b8a2ada4302317d9e0789908}
+      \strng{bibnamehash}{2994b700b8a2ada4302317d9e0789908}
+      \strng{authorbibnamehash}{2994b700b8a2ada4302317d9e0789908}
+      \strng{authornamehash}{2994b700b8a2ada4302317d9e0789908}
+      \strng{authorfullhash}{2994b700b8a2ada4302317d9e0789908}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Phytopathology}
+      \field{note}{PMID: 34231377}
+      \field{number}{12}
+      \field{title}{The Vulnerability of Bananas to Globally Emerging Disease Threats}
+      \field{volume}{111}
+      \field{year}{2021}
+      \field{pages}{2146\bibrangedash 2161}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1094/PHYTO-07-20-0311-RVW
+      \endverb
+    \endentry
+    \entry{etcgroup2025agribusiness}{report}{}
+      \name{author}{2}{}{%
+        {{hash=33cac8ecf0fb728af6d259ae8113027a}{%
+           family={{ETC Group}},
+           familyi={E\bibinitperiod}}}%
+        {{hash=3f8d55f591780bf42ba5164870552d67}{%
+           family={{GRAIN}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {ETC Group}%
+        {GRAIN}%
+      }
+      \strng{namehash}{1908e1dbd2ecd3d7de6a1e6a3d5c5c21}
+      \strng{fullhash}{1908e1dbd2ecd3d7de6a1e6a3d5c5c21}
+      \strng{bibnamehash}{1908e1dbd2ecd3d7de6a1e6a3d5c5c21}
+      \strng{authorbibnamehash}{1908e1dbd2ecd3d7de6a1e6a3d5c5c21}
+      \strng{authornamehash}{1908e1dbd2ecd3d7de6a1e6a3d5c5c21}
+      \strng{authorfullhash}{1908e1dbd2ecd3d7de6a1e6a3d5c5c21}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Top 10 Agribusiness Giants: Corporate Concentration in Food \& Farming in 2025}
+      \field{type}{techreport}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.etcgroup.org/content/top-10-agribusiness-giants
+      \endverb
+      \verb{url}
+      \verb https://www.etcgroup.org/content/top-10-agribusiness-giants
+      \endverb
+    \endentry
+    \entry{howard2009consolidation}{article}{}
       \name{author}{1}{}{%
-        {{hash=264d9adc36dcc763205708230a469e23}{%
-           family={{Food and Agriculture Organization of the United Nations}},
+        {{hash=440bf00273564eff24975adac9e2751b}{%
+           family={Howard},
+           familyi={H\bibinitperiod},
+           given={Philip\bibnamedelima H.},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{440bf00273564eff24975adac9e2751b}
+      \strng{fullhash}{440bf00273564eff24975adac9e2751b}
+      \strng{bibnamehash}{440bf00273564eff24975adac9e2751b}
+      \strng{authorbibnamehash}{440bf00273564eff24975adac9e2751b}
+      \strng{authornamehash}{440bf00273564eff24975adac9e2751b}
+      \strng{authorfullhash}{440bf00273564eff24975adac9e2751b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sustainability}
+      \field{number}{4}
+      \field{title}{Visualizing Consolidation in the Global Seed Industry: 1996--2008}
+      \field{volume}{1}
+      \field{year}{2009}
+      \field{pages}{1266\bibrangedash 1287}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.3390/su1041266
+      \endverb
+    \endentry
+    \entry{puy2025irrigation}{article}{}
+      \name{author}{9}{}{%
+        {{hash=309f6507cdaaf8964069b6d8a4e8e1a2}{%
+           family={Puy},
+           familyi={P\bibinitperiod},
+           given={Arnald},
+           giveni={A\bibinitperiod}}}%
+        {{hash=50321b8542c96139928c4019aa999911}{%
+           family={Linga},
+           familyi={L\bibinitperiod},
+           given={Seth\bibnamedelima N.},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=7b08f0f47cb2f5a19f63924bd3b43cc6}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Nanxin},
+           giveni={N\bibinitperiod}}}%
+        {{hash=70dac5256fc2affc838b53372ddb1b1a}{%
+           family={Flinders},
+           familyi={F\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c38561aa7cb20a04ee7c002c72e17d1c}{%
+           family={Callow},
+           familyi={C\bibinitperiod},
+           given={Bethan},
+           giveni={B\bibinitperiod}}}%
+        {{hash=b6462cd1b18798c4c2f8acbc473522bd}{%
+           family={Allen},
+           familyi={A\bibinitperiod},
+           given={Grace},
+           giveni={G\bibinitperiod}}}%
+        {{hash=d64d191c5d48c7a48beabf77a3422f25}{%
+           family={Cross},
+           familyi={C\bibinitperiod},
+           given={Beatrice},
+           giveni={B\bibinitperiod}}}%
+        {{hash=2bd10febe79d3570d33fc1305451a3bd}{%
+           family={Aguiló-Rivera},
+           familyi={A\bibinithyphendelim R\bibinitperiod},
+           given={Carmen},
+           giveni={C\bibinitperiod}}}%
+        {{hash=53588822460fccfdb394a8af133e9c4b}{%
+           family={Lankford},
+           familyi={L\bibinitperiod},
+           given={Bruce},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{be0215d6aea24e48f267b165a40340b5}
+      \strng{fullhash}{f060e7a08bffaa517c63071b56ffe4df}
+      \strng{bibnamehash}{be0215d6aea24e48f267b165a40340b5}
+      \strng{authorbibnamehash}{be0215d6aea24e48f267b165a40340b5}
+      \strng{authornamehash}{be0215d6aea24e48f267b165a40340b5}
+      \strng{authorfullhash}{f060e7a08bffaa517c63071b56ffe4df}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PNAS Nexus}
+      \field{number}{11}
+      \field{title}{Widely cited global irrigation statistics lack empirical support}
+      \field{volume}{4}
+      \field{year}{2025}
+      \field{pages}{pgaf323}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1093/pnasnexus/pgaf323
+      \endverb
+    \endentry
+    \entry{dalin2017groundwater}{article}{}
+      \name{author}{4}{}{%
+        {{hash=648775a300f1cbbe292b8980f2fa188f}{%
+           family={Dalin},
+           familyi={D\bibinitperiod},
+           given={Carole},
+           giveni={C\bibinitperiod}}}%
+        {{hash=5f49a53af9ecd9435959b7806af47133}{%
+           family={Wada},
+           familyi={W\bibinitperiod},
+           given={Yoshihide},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=9ddc8703c810fc5a0d5aecca9741acdd}{%
+           family={Kastner},
+           familyi={K\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=2a39fc9f69ae77363dab2f538098e2cc}{%
+           family={Puma},
+           familyi={P\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{e47e3f3592e5abd78110a57e78933ec0}
+      \strng{fullhash}{d14616d82c888dbeecc71e6bc494a0e6}
+      \strng{bibnamehash}{d14616d82c888dbeecc71e6bc494a0e6}
+      \strng{authorbibnamehash}{d14616d82c888dbeecc71e6bc494a0e6}
+      \strng{authornamehash}{e47e3f3592e5abd78110a57e78933ec0}
+      \strng{authorfullhash}{d14616d82c888dbeecc71e6bc494a0e6}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{title}{Groundwater depletion embedded in international food trade}
+      \field{volume}{543}
+      \field{year}{2017}
+      \field{pages}{700\bibrangedash 704}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1038/nature21403
+      \endverb
+    \endentry
+    \entry{fao2024ghg}{report}{}
+      \name{author}{1}{}{%
+        {{hash=4807e0aebe86c17f559853f35515b533}{%
+           family={{FAO}},
            familyi={F\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {Food}%
+        {Agriculture Organization of the United Nations}%
       }
       \list{location}{1}{%
         {Rome}%
       }
-      \list{publisher}{1}{%
-        {FAO}%
-      }
-      \strng{namehash}{264d9adc36dcc763205708230a469e23}
-      \strng{fullhash}{264d9adc36dcc763205708230a469e23}
-      \strng{bibnamehash}{264d9adc36dcc763205708230a469e23}
-      \strng{authorbibnamehash}{264d9adc36dcc763205708230a469e23}
-      \strng{authornamehash}{264d9adc36dcc763205708230a469e23}
-      \strng{authorfullhash}{264d9adc36dcc763205708230a469e23}
+      \strng{namehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{fullhash}{4807e0aebe86c17f559853f35515b533}
+      \strng{bibnamehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{authorbibnamehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{authornamehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{authorfullhash}{4807e0aebe86c17f559853f35515b533}
       \field{extraname}{2}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Biodiversity and the Ecosystem Approach in Agriculture, Forestry and Fisheries}
-      \field{year}{2003}
+      \field{issn}{2709-0078}
+      \field{number}{94}
+      \field{title}{Greenhouse Gas Emissions from Agrifood Systems -- Global, Regional and Country Trends, 2000--2022}
+      \field{type}{FAOSTAT Analytical Brief Series}
+      \field{year}{2024}
       \verb{urlraw}
-      \verb https://www.fao.org/3/y4586e/y4586e00.htm
+      \verb https://openknowledge.fao.org/handle/20.500.14283/cd3167en
       \endverb
       \verb{url}
-      \verb https://www.fao.org/3/y4586e/y4586e00.htm
+      \verb https://openknowledge.fao.org/handle/20.500.14283/cd3167en
       \endverb
     \endentry
-    \entry{Letourneau2011_PlantDiversityPests}{article}{}
-      \name{author}{17}{}{%
-        {{hash=2b303aa514efb6db183b930b23d31807}{%
-           family={Letourneau},
-           familyi={L\bibinitperiod},
-           given={Deborah\bibnamedelima K.},
-           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=6bd71a4e3b297ec11af6a12778567201}{%
-           family={Armbrecht},
-           familyi={A\bibinitperiod},
-           given={Inge},
-           giveni={I\bibinitperiod}}}%
-        {{hash=50706497d318591f194af9857c275ca9}{%
-           family={Rivera},
-           familyi={R\bibinitperiod},
-           given={Beatriz\bibnamedelima Salguero},
-           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=1b17f049351bc0986b029a5ca220b28b}{%
-           family={Lerma},
-           familyi={L\bibinitperiod},
-           given={James\bibnamedelima Montoya},
-           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=43244953f62a417767d987c0e5bf9fbc}{%
-           family={Carmona},
-           familyi={C\bibinitperiod},
-           given={Enrique\bibnamedelima Jiménez},
-           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=a88d1f2de829eef14611ec81fb0eaf3e}{%
-           family={Daza},
-           familyi={D\bibinitperiod},
-           given={Martha\bibnamedelima Caridad},
-           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=364944f3150d2eb488c268d622edde91}{%
-           family={Escobar},
-           familyi={E\bibinitperiod},
-           given={Sandy},
-           giveni={S\bibinitperiod}}}%
-        {{hash=f60877a3ce60e50246f976cded0d952c}{%
-           family={Galindo},
-           familyi={G\bibinitperiod},
-           given={Viviana},
-           giveni={V\bibinitperiod}}}%
-        {{hash=ca67d775f7b69ed0a0ad44284420fbe1}{%
-           family={Gutiérrez},
-           familyi={G\bibinitperiod},
-           given={Christian},
-           giveni={C\bibinitperiod}}}%
-        {{hash=7626e5b1ae0c42dca66d3a7f60e3f45c}{%
-           family={López},
-           familyi={L\bibinitperiod},
-           given={Sandra\bibnamedelima Duque},
-           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{hash=88194d22f3c9a80fff8ffc6c0c5dbe86}{%
-           family={Mejía},
-           familyi={M\bibinitperiod},
-           given={Jorge\bibnamedelima Luis},
-           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=ce14e7395108baa6ad882aa51292a314}{%
-           family={Rangel},
-           familyi={R\bibinitperiod},
-           given={Adriana\bibnamedelimb María\bibnamedelima Arcila},
-           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=38b71294a2d16c9636f23ffdc79a59d5}{%
-           family={Rangel},
-           familyi={R\bibinitperiod},
-           given={Johanna\bibnamedelima Helena},
-           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=060fc0b5658d2da7e062a6f5c6425b51}{%
-           family={Rivera},
-           familyi={R\bibinitperiod},
-           given={Luz},
-           giveni={L\bibinitperiod}}}%
-        {{hash=952450ca6e4cbb23066fc9aa49865900}{%
-           family={Saavedra},
-           familyi={S\bibinitperiod},
-           given={Catalina\bibnamedelima Arregui},
-           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=52793e0c7299cf38f68d41b7e019cb18}{%
-           family={Torres},
-           familyi={T\bibinitperiod},
-           given={Adriana\bibnamedelima Marcela},
-           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=27bf9c88ff3454d548c71877cd25f822}{%
-           family={Trujillo},
-           familyi={T\bibinitperiod},
-           given={Ana\bibnamedelima Rosa},
-           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-      }
-      \strng{namehash}{c287126413c05060b59a907164dd1abc}
-      \strng{fullhash}{2097ae5fdb0661871dec2c2a4408e4f4}
-      \strng{bibnamehash}{c287126413c05060b59a907164dd1abc}
-      \strng{authorbibnamehash}{c287126413c05060b59a907164dd1abc}
-      \strng{authornamehash}{c287126413c05060b59a907164dd1abc}
-      \strng{authorfullhash}{2097ae5fdb0661871dec2c2a4408e4f4}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Ecological Applications}
-      \field{number}{1}
-      \field{title}{Does plant diversity benefit agroecosystems? A synthetic review}
-      \field{volume}{21}
-      \field{year}{2011}
-      \field{pages}{9\bibrangedash 21}
-      \range{pages}{13}
-      \verb{doi}
-      \verb 10.1890/09-2026.1
-      \endverb
-    \endentry
-    \entry{Kaur2024_MonocultureImpacts}{incollection}{}
+    \entry{clark2020foodclimate}{article}{}
       \name{author}{8}{}{%
-        {{hash=1120ef5770f0913e00d1a5f3d8318cf9}{%
-           family={Kaur},
-           familyi={K\bibinitperiod},
-           given={Sandeep},
-           giveni={S\bibinitperiod}}}%
-        {{hash=ff6106df6e3c573fabbf91ef37645e35}{%
-           family={Bedi},
-           familyi={B\bibinitperiod},
-           given={Mandeep},
-           giveni={M\bibinitperiod}}}%
-        {{hash=9a7ce04965f5b1f8a37c5ccdcc8b7f17}{%
-           family={Singh},
-           familyi={S\bibinitperiod},
-           given={Simran},
-           giveni={S\bibinitperiod}}}%
-        {{hash=28d748f5af9c136ccf2671dd4581ac43}{%
-           family={Kour},
-           familyi={K\bibinitperiod},
-           given={Navdeep},
-           giveni={N\bibinitperiod}}}%
-        {{hash=01db0dab9930bbd168e7615d8b0aa4f8}{%
-           family={Bhatti},
-           familyi={B\bibinitperiod},
-           given={Sandip\bibnamedelima Singh},
-           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=87d5a18132abce296fc4e03f3cf65bb9}{%
-           family={Bhatia},
-           familyi={B\bibinitperiod},
-           given={Astha},
-           giveni={A\bibinitperiod}}}%
-        {{hash=939a07ef95f263a77489acec648a3070}{%
-           family={Kumar},
-           familyi={K\bibinitperiod},
-           given={Manoj},
-           giveni={M\bibinitperiod}}}%
-        {{hash=74ecbe766cff57c44859e6024fb62150}{%
-           family={Kumar},
-           familyi={K\bibinitperiod},
-           given={Ravinder},
-           giveni={R\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{72dd056a2fd3ba0c8ded5bff47bbacea}
-      \strng{fullhash}{7039b2166a9592ccca15854b3b66d32b}
-      \strng{bibnamehash}{72dd056a2fd3ba0c8ded5bff47bbacea}
-      \strng{authorbibnamehash}{72dd056a2fd3ba0c8ded5bff47bbacea}
-      \strng{authornamehash}{72dd056a2fd3ba0c8ded5bff47bbacea}
-      \strng{authorfullhash}{7039b2166a9592ccca15854b3b66d32b}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Advances in Food Security and Sustainability}
-      \field{title}{Monoculture of crops: A challenge in attaining food security}
-      \field{year}{2024}
-      \field{pages}{197\bibrangedash 213}
-      \range{pages}{17}
-      \verb{doi}
-      \verb 10.1016/bs.af2s.2024.07.008
-      \endverb
-    \endentry
-    \entry{Kumar2017PostharvestLoss}{article}{}
-      \name{author}{2}{}{%
-        {{hash=ac480063a097b769bae5aa33cd291d46}{%
-           family={Kumar},
-           familyi={K\bibinitperiod},
-           given={Deepak},
+        {{hash=ad8bec93748ca2426ed14f2575fee09b}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={Michael\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=662e11dd31e0bdbade6bc97c67aae4bb}{%
+           family={Domingo},
+           familyi={D\bibinitperiod},
+           given={Nina\bibnamedelimb G.\bibnamedelimi G.},
+           giveni={N\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=87e72465c468786c49d1c599ecfeb88f}{%
+           family={Colgan},
+           familyi={C\bibinitperiod},
+           given={Kimberly},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c86a329e64aa6223fc0a9650d4a5bf85}{%
+           family={Thakrar},
+           familyi={T\bibinitperiod},
+           given={Sumil\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=56e145e8f70192e123c180987985ea9b}{%
+           family={Tilman},
+           familyi={T\bibinitperiod},
+           given={David},
            giveni={D\bibinitperiod}}}%
-        {{hash=38714bf600d9b12725455e779acffc4c}{%
-           family={Kalita},
-           familyi={K\bibinitperiod},
-           given={Prasanta},
-           giveni={P\bibinitperiod}}}%
+        {{hash=7fbb54472b7d7841c21e90f5138c8ef8}{%
+           family={Lynch},
+           familyi={L\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=95527c4de7b97a4a7c46f59b025cb9a7}{%
+           family={Azevedo},
+           familyi={A\bibinitperiod},
+           given={Inês\bibnamedelima L.},
+           giveni={I\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=e599476fef7faf8c826603828271a44b}{%
+           family={Hill},
+           familyi={H\bibinitperiod},
+           given={Jason\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
       }
-      \strng{namehash}{eda234f4035c03d884aa40d851c90ca3}
-      \strng{fullhash}{eda234f4035c03d884aa40d851c90ca3}
-      \strng{bibnamehash}{eda234f4035c03d884aa40d851c90ca3}
-      \strng{authorbibnamehash}{eda234f4035c03d884aa40d851c90ca3}
-      \strng{authornamehash}{eda234f4035c03d884aa40d851c90ca3}
-      \strng{authorfullhash}{eda234f4035c03d884aa40d851c90ca3}
+      \strng{namehash}{4bb00a53f22e84532c810d5b440e0d66}
+      \strng{fullhash}{0785039ba4037dcfab2bfa3273fec682}
+      \strng{bibnamehash}{4bb00a53f22e84532c810d5b440e0d66}
+      \strng{authorbibnamehash}{4bb00a53f22e84532c810d5b440e0d66}
+      \strng{authornamehash}{4bb00a53f22e84532c810d5b440e0d66}
+      \strng{authorfullhash}{0785039ba4037dcfab2bfa3273fec682}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Foods}
-      \field{number}{1}
-      \field{title}{Reducing Postharvest Losses during Storage of Grain Crops to Strengthen Food Security in Developing Countries}
-      \field{volume}{6}
-      \field{year}{2017}
-      \field{pages}{8}
-      \range{pages}{1}
+      \field{journaltitle}{Science}
+      \field{title}{Global food system emissions could preclude achieving the 1.5{°} and 2{°}{C} climate change targets}
+      \field{volume}{370}
+      \field{year}{2020}
+      \field{pages}{705\bibrangedash 708}
+      \range{pages}{4}
       \verb{doi}
-      \verb 10.3390/foods6010008
+      \verb 10.1126/science.aba7357
       \endverb
     \endentry
-    \entry{FAO2013_food_wastage_footprint}{report}{}
-      \name{author}{1}{}{%
-        {{hash=264d9adc36dcc763205708230a469e23}{%
-           family={{Food and Agriculture Organization of the United Nations}},
-           familyi={F\bibinitperiod}}}%
+    \entry{flammini2024coldchain}{article}{}
+      \name{author}{6}{}{%
+        {{hash=2596bc60fbbe46dccfc09ae3fd2522d0}{%
+           family={Flammini},
+           familyi={F\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod}}}%
+        {{hash=218cf0b466087063f21277cdb994edfd}{%
+           family={Adzmir},
+           familyi={A\bibinitperiod},
+           given={Hanif},
+           giveni={H\bibinitperiod}}}%
+        {{hash=ad0a99f5b9ca2d51605679f42a95bc50}{%
+           family={Pattison},
+           familyi={P\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=ab58a2c16d607bf44cf322d2991e8a3d}{%
+           family={Karl},
+           familyi={K\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=960c0e928a7da555da9aacde59a1be20}{%
+           family={Allouche},
+           familyi={A\bibinitperiod},
+           given={Yosr},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=787b8b1330e82b7a25a97e9b936d433d}{%
+           family={Tubiello},
+           familyi={T\bibinitperiod},
+           given={Francesco\bibnamedelima Nicola},
+           giveni={F\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
       }
-      \list{institution}{1}{%
-        {FAO}%
-      }
-      \list{location}{1}{%
-        {Rome, Italy}%
-      }
-      \strng{namehash}{264d9adc36dcc763205708230a469e23}
-      \strng{fullhash}{264d9adc36dcc763205708230a469e23}
-      \strng{bibnamehash}{264d9adc36dcc763205708230a469e23}
-      \strng{authorbibnamehash}{264d9adc36dcc763205708230a469e23}
-      \strng{authornamehash}{264d9adc36dcc763205708230a469e23}
-      \strng{authorfullhash}{264d9adc36dcc763205708230a469e23}
-      \field{extraname}{3}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \strng{namehash}{861901c7a250026d1b522c2543f1357e}
+      \strng{fullhash}{3017956a975b85b26676fa50c43c54f6}
+      \strng{bibnamehash}{3017956a975b85b26676fa50c43c54f6}
+      \strng{authorbibnamehash}{3017956a975b85b26676fa50c43c54f6}
+      \strng{authornamehash}{861901c7a250026d1b522c2543f1357e}
+      \strng{authorfullhash}{3017956a975b85b26676fa50c43c54f6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{978-92-5-107752-8}
-      \field{title}{Food Wastage Footprint: Impacts on Natural Resources}
-      \field{year}{2013}
-      \field{pages}{63}
+      \field{journaltitle}{Sustainability}
+      \field{number}{21}
+      \field{title}{Greenhouse Gas Emissions from Cold Chains in Agrifood Systems}
+      \field{volume}{16}
+      \field{year}{2024}
+      \field{pages}{9184}
       \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/su16219184
+      \endverb
     \endentry
-    \entry{IPCC2019SRCCL}{report}{}
+    \entry{epa2023methane}{report}{}
       \name{author}{1}{}{%
-        {{hash=92bb724b0d9a20cee031d94d110d683a}{%
-           family={{Intergovernmental Panel on Climate Change}},
-           familyi={I\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {IPCC}%
-      }
-      \strng{namehash}{92bb724b0d9a20cee031d94d110d683a}
-      \strng{fullhash}{92bb724b0d9a20cee031d94d110d683a}
-      \strng{bibnamehash}{92bb724b0d9a20cee031d94d110d683a}
-      \strng{authorbibnamehash}{92bb724b0d9a20cee031d94d110d683a}
-      \strng{authornamehash}{92bb724b0d9a20cee031d94d110d683a}
-      \strng{authorfullhash}{92bb724b0d9a20cee031d94d110d683a}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{chapter}{Chapter 5: Food Security}
-      \field{title}{Climate Change and Land: An IPCC Special Report}
-      \field{year}{2019}
-      \field{pages}{437\bibrangedash 550}
-      \range{pages}{114}
-    \endentry
-    \entry{GSDR2019}{report}{}
-      \name{author}{1}{}{%
-        {{hash=eccb44c9a7b3005992d0cb473b80b6e0}{%
-           family={{United Nations Department of Economic and Social Affairs}},
+        {{hash=ebd2214471a4e1b7ea73f1a9cb90dfed}{%
+           family={{United States Environmental Protection Agency}},
            familyi={U\bibinitperiod}}}%
       }
       \list{institution}{1}{%
-        {United Nations}%
+        {US EPA}%
       }
-      \strng{namehash}{eccb44c9a7b3005992d0cb473b80b6e0}
-      \strng{fullhash}{eccb44c9a7b3005992d0cb473b80b6e0}
-      \strng{bibnamehash}{eccb44c9a7b3005992d0cb473b80b6e0}
-      \strng{authorbibnamehash}{eccb44c9a7b3005992d0cb473b80b6e0}
-      \strng{authornamehash}{eccb44c9a7b3005992d0cb473b80b6e0}
-      \strng{authorfullhash}{eccb44c9a7b3005992d0cb473b80b6e0}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \strng{namehash}{ebd2214471a4e1b7ea73f1a9cb90dfed}
+      \strng{fullhash}{ebd2214471a4e1b7ea73f1a9cb90dfed}
+      \strng{bibnamehash}{ebd2214471a4e1b7ea73f1a9cb90dfed}
+      \strng{authorbibnamehash}{ebd2214471a4e1b7ea73f1a9cb90dfed}
+      \strng{authornamehash}{ebd2214471a4e1b7ea73f1a9cb90dfed}
+      \strng{authorfullhash}{ebd2214471a4e1b7ea73f1a9cb90dfed}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Global Sustainable Development Report 2019: The Future is Now}
-      \field{year}{2019}
-      \field{pages}{139}
-      \range{pages}{1}
+      \field{number}{EPA-600-R-23-064}
+      \field{title}{Quantifying methane emissions from landfilled food waste}
+      \field{year}{2023}
       \verb{urlraw}
-      \verb https://www.wfeo.org/wp-content/uploads/un/gsdr/24797GSDR_report_2019.pdf
+      \verb https://www.epa.gov/land-research/quantifying-methane-emissions-landfilled-food-waste
       \endverb
       \verb{url}
-      \verb https://www.wfeo.org/wp-content/uploads/un/gsdr/24797GSDR_report_2019.pdf
+      \verb https://www.epa.gov/land-research/quantifying-methane-emissions-landfilled-food-waste
       \endverb
     \endentry
-    \entry{IPES2017TooBigToFeed}{report}{}
+    \entry{usda2025grain}{report}{}
       \name{author}{1}{}{%
-        {{hash=69bf46324a1541913dc2ec0a9957e11f}{%
-           family={{International Panel of Experts on Sustainable Food Systems}},
-           familyi={I\bibinitperiod}}}%
+        {{hash=20887337719d3b2b30d732e7cb8a2995}{%
+           family={{USDA Foreign Agricultural Service}},
+           familyi={U\bibinitperiod}}}%
       }
       \list{institution}{1}{%
-        {IPES-Food}%
+        {United States Department of Agriculture}%
       }
-      \strng{namehash}{69bf46324a1541913dc2ec0a9957e11f}
-      \strng{fullhash}{69bf46324a1541913dc2ec0a9957e11f}
-      \strng{bibnamehash}{69bf46324a1541913dc2ec0a9957e11f}
-      \strng{authorbibnamehash}{69bf46324a1541913dc2ec0a9957e11f}
-      \strng{authornamehash}{69bf46324a1541913dc2ec0a9957e11f}
-      \strng{authorfullhash}{69bf46324a1541913dc2ec0a9957e11f}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \strng{namehash}{20887337719d3b2b30d732e7cb8a2995}
+      \strng{fullhash}{20887337719d3b2b30d732e7cb8a2995}
+      \strng{bibnamehash}{20887337719d3b2b30d732e7cb8a2995}
+      \strng{authorbibnamehash}{20887337719d3b2b30d732e7cb8a2995}
+      \strng{authornamehash}{20887337719d3b2b30d732e7cb8a2995}
+      \strng{authorfullhash}{20887337719d3b2b30d732e7cb8a2995}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Too Big to Feed: Exploring the Impacts of Mega-Mergers, Consolidation and Concentration of Power in the Agri-Food Sector}
-      \field{year}{2017}
-      \field{pages}{3}
-      \range{pages}{1}
+      \field{month}{8}
+      \field{title}{Grain: World Markets and Trade}
+      \field{type}{techreport}
+      \field{year}{2025}
       \verb{urlraw}
-      \verb https://ipes-food.org/report/too-big-to-feed/
+      \verb https://apps.fas.usda.gov/psdonline/circulars/grain.pdf
       \endverb
       \verb{url}
-      \verb https://ipes-food.org/report/too-big-to-feed/
+      \verb https://apps.fas.usda.gov/psdonline/circulars/grain.pdf
+      \endverb
+    \endentry
+    \entry{fao2025sofa}{report}{}
+      \name{author}{1}{}{%
+        {{hash=4807e0aebe86c17f559853f35515b533}{%
+           family={{FAO}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {Food}%
+        {Agriculture Organization of the United Nations}%
+      }
+      \list{location}{1}{%
+        {Rome}%
+      }
+      \strng{namehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{fullhash}{4807e0aebe86c17f559853f35515b533}
+      \strng{bibnamehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{authorbibnamehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{authornamehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{authorfullhash}{4807e0aebe86c17f559853f35515b533}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-92-5-140142-2}
+      \field{title}{The State of Food and Agriculture 2025 --- Addressing Land Degradation across Landholding Scales}
+      \field{type}{techreport}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.4060/cd7067en
+      \endverb
+    \endentry
+    \entry{lane2024upf}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=7e9d0196ff5eb29c6a28779dfe84792c}{%
+           family={Lane},
+           familyi={L\bibinitperiod},
+           given={Melissa\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=0488df9329fc5111b5d75000d850a468}{%
+           family={Gamage},
+           familyi={G\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod}}}%
+        {{hash=42161c477b20fdf8718fe22f22982254}{%
+           family={Du},
+           familyi={D\bibinitperiod},
+           given={Shutong},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{80b003097655e3328879b5b431f2b8cf}
+      \strng{fullhash}{80b003097655e3328879b5b431f2b8cf}
+      \strng{bibnamehash}{80b003097655e3328879b5b431f2b8cf}
+      \strng{authorbibnamehash}{80b003097655e3328879b5b431f2b8cf}
+      \strng{authornamehash}{80b003097655e3328879b5b431f2b8cf}
+      \strng{authorfullhash}{80b003097655e3328879b5b431f2b8cf}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMJ}
+      \field{title}{Ultra-processed food exposure and adverse health outcomes: umbrella review of epidemiological meta-analyses}
+      \field{volume}{384}
+      \field{year}{2024}
+      \field{pages}{e077310}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1136/bmj-2023-077310
+      \endverb
+    \endentry
+    \entry{fan2008nutrient}{article}{}
+      \name{author}{6}{}{%
+        {{hash=3edc0e661cfeabf2e649409ad95d61ca}{%
+           family={Fan},
+           familyi={F\bibinitperiod},
+           given={Ming-Sheng},
+           giveni={M\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=f0b6121170a5a89701e41a25f617e8a8}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Fang-Jie},
+           giveni={F\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=e197a1d7056bcbe5b9ccd91d3b41f2f0}{%
+           family={Fairweather-Tait},
+           familyi={F\bibinithyphendelim T\bibinitperiod},
+           given={Susan\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=37769d32a94c6a37a40c12e0056c84b1}{%
+           family={Poulton},
+           familyi={P\bibinitperiod},
+           given={Paul\bibnamedelima R.},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=8e6d876e7a6ecf8ea0f757238ec0e7de}{%
+           family={Dunham},
+           familyi={D\bibinitperiod},
+           given={Sarah\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=cfcf780789f23f5f00adc7026cc059a3}{%
+           family={McGrath},
+           familyi={M\bibinitperiod},
+           given={Steve\bibnamedelima P.},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{892f343ef3a5623aac2ad809083edfe7}
+      \strng{fullhash}{5920dbd9fcf12d4c9a26e36688c0aebb}
+      \strng{bibnamehash}{5920dbd9fcf12d4c9a26e36688c0aebb}
+      \strng{authorbibnamehash}{5920dbd9fcf12d4c9a26e36688c0aebb}
+      \strng{authornamehash}{892f343ef3a5623aac2ad809083edfe7}
+      \strng{authorfullhash}{5920dbd9fcf12d4c9a26e36688c0aebb}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Trace Elements in Medicine and Biology}
+      \field{number}{4}
+      \field{title}{Evidence of decreasing mineral density in wheat grain over the last 160 years}
+      \field{volume}{22}
+      \field{year}{2008}
+      \field{pages}{315\bibrangedash 324}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.jtemb.2008.07.002
+      \endverb
+    \endentry
+    \entry{monteiro2025upf}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{6}{}{%
+        {{hash=208e2ac8a939668174c211acffb626f8}{%
+           family={Monteiro},
+           familyi={M\bibinitperiod},
+           given={Carlos\bibnamedelima A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=820960e3bfa8e27a58c36aa9de68d737}{%
+           family={Louzada},
+           familyi={L\bibinitperiod},
+           given={Maria\bibnamedelimb Laura\bibnamedelima C.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=4a1a8283bd11ff3ad12b0b046fe1c3d0}{%
+           family={Steele-Martinez},
+           familyi={S\bibinithyphendelim M\bibinitperiod},
+           given={Euridice},
+           giveni={E\bibinitperiod}}}%
+        {{hash=9101014af23de4c55c56ecdd9fe58b8e}{%
+           family={Cannon},
+           familyi={C\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod}}}%
+        {{hash=62207cb0fd96146ac0207943d5da2706}{%
+           family={Andrade},
+           familyi={A\bibinitperiod},
+           given={Giovanna\bibnamedelima C.},
+           giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=fe2f7c77b6a30dff1c52a7ceb6b27d24}{%
+           family={Baker},
+           familyi={B\bibinitperiod},
+           given={Phillip},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{66fd750f9d4dd302aba1b50ed4ae2abe}
+      \strng{fullhash}{981df440dfc83e13ce430d77973021de}
+      \strng{bibnamehash}{981df440dfc83e13ce430d77973021de}
+      \strng{authorbibnamehash}{981df440dfc83e13ce430d77973021de}
+      \strng{authornamehash}{66fd750f9d4dd302aba1b50ed4ae2abe}
+      \strng{authorfullhash}{981df440dfc83e13ce430d77973021de}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Lancet}
+      \field{title}{Ultra-processed foods and human health: the main thesis and the evidence}
+      \field{volume}{406}
+      \field{year}{2025}
+      \field{pages}{2667\bibrangedash 2684}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1016/S0140-6736(25)01565-X
       \endverb
     \endentry
     \entry{hbs2024}{article}{}
@@ -732,8 +1540,8 @@
       \strng{authorbibnamehash}{2e27884637fd01cc9f817a1e4748e87c}
       \strng{authornamehash}{2e27884637fd01cc9f817a1e4748e87c}
       \strng{authorfullhash}{2e27884637fd01cc9f817a1e4748e87c}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Accessed: 2026-03-10}
@@ -758,8 +1566,8 @@
       \strng{authorbibnamehash}{e687e46cae9f795cbaa62f36ceaf13d8}
       \strng{authornamehash}{e687e46cae9f795cbaa62f36ceaf13d8}
       \strng{authorfullhash}{e687e46cae9f795cbaa62f36ceaf13d8}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Accessed: 2026-03-21. States: ``The Netherlands is the world's second largest exporter of agricultural products after the United States.''}
