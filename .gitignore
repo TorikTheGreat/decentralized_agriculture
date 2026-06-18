@@ -1,1 +1,26 @@
 .venv/
+sources/
+temp_ref/
+
+# .claude/ holds per-user config and backups, but commands/ contains versioned skills
+.claude/*
+!.claude/commands/
+.claude/commands/*.bak
+
+# LaTeX compilation artifacts
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.idx
+*.ind
+*.ilg
