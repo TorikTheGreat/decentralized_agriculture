@@ -1,0 +1,71 @@
+name,sex,kcal,crop,m2
+base,F,2100,Maize (corn),270.37
+base,F,2100,Spinach,66.2
+base,F,2100,Carrots and turnips,106.67
+base,F,2400,Maize (corn),333.16
+base,F,2400,Spinach,71.11
+base,F,2400,Carrots and turnips,89.79
+base,F,2800,Maize (corn),416.89
+base,F,2800,Spinach,77.66
+base,F,2800,Carrots and turnips,67.28
+base,M,2100,Maize (corn),270.37
+base,M,2100,Spinach,66.2
+base,M,2100,Carrots and turnips,106.67
+base,M,2400,Maize (corn),333.16
+base,M,2400,Spinach,71.11
+base,M,2400,Carrots and turnips,89.79
+base,M,2800,Maize (corn),416.89
+base,M,2800,Spinach,77.66
+base,M,2800,Carrots and turnips,67.28
+iron 5%,F,2400,Potatoes,129.11
+iron 5%,F,2400,Maize (corn),253.8
+iron 5%,F,2400,Spinach,159.81
+iron 15%,F,2400,Maize (corn),333.16
+iron 15%,F,2400,Spinach,71.11
+iron 15%,F,2400,Carrots and turnips,89.79
+zinc low bioavail.,F,2400,Maize (corn),333.16
+zinc low bioavail.,F,2400,Spinach,71.11
+zinc low bioavail.,F,2400,Carrots and turnips,89.79
+vitA 1:14/1:28,F,2400,Maize (corn),333.16
+vitA 1:14/1:28,F,2400,Spinach,71.11
+vitA 1:14/1:28,F,2400,Carrots and turnips,89.79
+"ULs except Mg (vitC, Ca, Zn)",F,2400,Maize (corn),333.16
+"ULs except Mg (vitC, Ca, Zn)",F,2400,Spinach,71.11
+"ULs except Mg (vitC, Ca, Zn)",F,2400,Carrots and turnips,89.79
+max 25% energy per crop,F,2400,Potatoes,127.45
+max 25% energy per crop,F,2400,"Cassava, fresh",133.46
+max 25% energy per crop,F,2400,Maize (corn),105.89
+max 25% energy per crop,F,2400,Spinach,54.03
+max 25% energy per crop,F,2400,Carrots and turnips,121.58
+clean-basis crops only,F,2400,Maize (corn),333.16
+clean-basis crops only,F,2400,Spinach,71.11
+clean-basis crops only,F,2400,Carrots and turnips,89.79
+top national yields,F,2400,Potatoes,92.62
+top national yields,F,2400,"Cassava, fresh",80.4
+top national yields,F,2400,Spinach,63.63
+iron 5%,M,2400,Maize (corn),333.16
+iron 5%,M,2400,Spinach,71.11
+iron 5%,M,2400,Carrots and turnips,89.79
+iron 15%,M,2400,Maize (corn),333.16
+iron 15%,M,2400,Spinach,71.11
+iron 15%,M,2400,Carrots and turnips,89.79
+zinc low bioavail.,M,2400,Maize (corn),333.16
+zinc low bioavail.,M,2400,Spinach,71.11
+zinc low bioavail.,M,2400,Carrots and turnips,89.79
+vitA 1:14/1:28,M,2400,Maize (corn),333.16
+vitA 1:14/1:28,M,2400,Spinach,71.11
+vitA 1:14/1:28,M,2400,Carrots and turnips,89.79
+"ULs except Mg (vitC, Ca, Zn)",M,2400,Maize (corn),333.16
+"ULs except Mg (vitC, Ca, Zn)",M,2400,Spinach,71.11
+"ULs except Mg (vitC, Ca, Zn)",M,2400,Carrots and turnips,89.79
+max 25% energy per crop,M,2400,Potatoes,127.45
+max 25% energy per crop,M,2400,"Cassava, fresh",114.83
+max 25% energy per crop,M,2400,Maize (corn),105.89
+max 25% energy per crop,M,2400,Spinach,37.79
+max 25% energy per crop,M,2400,Carrots and turnips,151.88
+clean-basis crops only,M,2400,Maize (corn),333.16
+clean-basis crops only,M,2400,Spinach,71.11
+clean-basis crops only,M,2400,Carrots and turnips,89.79
+top national yields,M,2400,Potatoes,92.62
+top national yields,M,2400,"Cassava, fresh",80.4
+top national yields,M,2400,Spinach,63.63

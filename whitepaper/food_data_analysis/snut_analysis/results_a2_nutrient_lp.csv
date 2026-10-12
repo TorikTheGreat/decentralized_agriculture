@@ -1,0 +1,25 @@
+name,sex,kcal,iron,zinc,vitA,yields,clean_only,UL,energy_cap,m2_per_person,binding,supply/req kcal,supply/req protein,supply/req vitA_RE,supply/req vitE,supply/req vitK,supply/req vitC,supply/req thiamin,supply/req riboflavin,supply/req niacin,supply/req vitB6,supply/req pantothenate,supply/req folate,supply/req calcium,supply/req magnesium,supply/req iron,supply/req zinc
+base,F,2100,iron_10,zinc_moderate,RE 1:6/1:12 (Annex),world_yield_kgha,False,False,,443.2,kcal;pantothenate;calcium,1.0,1.39,46.48,2.91,58.49,5.33,2.54,2.4,2.14,4.06,1.0,3.78,1.0,5.27,1.08,3.09
+base,F,2400,iron_10,zinc_moderate,RE 1:6/1:12 (Annex),world_yield_kgha,False,False,,494.1,kcal;pantothenate;calcium,1.0,1.57,41.98,2.95,62.26,5.41,2.82,2.58,2.3,4.42,1.0,3.98,1.0,5.92,1.2,3.5
+base,F,2800,iron_10,zinc_moderate,RE 1:6/1:12 (Annex),world_yield_kgha,False,False,,561.8,kcal;pantothenate;calcium,1.0,1.82,35.97,3.02,67.29,5.52,3.18,2.81,2.52,4.91,1.0,4.24,1.0,6.78,1.35,4.05
+base,M,2100,iron_10,zinc_moderate,RE 1:6/1:12 (Annex),world_yield_kgha,False,False,,443.2,kcal;pantothenate;calcium,1.0,1.19,38.73,2.18,49.49,5.33,2.33,2.03,1.87,4.06,1.0,3.78,1.0,4.46,2.32,2.16
+base,M,2400,iron_10,zinc_moderate,RE 1:6/1:12 (Annex),world_yield_kgha,False,False,,494.1,kcal;pantothenate;calcium,1.0,1.35,34.98,2.22,52.68,5.41,2.58,2.18,2.01,4.42,1.0,3.98,1.0,5.01,2.57,2.45
+base,M,2800,iron_10,zinc_moderate,RE 1:6/1:12 (Annex),world_yield_kgha,False,False,,561.8,kcal;pantothenate;calcium,1.0,1.56,29.97,2.26,56.94,5.52,2.92,2.38,2.2,4.91,1.0,4.24,1.0,5.73,2.9,2.83
+iron 5%,F,2400,iron_5,zinc_moderate,RE 1:6/1:12 (Annex),world_yield_kgha,False,False,,542.7,kcal;pantothenate;iron,1.0,2.0,29.05,4.44,135.51,13.07,3.05,3.6,2.42,6.0,1.0,7.95,1.65,8.63,1.0,3.93
+iron 15%,F,2400,iron_15,zinc_moderate,RE 1:6/1:12 (Annex),world_yield_kgha,False,False,,494.1,kcal;pantothenate;calcium,1.0,1.57,41.98,2.95,62.26,5.41,2.82,2.58,2.3,4.42,1.0,3.98,1.0,5.92,1.79,3.5
+zinc low bioavail.,F,2400,iron_10,zinc_low,RE 1:6/1:12 (Annex),world_yield_kgha,False,False,,494.1,kcal;pantothenate;calcium,1.0,1.57,41.98,2.95,62.26,5.41,2.82,2.58,2.3,4.42,1.0,3.98,1.0,5.92,1.2,1.75
+vitA 1:14/1:28,F,2400,iron_10,zinc_moderate,1:14/1:28 (p.26),world_yield_kgha,False,False,,494.1,kcal;pantothenate;calcium,1.0,1.57,17.99,2.95,62.26,5.41,2.82,2.58,2.3,4.42,1.0,3.98,1.0,5.92,1.2,3.5
+with FAO/WHO ULs (Mg 350 etc.),F,2400,,,,,,,,infeasible,,,,,,,,,,,,,,,,,
+"ULs except Mg (vitC, Ca, Zn)",F,2400,iron_10,zinc_moderate,RE 1:6/1:12 (Annex),world_yield_kgha,False,"{'vitC': 1000, 'calcium': 3000, 'zinc': 45}",,494.1,kcal;pantothenate;calcium,1.0,1.57,41.98,2.95,62.26,5.41,2.82,2.58,2.3,4.42,1.0,3.98,1.0,5.92,1.2,3.5
+max 25% energy per crop,F,2400,iron_10,zinc_moderate,RE 1:6/1:12 (Annex),world_yield_kgha,False,False,0.25,542.4,kcal;iron,1.0,1.28,48.98,2.65,48.94,9.91,2.52,2.2,2.34,4.85,1.39,3.7,1.07,4.63,1.0,2.62
+clean-basis crops only,F,2400,iron_10,zinc_moderate,RE 1:6/1:12 (Annex),world_yield_kgha,True,False,,494.1,kcal;pantothenate;calcium,1.0,1.57,41.98,2.95,62.26,5.41,2.82,2.58,2.3,4.42,1.0,3.98,1.0,5.92,1.2,3.5
+top national yields,F,2400,iron_10,zinc_moderate,RE 1:6/1:12 (Annex),top_yield_kgha,False,False,,236.6,kcal;pantothenate;calcium,1.0,1.18,13.73,2.2,64.87,13.66,2.06,1.96,1.81,4.49,1.0,4.55,1.0,4.68,1.09,2.1
+iron 5%,M,2400,iron_5,zinc_moderate,RE 1:6/1:12 (Annex),world_yield_kgha,False,False,,494.1,kcal;pantothenate;calcium,1.0,1.35,34.98,2.22,52.68,5.41,2.58,2.18,2.01,4.42,1.0,3.98,1.0,5.01,1.28,2.45
+iron 15%,M,2400,iron_15,zinc_moderate,RE 1:6/1:12 (Annex),world_yield_kgha,False,False,,494.1,kcal;pantothenate;calcium,1.0,1.35,34.98,2.22,52.68,5.41,2.58,2.18,2.01,4.42,1.0,3.98,1.0,5.01,3.87,2.45
+zinc low bioavail.,M,2400,iron_10,zinc_low,RE 1:6/1:12 (Annex),world_yield_kgha,False,False,,494.1,kcal;pantothenate;calcium,1.0,1.35,34.98,2.22,52.68,5.41,2.58,2.18,2.01,4.42,1.0,3.98,1.0,5.01,2.57,1.22
+vitA 1:14/1:28,M,2400,iron_10,zinc_moderate,1:14/1:28 (p.26),world_yield_kgha,False,False,,494.1,kcal;pantothenate;calcium,1.0,1.35,14.99,2.22,52.68,5.41,2.58,2.18,2.01,4.42,1.0,3.98,1.0,5.01,2.57,2.45
+with FAO/WHO ULs (Mg 350 etc.),M,2400,,,,,,,,infeasible,,,,,,,,,,,,,,,,,
+"ULs except Mg (vitC, Ca, Zn)",M,2400,iron_10,zinc_moderate,RE 1:6/1:12 (Annex),world_yield_kgha,False,"{'vitC': 1000, 'calcium': 3000, 'zinc': 45}",,494.1,kcal;pantothenate;calcium,1.0,1.35,34.98,2.22,52.68,5.41,2.58,2.18,2.01,4.42,1.0,3.98,1.0,5.01,2.57,2.45
+max 25% energy per crop,M,2400,iron_10,zinc_moderate,RE 1:6/1:12 (Annex),world_yield_kgha,False,False,0.25,537.9,kcal;calcium,1.0,1.06,46.5,1.85,30.36,9.08,2.33,1.75,2.13,4.89,1.51,3.05,1.0,3.53,1.89,1.79
+clean-basis crops only,M,2400,iron_10,zinc_moderate,RE 1:6/1:12 (Annex),world_yield_kgha,True,False,,494.1,kcal;pantothenate;calcium,1.0,1.35,34.98,2.22,52.68,5.41,2.58,2.18,2.01,4.42,1.0,3.98,1.0,5.01,2.57,2.45
+top national yields,M,2400,iron_10,zinc_moderate,RE 1:6/1:12 (Annex),top_yield_kgha,False,False,,236.6,kcal;pantothenate;calcium,1.0,1.01,11.44,1.65,54.89,13.66,1.89,1.66,1.58,4.49,1.0,4.55,1.0,3.96,2.34,1.47
