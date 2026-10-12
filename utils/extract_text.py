@@ -24,7 +24,7 @@ import os
 import sys
 from pathlib import Path
 
-import fitz  # PyMuPDF
+import pymupdf
 import pytesseract
 from PIL import Image
 
@@ -36,7 +36,7 @@ SOURCES_DIR = Path(__file__).resolve().parent.parent / "sources"
 OCR_DIR = SOURCES_DIR / "ocr"
 
 
-def extract_page_text(page: fitz.Page) -> tuple[str, str]:
+def extract_page_text(page: pymupdf.Page) -> tuple[str, str]:
     """Extract text from a single page. Returns (text, method)."""
     text = page.get_text()
     if len(text.strip()) >= MIN_CHARS_PER_PAGE:
@@ -51,7 +51,7 @@ def extract_page_text(page: fitz.Page) -> tuple[str, str]:
 
 def extract_pdf(pdf_path: Path, out_path: Path) -> dict:
     """Extract text from a PDF. Returns stats about the extraction."""
-    doc = fitz.open(pdf_path)
+    doc = pymupdf.open(pdf_path)
     stats = {"pages": len(doc), "embedded": 0, "ocr": 0}
     all_text = []
 

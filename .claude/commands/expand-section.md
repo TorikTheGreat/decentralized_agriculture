@@ -50,7 +50,7 @@ OCR text is reliable for verifying statistics, quotes, and specific language. PD
 
 ### Step 1 — Orient
 
-1. Read `whitepaper/chapters/problem/problem.tex` and (if it exists) `whitepaper/chapters/solution/solution.tex`.
+1. Read the chapter file containing the target section (chapter files live at `whitepaper/chapters/<dir>/<file>.tex` (e.g. `problem/problem.tex`, `background/background.tex`, `nutritional/nutritional.tex`, `proposed_solution/solution.tex`); `whitepaper/main.tex` shows which are compiled). Also read `whitepaper/chapters/problem/problem.tex` and `whitepaper/chapters/proposed_solution/solution.tex` for context if the target is in another chapter.
 2. Read `whitepaper/bibliography.bib`.
 3. Locate the target section and extract every citation key it uses.
 4. Build a **section outline** — one line per `\subsection` or `\subsubsection` summarizing its argument (e.g., `2.1 Land Use — cropland expansion, deforestation, habitat loss`). This outline is included in every subagent prompt.

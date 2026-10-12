@@ -1,0 +1,7 @@
+PyMuPDF
+pytesseract
+Pillow
+duckdb
+pandas
+matplotlib
+ipykernel

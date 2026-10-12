@@ -48,7 +48,7 @@ OCR text is reliable for verifying statistics, quotes, and specific language. PD
 
 ### Step 1 — Orient and build citation map
 
-1. Read `whitepaper/chapters/problem/problem.tex`.
+1. Read the chapter file containing the target section (chapter files live at `whitepaper/chapters/<dir>/<file>.tex` (e.g. `problem/problem.tex`, `background/background.tex`, `nutritional/nutritional.tex`, `proposed_solution/solution.tex`); `whitepaper/main.tex` shows which are compiled).
 2. Read `whitepaper/bibliography.bib`.
 3. Locate the target section and extract every citation key it uses.
 4. Check whether `sources/citation_map.md` exists and read it if so.
@@ -132,7 +132,7 @@ Review the section for structural issues:
 
 ### Step 5 — Cross-section consistency check
 
-Extract specific percentages, counts, and named quantities that are cited with a source in this section (e.g., "94%", "287 species", "50%"). Grep for each in the full `problem.tex` outside the target section. Ignore generic numbers (e.g., "two", "first") that could appear in unrelated contexts. Flag any that appear in other sections with different values, different denominators, or inconsistent framing. This catches contradictions invisible to section-level verification.
+Extract specific percentages, counts, and named quantities that are cited with a source in this section (e.g., "94%", "287 species", "50%"). Grep for each across all chapter files in `whitepaper/chapters/` outside the target section. Ignore generic numbers (e.g., "two", "first") that could appear in unrelated contexts. Flag any that appear in other sections with different values, different denominators, or inconsistent framing. This catches contradictions invisible to section-level verification.
 
 ### Step 6 — Compile findings
 
@@ -153,7 +153,7 @@ Write findings to `sources/corrections.md`. Use stable IDs: `S[section#]-C[N]` f
     **Category:** Citation | Bibliography | Narrative
     **Type:** Verify
     **Severity:** Major | Minor
-    **Lines:** [line numbers in problem.tex]
+    **Lines:** [chapter file, line numbers]
     **Current text:**
     > [exact quoted text]
     **Issue:** [full description, including what the source actually says]

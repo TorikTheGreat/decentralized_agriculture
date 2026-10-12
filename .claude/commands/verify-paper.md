@@ -16,7 +16,7 @@ No arguments needed.
 
 ### Step 1 — Identify sections and build outline
 
-1. Read `whitepaper/chapters/problem/problem.tex` and (if it exists) `whitepaper/chapters/solution/solution.tex`.
+1. Read every chapter file that is compiled in `whitepaper/main.tex` (non-commented `\input` lines; chapter files live at `whitepaper/chapters/<dir>/<file>.tex` (e.g. `problem/problem.tex`, `background/background.tex`, `nutritional/nutritional.tex`, `proposed_solution/solution.tex`); `whitepaper/main.tex` shows which are compiled).
 2. Extract the full list of `\subsection` and `\subsubsection` headings with their line ranges.
 3. Build a **section outline** — one line per section summarizing its argument (e.g., `2.1 Land Use — cropland expansion, deforestation, habitat loss`). This outline is included in every subagent prompt for cross-section relevance scanning.
 
@@ -83,7 +83,7 @@ Spawn one subagent per section using the Agent tool. All subagents are independe
 
 > You are performing a citation, narrative, and expansion audit of a section of an academic LaTeX whitepaper. Do not make any edits to any file. Your only job is to read, verify, and report findings.
 >
-> **Your section:** `[SECTION HEADING]` (lines [START]–[END] of `whitepaper/chapters/problem/problem.tex`)
+> **Your section:** `[SECTION HEADING]` (lines [START]–[END] of `[CHAPTER FILE]`)
 >
 > **Section outline** (for cross-section relevance scanning):
 > ```
@@ -101,7 +101,7 @@ Spawn one subagent per section using the Agent tool. All subagents are independe
 > ---
 >
 > **Part 1 — Read inputs**
-> 1. Read lines [START]–[END] of `whitepaper/chapters/problem/problem.tex`.
+> 1. Read lines [START]–[END] of `[CHAPTER FILE]`.
 > 2. Read `whitepaper/bibliography.bib` (for bibliography entry verification — do not use for file discovery).
 >
 > ---
@@ -197,7 +197,7 @@ Generated: [date]
 
 After aggregating section-level findings, the orchestrator performs a holistic narrative review. This catches issues invisible to section subagents because they require seeing the full paper at once.
 
-Read the complete `whitepaper/chapters/problem/problem.tex` and evaluate:
+Read every compiled chapter file in full and evaluate:
 
 **5a — Argumentative arc**
 
@@ -283,7 +283,7 @@ Last updated: [date]
 **Category:** Citation | Bibliography | Narrative
 **Type:** Verify
 **Severity:** Major | Minor
-**Lines:** [line numbers in problem.tex]
+**Lines:** [chapter file, line numbers]
 **Current text:**
 > [exact quoted text]
 **Issue:** [full description, including what the source actually says]
