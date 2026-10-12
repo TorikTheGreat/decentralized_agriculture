@@ -1,3 +1,73 @@
+% ================================================================
+% DESIGN NOTES / FRAMING DECISIONS (session 2026-06-25)
+% Recorded here (not only in assistant memory) so they are readable
+% in the project itself. These reshape how this section should be
+% written; the prose below predates them and needs revision to match.
+%
+% A. THE DATA COMMONS IS THE THESIS; the greenhouse is the instrument.
+%    The soul of the project is the generation and open sharing of
+%    plant-growth-optimization data. The hardware is a sensor+actuator
+%    that both generates training data and applies learned models. It
+%    is deliberately flexible/varied by climate and user; the invariant
+%    is the DATA. This section should probably be spined around the
+%    data commons rather than the hardware.
+%
+% B. THE UNIVERSAL/LOCAL SPLIT (makes "the data is the same" rigorous).
+%    - UNIVERSAL & shared: a crop/cultivar's RESPONSE SURFACE — how it
+%      converts set-points (PAR, temp, CO2, EC, pH, humidity, photoperiod)
+%      into growth/yield. Biology; transfers everywhere. This is the
+%      commons. Must be keyed on metadata (cultivar, conditions,
+%      provenance): genetics, water chemistry and biotic pressure are
+%      partial local dependencies, so it is NOT a flat "tomato curve".
+%    - LOCAL & measured per node: the ENERGY/WATER COST to hold those
+%      set-points against the local ambient climate. Physics+weather;
+%      different everywhere.
+%    - The recommendation engine = the JOIN: shared response model x
+%      local climate -> energy cost per crop here -> ranked crops.
+%      Learn the response once globally; pay the delivery cost locally.
+%
+% C. AREA-vs-ENERGY SPECTRUM (resolves the caloric-independence question;
+%    developed in the nutrition section). Photosynthesis caps calories/
+%    area (~1,500-2,000 kcal/m2/yr best crops; ~200-500 m2/adult for
+%    full calories). Stacking + artificial light trades AREA for ENERGY
+%    ~1:1: given enough energy, compact food independence is theoretically
+%    possible, but the fully stacked+lit case costs order tens of
+%    thousands of kWh/adult/yr at today's 1-2% efficiency. So the design
+%    is a HYBRID: daylit/low-energy for bulk-calorie tubers where area
+%    exists; stacked/lit only for high-value crops. DECOUPLE the growing
+%    surface (backyard) from the generating surface (roof PV) — the Dutch
+%    roof-vs-panels tension is an industrial-scale artifact, gone at
+%    household scale.
+%
+% D. DUAL-SCALE IMPACT (not only decentralization). Two prongs, different
+%    mechanisms: (1) small/new producers -> ACCESS (democratizing the
+%    means of production); (2) existing large producers -> EFFICIENCY BY
+%    SUBSTITUTION (shrink land/water/pesticide footprint of the CEA-
+%    suitable slice they already grow). CAVEATS a reviewer will press:
+%    helping large producers only fits the anti-concentration argument
+%    (Sec 2.6.6) BECAUSE the system is open/non-extractive (proprietary
+%    efficiency tech deepens concentration); and the ecological gain
+%    requires SUBSTITUTION, not ADDITION (bolt-on greenhouse + keep all
+%    fields = rebound). Large-producer adoption also feeds the commons
+%    hardest, reinforcing the household prong.
+%
+% E. DATA-COMMONS LICENSING CONSTRAINT (flagged 2026-07-07). The project's
+%    ambition is a MAXIMALLY PERMISSIVE, commercial-friendly open data
+%    commons. Some external reference data we use does NOT permit that:
+%    - FAOSTAT (crop yields) is CC BY 4.0 but FAO's terms ADD a
+%      non-commercial clause and bar redistribution of embedded
+%      third-party data. So FAOSTAT-derived values CANNOT be folded into
+%      a permissive commercial-friendly commons; at most cite/derive
+%      summary figures with the mandated attribution.
+%    - USDA FoodData Central is US-Gov PUBLIC DOMAIN — freely reusable,
+%      redistributable, commercial-ok.
+%    Implication: keep the project's OWN generated data (plant-growth
+%    telemetry, response models) cleanly separated from externally-
+%    licensed reference data, so the commons can be permissively licensed
+%    without inheriting FAO's non-commercial restriction. For the paper
+%    this is a non-issue (we only cite summary figures); for the data
+%    commons it is a design requirement.
+% ================================================================
 \section{The proposed solution}
 
 \subsection{Concept overview}

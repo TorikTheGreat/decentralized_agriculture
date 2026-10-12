@@ -1,40 +1,48 @@
-\section{Nutritional self-sufficiency analysis}
+% ============================================================
+% DRAFT (2026-06-25): Rewritten around the "food independence is
+% a computable quantity" framing agreed in session. NOT yet
+% grounded: quantitative claims marked "% SOURCE NEEDED" still
+% require verified in-house sources before this section is
+% enabled in main.tex. Shopping list held in the chat / to be
+% added to sources/ + citation_map. Do not treat numbers as
+% final until sourced.
+% ============================================================
+\section{Food self-sufficiency as a computable quantity}\label{sec:nutrition-analysis}
 
-\subsection{The calorie problem}
+A natural question to ask of any food-production system is whether it can make its user food-independent. For the platform proposed here, the honest answer is that this is not a single fact to be asserted but a quantity each user can compute for their own circumstances. How much of a household's food a unit supplies depends on the crops grown, the floor area and daylight available, the surrounding climate, and the energy the user is able to provide. What can be established in advance are the physical bounds within which that computation falls, and the mechanism by which the system turns those bounds into a specific answer for a specific place. This section sets out both, and in doing so replaces the question ``can a greenhouse feed me?'' with the more useful ``how much, at what cost in area and energy, here?''.
 
-Full caloric independence from a small greenhouse is not achievable for most people with the crops CEA does best. The caloric yield per unit area of the typical CEA crop profile is too low \cite{patternbase2024calories}:
+\subsection{The area bound: calories are limited by photosynthesis, not by crop choice}
 
-\begin{center}
-\begin{tabular}{lcc}
-\toprule
-\textbf{Crop} & \textbf{Yield (kcal/m\textsuperscript{2}/year)} & \textbf{Area for one adult (m\textsuperscript{2})} \\
-\midrule
-Lettuce       & 300   & 2,400 \\
-Spinach       & 500   & 1,460 \\
-Tomato        & 3,000 & 243   \\
-Dry beans     & 4,000 & 183   \\
-Potato        & 7,000 & 104   \\
-Sweet potato  & 8,000 & 91    \\
-\bottomrule
-\end{tabular}
-\end{center}
+The first bound is set by physics rather than by engineering. On a single plane exposed to sunlight, the rate at which any crop converts light into stored food energy is capped by the efficiency of photosynthesis, and real crops store only a small fraction of a percent of incident sunlight in their harvested product.% SOURCE NEEDED: photosynthetic conversion efficiency ceiling (e.g. Zhu, Long \& Ort, Annu. Rev. Plant Biol. 2010; ~0.25-0.5\% realized vs ~4.6\% C3 theoretical). Verify exact figures.
+The consequence is that the most calorie-dense field crops (potatoes, sweet potatoes, cassava) all converge on the same order of caloric yield, roughly 1{,}500 to 2{,}000~kcal per square metre per year.% SOURCE NEEDED: caloric yield per area for staple crops. Prefer FAO yield statistics converted with standard calorie densities, or a peer-reviewed kcal/ha source. Replace the deleted blog citation.
 
-An adult requires approximately 730,000~kcal/year. A mixed CEA system optimised for calorie-dense crops (sweet potato, potato, dry beans) could cover one adult's caloric needs in roughly 100--200~m\textsuperscript{2} of greenhouse space --- feasible for a large backyard installation but not a typical small greenhouse.
+An adult requires on the order of 2{,}000~kcal per day, or roughly 730{,}000~kcal per year.% SOURCE NEEDED: FAO/WHO reference energy requirement.
+Dividing one by the other, full caloric self-sufficiency on the best available crops requires something like 200 to 500~square metres of sunlit growing surface per adult, before accounting for storage and processing losses. This figure is not a limitation of controlled-environment agriculture specifically; it is a property of sunlight and leaves, and it holds for a field, a garden, or a greenhouse alike. It is also why crop selection alone cannot deliver caloric independence in a small footprint: energy-dense crops such as oilseeds and groundnuts carry more calories per kilogram than tubers, but not more calories per square metre, because the same photosynthetic ceiling binds them. Their value, developed below, lies elsewhere.
 
-However, the crop table above understates the caloric potential of CEA by omitting two categories: mushrooms and oilseed legumes. Mushrooms are already a mainstream CEA crop --- most commercial production is controlled-environment by definition --- and require no light, reducing energy costs substantially. Dried mushrooms are storable and protein-dense. Oilseed legumes such as peanuts (~5,670~kcal/kg) and soybeans (~4,460~kcal/kg) exceed even wheat flour in caloric density and can be processed into oils, flours, and pastes with long shelf lives. Similarly, potatoes and sweet potatoes can be processed into storable flours and starches, extending their utility beyond fresh consumption.
+\subsection{Trading area for energy: stacking and the role of light}
 
-The feasibility of these crops in CEA varies. Mushrooms and tubers are well-established; dry beans and soybeans have existing controlled-environment research; peanuts and other oilseed crops (sunflower, sesame) are plausible but largely unproven in CEA and represent R\&D targets for the project. The species recommendation engine (Section~[TODO]) should classify crops by evidence tier --- demonstrated, pilot-scale, and experimental --- and prioritise accordingly while the R\&D programme expands the proven portfolio.
+The area bound applies to a single sunlit plane. It can be escaped, but only by paying in energy. If growing surfaces are stacked in layers and each layer is lit artificially, the growing area per unit of floor is multiplied by the number of layers, and the footprint can in principle be made as small as desired. The constraint does not disappear; it is converted from an area constraint into an energy constraint, close to one for one, because every layer must be supplied with the light that sunlight would otherwise provide for free.
 
-\subsection{The correct framing: nutritional self-sufficiency}
+The magnitude of that energy is large. Measured vertical-farming systems convert only about 1 to 2\% of input energy into stored food calories \cite[Abstract]{lovat2025vf}. Since an adult's annual caloric requirement corresponds to roughly 850~kWh of food energy, meeting it entirely through stacked, artificially lit production would demand on the order of tens of thousands of kilowatt-hours of electricity per adult per year at current efficiencies, several times the total electricity use of a typical household. Vertically farmed staple crops are correspondingly reported to be economically viable only under electricity prices and conversion efficiencies one to two orders of magnitude better than today's \cite[Abstract]{lovat2025vf}. Full caloric independence by stacking is therefore theoretically possible given sufficient energy, but the energy required for the fully stacked, fully lit case is the dominant cost and the binding practical question.
 
-The appropriate goal is not caloric independence but \textbf{nutritional self-sufficiency} --- specifically, the ability to produce the full spectrum of macronutrients (carbohydrates, proteins, fats) and micronutrients (vitamins, minerals, phytonutrients) needed for health, using a diversified crop portfolio that includes calorie-dense tubers, protein- and fat-contributing legumes and mushrooms, and micronutrient-dense vegetables and herbs.
+\subsection{The hybrid operating point}
 
-This framing is both more honest and more compelling. It is the micronutrient and phytonutrient density of fresh produce that the industrial supply chain does worst at preserving --- nutrients degrade during the long transport and storage times that are inherent to centralised production. A locally grown, freshly harvested crop is nutritionally superior to the same crop shipped across a continent.
+Because area and energy trade against each other, a real installation is best understood as sitting somewhere on a spectrum between two extremes. At one end, a daylit ground-level greenhouse uses free sunlight for photosynthesis and spends energy only on heating, pumps and control; it is inexpensive to run but pays for calories in land. At the other, a stacked and lit system is compact but expensive in energy. The efficient design is a hybrid: grow the bulk-calorie crops in the daylit, low-energy mode where floor area is available, and reserve stacking and artificial light for the high-value, low-calorie crops whose value per unit of energy justifies it.
 
-This objective also connects directly to the dietary shift documented in Section~\ref{sec:nutrition}: the industrial food system's narrowing of crop diversity toward a few commodity grains and oilseeds has driven the dominance of ultra-processed foods and the decline of micronutrient density in staple crops. CEA does not replace commodity grain production, but it can supply the diverse fresh produce, legumes, and tubers that a healthier dietary pattern requires --- making the dietary shift locally achievable rather than dependent on the same centralised supply chains whose fragility the problem analysis documents.
+A single practical observation makes this more achievable than it first appears. The generating surface need not be the growing surface. At industrial scale, placing photovoltaics on a greenhouse roof competes with the crop's need for light, which is why dedicated greenhouse operations struggle to power themselves on-site. At household scale that conflict typically vanishes: a home commonly has a small daylit yard suitable for growing and a separate roof, unusable for plants, that is well suited to solar panels. Decoupling the two surfaces is the ordinary residential case, and it removes at the domestic scale a problem that is genuinely hard at the industrial one.
 
-The species recommendation engine should therefore optimise for \textbf{nutritional completeness} as a primary objective, with caloric contribution and energy cost as co-objectives. This makes the goal achievable in realistic backyard footprints for the majority of a person's fresh produce needs.
+\subsection{A crop portfolio for a resilient calorie and nutrient base}
 
-\subsection{Vertical stacking multiplier}
+No crop escapes the caloric ceiling of Section~\ref{sec:nutrition-analysis}, but crops differ in what else they contribute, and a resilient local supply combines them by role rather than choosing among them. Tubers such as potatoes and sweet potatoes provide the highest bulk calories per unit area and can be processed into storable flours and starches. Oilseed legumes and groundnuts (peanuts, soybeans, sunflower) carry the greatest caloric density per kilogram and yield storable oils and protein-rich flours, complementing the tubers on macronutrient balance and shelf life even though they do not exceed them per unit area. Mushrooms provide protein on waste substrate and require no light, sidestepping the energy cost that dominates every other crop. Micronutrient-dense vegetables, herbs and fruits round out the portfolio and are the crops for which the transport, water and pesticide advantages of local controlled production are largest.
 
-CEA systems can stack crops vertically, multiplying the effective growing area per unit of floor space by 10--20$\times$. This means the effective growing area available in even a modest installation can substantially exceed its floor footprint, making the nutritional self-sufficiency target considerably more achievable than the raw floor-area numbers suggest.
+The feasibility of these crops in controlled environments varies, and the section should be read with that gradient in mind: leafy greens, tomatoes, tubers and mushrooms are well established; dry beans and soybeans have existing controlled-environment research; groundnuts and other oilseeds are plausible but largely unproven and represent research targets for the project rather than demonstrated capabilities.
+
+\subsection{Nutritional self-sufficiency as the robust near-term target}
+
+The bounds above imply a clear distinction between two goals. Full caloric independence is a large-footprint or high-energy proposition, achievable but demanding. Nutritional self-sufficiency, the ability to supply the full spectrum of micronutrients and a meaningful share of macronutrients from fresh, diverse produce, is achievable in a modest footprint, and it is the more compelling near-term target for a further reason. It is precisely the micronutrient and phytonutrient density of fresh produce that centralised supply chains preserve worst, because these nutrients degrade over the long transport and storage times inherent to distant production. A locally grown, freshly harvested crop is nutritionally superior to the same crop shipped across a continent, which connects this objective directly to the decline in dietary quality documented in Section~\ref{sec:nutrition}.
+
+This objective also aligns with the systemic dietary shift that the problem analysis implies. Currently 36\% of the calories produced by the world's crops are used as animal feed, of which only a small fraction returns to the human diet as animal products \cite[p.~1]{cassidy2013redefining}. A shift away from animal-heavy diets would free a large quantity of crop calories and cropland, and the diverse produce, legumes and tubers that such a diet requires more of are exactly what local controlled production is suited to supply. The platform does not replace commodity grain production, which remains a field-scale activity; it supplies the fresh and storable produce that a healthier dietary pattern calls for, making that pattern locally achievable rather than dependent on the same centralised chains whose fragility the problem analysis documents.
+
+\subsection{From bounds to a per-user answer}
+
+The physical bounds above are general; the answer any given user needs is specific. The mechanism that turns one into the other is the data the system is built to generate. For each crop, the shared growth models describe how it converts environmental conditions into yield, a relationship that is a property of the plant and transfers across locations. Combined with a user's own local climate and configuration, the daylit area available, the photovoltaic capacity of the roof, the willingness to stack and light, these models yield a concrete estimate: for this household, in this place, this fraction of its food can be produced at this cost in area and energy. Food self-sufficiency thus ceases to be a slogan to be defended or debunked and becomes a calculation each user can run, which is the only form in which the question has a truthful answer.

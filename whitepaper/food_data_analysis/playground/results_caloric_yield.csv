@@ -1,0 +1,50 @@
+item,basis,conv,rationale,usda,fdc,kcal_100g,prot_100g,fat_100g,world_yield_kgha,world_kcal_m2,world_prot_g_m2,world_fat_g_m2,top_country,top_yield_kgha,top_kcal_m2
+Sugar beet,industrial,0.16,beet->sugar ~16% (extracted),"Sugars, granulated",169655,387.0,0.0,0.0,60486,3745,0.0,0.0,Belgium,89067,5515
+Sugar cane,industrial,0.12,cane->sugar ~12% (extracted),"Sugars, granulated",169655,387.0,0.0,0.0,73566,3416,0.0,0.0,Egypt,111161,5162
+Oil palm fruit,industrial,0.22,fruit->palm oil ~22% (extracted),"Oil, palm",171015,884.0,0.0,100.0,14366,2794,0.0,316.0,Guatemala,22277,4332
+Maize (corn),clean,1.0,,"Corn grain, yellow",170288,365.0,9.42,4.74,5666,2068,53.4,26.9,Spain,11423,4170
+Potatoes,clean,1.0,,"Potatoes, flesh and skin, raw",170026,77.0,2.05,0.09,22315,1718,45.7,2.0,United States of America,49078,3779
+"Cassava, fresh",clean,1.0,,"Cassava, raw",169985,160.0,1.36,0.28,10256,1641,13.9,2.9,India,36122,5780
+Carrots and turnips,clean,1.0,,"Carrots, raw",170393,41.0,0.93,0.24,35168,1442,32.7,8.4,China,44737,1834
+Bananas,adjusted,0.65,peel removed ~0.65,"Bananas, raw",173944,89.0,1.09,0.33,22786,1318,16.1,4.9,Indonesia,60110,3477
+Avocados,clean,0.73,skin+pit ~27%,"Avocados, raw, all commercial varieties",171705,160.0,2.0,14.66,10483,1224,15.3,112.2,Indonesia,13530,1580
+Wheat,clean,1.0,bread wheat (durum overstates protein),"Wheat, hard red winter",168890,327.0,12.61,1.54,3714,1215,46.8,5.7,Ireland,10430,3411
+Soya beans,clean,1.0,,"Soybeans, mature seeds, raw",174270,446.0,36.49,19.94,2632,1174,96.0,52.5,United States of America,3333,1486
+Rice,adjusted,0.67,paddy->milled ~0.67,"Rice, white, long-grain, regular, raw, unenriched",169756,365.0,7.13,0.66,4718,1154,22.5,2.1,Australia,11054,2703
+Rye,clean,1.0,,Rye grain,168884,338.0,10.34,1.63,3290,1112,34.0,5.4,Denmark,6344,2144
+Sweet potatoes,clean,1.0,,"Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribution Program)",168482,86.0,1.57,0.05,12592,1083,19.8,0.6,Malawi,23896,2055
+Apples,clean,1.0,,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",171688,52.0,0.26,0.17,20548,1068,5.3,3.5,Italy,41992,2184
+Yams,clean,1.0,,"Yam, raw",170071,118.0,1.53,0.17,8570,1011,13.1,1.5,Ghana,18431,2175
+Barley,clean-ish,0.8,grain incl. hull -> hulled ~0.80,"Barley, hulled",170283,354.0,12.48,2.3,3377,956,33.7,6.2,Ireland,8146,2307
+"Walnuts, in shell",adjusted,0.45,in-shell->kernel ~0.45,"Nuts, walnuts, english",170187,654.0,15.23,65.21,3052,898,20.9,89.6,Iran (Islamic Republic of),6428,1892
+Taro,clean,1.0,,"Taro, raw",169308,112.0,1.5,0.2,7516,842,11.3,1.5,Ethiopia,25690,2877
+Spinach,clean,1.0,,"Spinach, raw",168462,23.0,2.86,0.39,35168,809,100.6,13.7,"China, mainland",41909,964
+Oats,clean-ish,0.75,grain incl. hull -> groat ~0.75,Oats (Includes foods for USDA's Food Distribution Program),169705,389.0,16.89,6.9,2766,807,35.0,14.3,United Kingdom of Great Britain and Northern Ireland,6362,1856
+Grapes,clean,1.0,,"Grapes, red or green (European type, such as Thompson seedless), raw",174683,69.0,0.72,0.16,11685,806,8.4,1.9,Egypt,22864,1578
+Cabbages,clean,1.0,,"Cabbage, raw",169975,25.0,1.28,0.1,30531,763,39.1,3.1,China,35695,892
+"Onions and shallots, dry (excluding dehydrated)",clean,1.0,,"Onions, raw",170000,40.0,1.1,0.1,18529,741,20.4,1.9,United States of America,58177,2327
+"Coconuts, in shell",adjusted,0.35,whole->meat ~0.35,"Nuts, coconut meat, raw",170169,354.0,3.33,33.49,5803,719,6.8,68.0,Brazil,14477,1794
+"Groundnuts, excluding shelled",adjusted,0.7,in-shell->kernel ~0.70,"Peanuts, virginia, raw",172434,563.0,25.19,48.75,1811,714,31.9,61.8,United States of America,4496,1772
+Oranges,clean,0.75,peel ~25% refuse,"Oranges, raw, all commercial varieties",169097,47.0,0.94,0.12,20139,710,14.2,1.8,Indonesia,37789,1332
+Cauliflowers and broccoli,clean,1.0,,"Broccoli, raw",170379,34.0,2.82,0.37,18893,642,53.3,7.0,India,19888,676
+Tomatoes,clean,1.0,,"Tomatoes, red, ripe, raw, year round average",170457,18.0,0.88,0.2,34630,623,30.5,6.9,United States of America,92975,1674
+Plantains and cooking bananas,adjusted,0.65,peel removed ~0.65,"Plantains, green, raw",168215,152.0,1.25,0.07,6242,617,5.1,0.3,Dominican Republic,15618,1543
+Sunflower seed,adjusted,0.55,seed->dehulled kernel ~0.55,"Seeds, sunflower seed kernels, dried",170562,584.0,20.78,51.46,1843,592,21.1,52.2,Croatia,2991,961
+Cucumbers and gherkins,clean,1.0,,"Cucumber, with peel, raw",168409,15.0,0.65,0.11,39294,589,25.5,4.3,"China, mainland",54120,812
+Watermelons,clean,0.52,rind ~48% refuse,"Watermelon, raw",167765,30.0,0.61,0.15,33869,528,10.7,2.6,Türkiye,49185,767
+"Chick peas, dry",clean,1.0,,"Chickpeas (garbanzo beans, bengal gram), mature seeds, raw",173756,378.0,20.47,6.04,1237,468,25.3,7.5,Australia,3302,1248
+Linseed,clean,1.0,eaten whole,"Seeds, flaxseed",169414,534.0,18.29,42.16,873,466,16.0,36.8,Canada,1517,810
+Sorghum,clean,1.0,,Sorghum grain,169716,329.0,10.62,3.46,1402,461,14.9,4.9,Egypt,5018,1651
+"Lentils, dry",clean,1.0,,"Lentils, raw",172420,352.0,24.63,1.06,1292,455,31.8,1.4,"China, mainland",2579,908
+"Almonds, in shell",adjusted,0.45,in-shell->kernel ~0.45,"Nuts, almonds",170567,579.0,21.15,49.93,1564,407,14.9,35.1,Australia,6483,1689
+"Mangoes, guavas and mangosteens",clean,0.68,skin+stone ~32%,"Mangos, raw",169910,60.0,0.82,0.38,9727,397,5.4,2.5,Brazil,21085,860
+Millet,clean,1.0,,"Millet, raw",169702,378.0,11.02,4.22,999,378,11.0,4.2,"China, mainland",3118,1178
+Lettuce and chicory,clean,1.0,,"Lettuce, cos or romaine, raw",169247,17.0,1.23,0.3,22002,374,27.1,6.6,United States of America,32412,551
+Buckwheat,clean,1.0,,Buckwheat,170286,343.0,13.25,3.4,998,342,13.2,3.4,Ukraine,1221,419
+"Hazelnuts, in shell",adjusted,0.45,in-shell->kernel ~0.45,"Nuts, hazelnuts or filberts",170581,628.0,14.95,60.75,1128,319,7.6,30.8,Azerbaijan,1402,396
+Quinoa,clean,1.0,,"Quinoa, uncooked",168874,368.0,14.12,6.07,823,303,11.6,5.0,Peru,1639,603
+"Beans, dry",clean,1.0,,"Beans, kidney, all types, mature seeds, raw",175193,333.0,23.58,0.83,898,299,21.2,0.7,Türkiye,2782,926
+Sesame seed,clean,1.0,eaten whole,"Seeds, sesame seeds, whole, dried",170150,573.0,17.73,49.67,518,297,9.2,25.7,"China, mainland",1620,928
+"Pigeon peas, dry",clean,1.0,,"Pigeon peas (red gram), mature seeds, raw",172436,343.0,21.7,1.49,841,289,18.3,1.3,Malawi,1647,565
+"Cow peas, dry",clean,1.0,,"Cowpeas, catjang, mature seeds, raw",175208,343.0,23.85,2.07,640,220,15.3,1.3,Ghana,1662,570
+"Cashew nuts, in shell",adjusted,0.25,in-shell->kernel ~0.25,"Nuts, cashew nuts, raw",170162,553.0,18.22,43.85,639,88,2.9,7.0,Burkina Faso,1139,157

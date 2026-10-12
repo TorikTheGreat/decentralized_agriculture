@@ -1,0 +1,18 @@
+# Raw third-party data is NOT committed. Fetch it from the primary sources
+# (URLs + licences + checksums in data/PROVENANCE.md) and re-run build_db.py.
+# Keeping FAOSTAT data out of the repo also avoids redistributing it under
+# FAO's non-commercial / third-party terms.
+data/*
+!data/PROVENANCE.md
+
+# DuckDB build artifact (rebuildable from the raw CSVs via build_db.py)
+*.duckdb
+*.duckdb.wal
+*.duckdb.tmp/
+
+# Local virtual environment
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
