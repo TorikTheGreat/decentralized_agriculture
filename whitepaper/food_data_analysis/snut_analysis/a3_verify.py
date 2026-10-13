@@ -135,5 +135,14 @@ tom = usda_row("Tomatoes, red, ripe, raw, year round average")
 check(abs(t.kcal_m2_yr - t.kg_m2_yr * tom[1008] * 10) < 1, f"a6 tomato 2025 kcal/m2/yr {t.kcal_m2_yr}")
 check(abs(t.m2_person_2400 - 2400 * 365 / t.kcal_m2_yr) < 1, f"a6 tomato m2/person @2400 = {t.m2_person_2400}")
 
+print("\nA7 checks (sunlight-limited yield, recomputed by hand)")
+a7 = pd.read_csv(HERE / "results_a7_sunlight_ceiling.csv")
+ghi = json.loads((raw / "cr_highland_sanjose_hor_default.json").read_text())["outputs"]["totals"]["fixed"]["H(i)_y"]
+par = 0.487 * ghi * 3.6 * 0.82
+r7 = a7[(a7.site == "CR highland (San Jose)") & a7.case.str.startswith("NASA")].iloc[0]
+check(abs(r7.kcal_m2_yr - par / 0.217 * 0.44 * kcal_gdm) < 2, f"a7 San Jose NASA RUE case {r7.kcal_m2_yr} kcal/m2/yr")
+r7 = a7[(a7.site == "CR highland (San Jose)") & a7.case.str.contains("380")].iloc[0]
+check(abs(r7.kcal_m2_yr - par * 0.89 * 0.032 * (18.4 / 27.2) / 17.2 * kcal_gdm * 1000) < 2, f"a7 San Jose field 380 case {r7.kcal_m2_yr}")
+
 print("\nAll checks passed." if not fails else f"\n{len(fails)} check(s) FAILED")
 sys.exit(1 if fails else 0)

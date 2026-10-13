@@ -143,3 +143,12 @@ The shares are against FAO/WHO RNIs, with USDA composition data.
 | Aubergine | 51.7 | 25 | 12,917 | 59 / 68 / 79 |
 
 Energy only: these crops supply little protein or fat, and the greenhouse energy per kg is not computed here.
+
+### A7: sunlight-limited yield (zhu2010 Eq. 1; wheeler2008 RUE)
+
+Potato grown all year under glass (82% transmissivity, vandelden2021), no lamps, PVGIS horizontal irradiation. Cases: theoretical C3 (9.4% of PAR at the leaf, 30 °C, 387 ppm; zhu2010 pp.240, 242); NASA chamber edible RUE 0.44 g DM/mol PAR at 1,000–1,200 ppm (wheeler2008 Table 2) with 217 kJ/mol (bugbee1988 p.869); field soybean εi 0.89 × εc 0.032 (380 ppm) or 0.038 (550 ppm) (zhu2010 Table 1) with εp 0.68 (wheeler2008 potato edible/total DM) and 17.2 MJ/kg DM (bugbee1988 p.869). Heating/cooling energy not counted.
+
+| m² per person at 2,400 kcal/d | Theoretical | NASA RUE | Field 550 ppm | Field 380 ppm |
+|---|---|---|---|---|
+| Costa Rica (3 points; ~31 mol/m²/d under glass) | 25–26 | 45–48 | 69–73 | 82–87 |
+| 52°N Wageningen (~20 mol/m²/d) | 41 | 74 | 113 | 134 |

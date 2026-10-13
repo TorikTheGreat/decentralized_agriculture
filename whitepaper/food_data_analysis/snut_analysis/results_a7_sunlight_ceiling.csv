@@ -1,0 +1,17 @@
+site,ghi_kWh_m2_yr,case,par_mol_m2_d_under_glass,kcal_m2_yr,m2_person_2100,m2_person_2400,m2_person_2800
+52N Wageningen (SARAH3),1090,"theoretical (0.094, 30 C, 387 ppm)",19.8,21500,36,41,48
+52N Wageningen (SARAH3),1090,"NASA chamber RUE (0.44 g/mol, 1000-1200 ppm)",19.8,11792,65,74,87
+52N Wageningen (SARAH3),1090,"field soybean (0.89 x 0.032, 380 ppm)",19.8,6514,118,134,157
+52N Wageningen (SARAH3),1090,"field soybean (0.89 x 0.038, 550 ppm)",19.8,7735,99,113,132
+CR highland (San Jose),1692,"theoretical (0.094, 30 C, 387 ppm)",30.7,33381,23,26,31
+CR highland (San Jose),1692,"NASA chamber RUE (0.44 g/mol, 1000-1200 ppm)",30.7,18308,42,48,56
+CR highland (San Jose),1692,"field soybean (0.89 x 0.032, 380 ppm)",30.7,10114,76,87,101
+CR highland (San Jose),1692,"field soybean (0.89 x 0.038, 550 ppm)",30.7,12010,64,73,85
+CR Pacific lowland (Liberia),1795,"theoretical (0.094, 30 C, 387 ppm)",32.6,35407,22,25,29
+CR Pacific lowland (Liberia),1795,"NASA chamber RUE (0.44 g/mol, 1000-1200 ppm)",32.6,19419,39,45,53
+CR Pacific lowland (Liberia),1795,"field soybean (0.89 x 0.032, 380 ppm)",32.6,10727,71,82,95
+CR Pacific lowland (Liberia),1795,"field soybean (0.89 x 0.038, 550 ppm)",32.6,12739,60,69,80
+CR Caribbean lowland (Limon),1726,"theoretical (0.094, 30 C, 387 ppm)",31.3,34044,23,26,30
+CR Caribbean lowland (Limon),1726,"NASA chamber RUE (0.44 g/mol, 1000-1200 ppm)",31.3,18672,41,47,55
+CR Caribbean lowland (Limon),1726,"field soybean (0.89 x 0.032, 380 ppm)",31.3,10315,74,85,99
+CR Caribbean lowland (Limon),1726,"field soybean (0.89 x 0.038, 550 ppm)",31.3,12249,63,72,83
