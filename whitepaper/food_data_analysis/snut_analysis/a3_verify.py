@@ -112,5 +112,19 @@ for _, row in ce[ce.kcal == 2400].iterrows():
     check(abs(sum(row[c] for c in cols) - row.m2_per_person) < 0.3,
           f"a2b {row.sex} {row.iron}: crop areas sum to {row.m2_per_person}")
 
+print("\nA4 checks (recompute from raw PVGIS JSON)")
+import json
+raw = HERE.parents[2] / "sources" / "pvgis_2026-10-12" / "raw"
+check(abs(1502 * 9 / (3200 * 0.75 * 0.20) - 28.2) < 0.1, "van Delden Fig. 4c: 9 lit m2 -> 28.2 m2 land")
+a4 = pd.read_csv(HERE / "results_a4_pv_land.csv")
+stems = {"CR highland (San Jose)": "cr_highland_sanjose_%s_default",
+         "52N Wageningen (SARAH3)": "nl_52N_wageningen_%s_default"}
+for site, stem in stems.items():
+    ghi = json.loads((raw / (stem % "hor" + ".json")).read_text())["outputs"]["totals"]["fixed"]["H(i)_y"]
+    ey = json.loads((raw / (stem % "opt" + ".json")).read_text())["outputs"]["totals"]["fixed"]["E_y"]
+    r = a4[(a4.site == site) & (a4.load == "potato calories only @4.1")].iloc[0]
+    check(abs(r.lamp_kWh_person_yr / (ghi * 0.15) - r.land_m2_A_vandelden_chain) < 1, f"a4 {site} land A")
+    check(abs(r.lamp_kWh_person_yr / ey / 0.15 - r.land_m2_B_pvgis_system) < 1, f"a4 {site} land B")
+
 print("\nAll checks passed." if not fails else f"\n{len(fails)} check(s) FAILED")
 sys.exit(1 if fails else 0)

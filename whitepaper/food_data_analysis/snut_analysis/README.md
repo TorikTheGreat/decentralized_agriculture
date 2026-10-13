@@ -9,6 +9,8 @@ cd whitepaper/food_data_analysis/snut_analysis
 ../.venv/bin/python a1_area_energy.py      # calories only: area, electricity, PV land
 ../.venv/bin/python a2_nutrient_area_lp.py # open-field nutrient-area LP + Baldi contrast
 ../.venv/bin/python a2b_ce_lp.py           # same LP on measured CE yields (5 crops)
+../.venv/bin/python fetch_pvgis.py         # PVGIS 5.3 API -> sources/pvgis_<date>/raw (network)
+../.venv/bin/python a4_pv_land.py          # PV land per person at CR regional points and 52N
 ../.venv/bin/python a3_verify.py           # independent re-computation; exit 1 on failure
 ```
 
@@ -51,7 +53,26 @@ Controlled-environment (CE) figures are per m² of growing area under continuous
 | Potato (wheeler2008crop) | 217–452 m² |
 | Wheat (wheeler2008crop) | 554–1,152 m² |
 
-That is about the same land as an open field: potato needs 232 m² at the top national yield and 510 m² at the world average. Stacking saves floor area, not total land, unless the electricity comes from a source that needs little land (Costa Rica: mostly hydro and geothermal). **There is no PV figure for Costa Rica's latitude yet:** we need ESMAP 2020 or PVGIS.
+That is about the same land as an open field: potato needs 232 m² at the top national yield and 510 m² at the world average. Stacking saves floor area, not total land, unless the electricity comes from a source that needs little land (Costa Rica: mostly hydro and geothermal). These a1 figures use van Delden's own irradiation (3,200 MJ/m²/yr). For Costa Rica, see A4.
+
+### A4: PV land at the Costa Rica regional points (PVGIS 5.3)
+
+Lighting only, 2,400 kcal/d, wheeler2008crop yields. Regional points are city centres, not the test site. Method A applies van Delden's chain (20% PV efficiency, 75% land packing, no system losses) to PVGIS horizontal irradiation. Method B uses PVGIS system yield (optimal tilt, 14% loss, temperature model) and the same packing.
+
+| Site (PVGIS database) | GHI kWh/m²/yr | E_y kWh/kWp/yr | Potato @4.1 µmol/J, A / B | 5-crop LP @4.1, A / B |
+|---|---|---|---|---|
+| CR highland, San José (ERA5) | 1,692 | 1,338 | 144 / 183 m² | 155–160 / 197–203 m² |
+| CR Pacific lowland, Liberia (ERA5) | 1,795 | 1,384 | 136 / 177 m² | 146–151 / 190–196 m² |
+| CR Caribbean lowland, Limón (ERA5) | 1,726 | 1,313 | 142 / 186 m² | 152–157 / 200–207 m² |
+| 52°N Wageningen (SARAH3) | 1,090 | 1,028 | 224 / 238 m² | 241–249 / 256–264 m² |
+
+- Costa Rica receives 1.55–1.65× the horizontal irradiation of 52°N, but the PV system yield is only 1.22–1.35× higher. PVGIS's temperature losses and the gain from tilting at 52°N narrow the gap. The real advantage is therefore smaller than the irradiation ratio suggests.
+- PVGIS gives 3,924 MJ/m²/yr of horizontal irradiation at Wageningen, against van Delden's 3,200. Their figure is about 18% lower, and the source doesn't state where it comes from. That is why the a1 52°N land figures are higher than method A here.
+- The PV land for potato calories in Costa Rica (136–186 m²) is below the top-national open-field potato figure (232 m²). It is not far below it, and still needs land.
+- **Caveats:**
+  - ERA5 is a coarse reanalysis and is the only database PVGIS offers for Central America; mountainous terrain makes it less reliable. A cross-check against IMN ground data or the Global Solar Atlas is pending.
+  - The 75% land packing is van Delden's assumption, not verified for tilted rows.
+  - HVAC is excluded, and in the tropics that is the cooling and dehumidification load.
 
 ### A2: minimum open-field area to meet energy, protein and the FAO/WHO 2004 RNIs (linear program)
 
