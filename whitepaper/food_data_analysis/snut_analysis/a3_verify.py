@@ -46,7 +46,9 @@ pot = usda_row("Potatoes, flesh and skin, raw")
 kcal_gdm = pot[1008] / (100 - pot[1051])
 check(abs(kcal_gdm - 3.7) < 0.05, f"potato kcal/g DM {kcal_gdm:.3f} ~ 3.7 used by tibbitts1994/wheeler2006")
 check(abs(37.5 * kcal_gdm - 139) < 1.5, f"tibbitts 37.5 g DM -> {37.5*kcal_gdm:.1f} kcal/m2/d vs source 139")
-check(abs(38.0 * kcal_gdm - 141) < 1.5, f"wheeler2006 38 g DM -> {38*kcal_gdm:.1f} kcal/m2/d vs source 141")
+check(abs(38.0 * kcal_gdm - 141) < 1.5, f"wheeler2006 38 g DM -> {38*kcal_gdm:.1f} kcal/m2/d vs source 141 (Wheeler rounds 37.5 to 38)")
+r6 = a1[a1.source == "wheeler2006potato"].iloc[0]
+check(abs(r6.CE_kcal_m2_d - 37.5 * kcal_gdm) < 0.1, f"a1 wheeler2006 uses Table 1 value 37.5 g -> {r6.CE_kcal_m2_d}")
 r = a1[(a1.source == "wheeler2008crop") & (a1.crop == "potato")].iloc[0]
 check(abs(r.CE_kcal_m2_d - 18.4 * kcal_gdm) < 0.1, "a1 potato kcal/m2/d matches 18.4 x kcal/gDM")
 check(abs(r.CE_m2_person_2400 - 2400 / (18.4 * kcal_gdm)) < 0.1, "a1 potato m2/person @2400")
@@ -122,9 +124,16 @@ stems = {"CR highland (San Jose)": "cr_highland_sanjose_%s_default",
 for site, stem in stems.items():
     ghi = json.loads((raw / (stem % "hor" + ".json")).read_text())["outputs"]["totals"]["fixed"]["H(i)_y"]
     ey = json.loads((raw / (stem % "opt" + ".json")).read_text())["outputs"]["totals"]["fixed"]["E_y"]
-    r = a4[(a4.site == site) & (a4.load == "potato calories only @4.1")].iloc[0]
+    r = a4[(a4.site == site) & (a4.load == "potato calories only @3.7")].iloc[0]
     check(abs(r.lamp_kWh_person_yr / (ghi * 0.15) - r.land_m2_A_vandelden_chain) < 1, f"a4 {site} land A")
     check(abs(r.lamp_kWh_person_yr / ey / 0.15 - r.land_m2_B_pvgis_system) < 1, f"a4 {site} land B")
+
+print("\nA6 checks")
+a6 = pd.read_csv(HERE / "results_a6_cbs_yields.csv")
+t = a6[(a6.crop == "tomato") & (a6.year == 2025)].iloc[0]
+tom = usda_row("Tomatoes, red, ripe, raw, year round average")
+check(abs(t.kcal_m2_yr - t.kg_m2_yr * tom[1008] * 10) < 1, f"a6 tomato 2025 kcal/m2/yr {t.kcal_m2_yr}")
+check(abs(t.m2_person_2400 - 2400 * 365 / t.kcal_m2_yr) < 1, f"a6 tomato m2/person @2400 = {t.m2_person_2400}")
 
 print("\nAll checks passed." if not fails else f"\n{len(fails)} check(s) FAILED")
 sys.exit(1 if fails else 0)

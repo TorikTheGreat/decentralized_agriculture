@@ -50,7 +50,7 @@ def main():
                         for e in I.LED_EFFICACY_UMOL_PER_J.values()}
                 print(f"  {sex} {kcal} {iron}: {r['area']:.1f} m2 [{', '.join(r['binding'])}] "
                       + ", ".join(f"{k} {v:.1f}" for k, v in r["mix"].items())
-                      + f" | {mol_d:.0f} mol/d; lamp kWh/yr @2.5: {lamp['lamp_kWh_yr @2.5']}, @4.1: {lamp['lamp_kWh_yr @4.1']}")
+                      + f" | {mol_d:.0f} mol/d; lamp kWh/yr @2.5: {lamp['lamp_kWh_yr @2.5']}, @3.7: {lamp['lamp_kWh_yr @3.7']}")
                 rows.append(dict(sex=sex, kcal=kcal, iron=iron, m2_per_person=round(r["area"], 1),
                                  binding=";".join(r["binding"]), mol_per_day=round(mol_d),
                                  **{f"m2 {k}": round(v, 2) for k, v in r["mix"].items()}, **lamp))

@@ -39,15 +39,15 @@ SITES = [
 
 
 def lamp_loads():
-    """kWh/person/yr at 2,400 kcal/d, at 3.0 and 4.1 umol/J."""
+    """kWh/person/yr at 2,400 kcal/d, at 3.0 and 3.7 umol/J."""
     loads = {}
     for r in csv.DictReader(open(HERE / "results_a1_area_energy.csv")):
         if r["source"] == "wheeler2008crop" and r["crop"] in ("potato", "wheat"):
-            for e in ("3.0", "4.1"):
+            for e in ("3.0", "3.7"):
                 loads[f"{r['crop']} calories only @{e}"] = float(r[f"lamp_kWh_person_yr_2400 @{e}"])
     for r in csv.DictReader(open(HERE / "results_a2b_ce_lp.csv")):
         if r["kcal"] == "2400" and r["iron"] == "iron_10":
-            loads[f"5-crop nutrient LP {r['sex']} @4.1"] = float(r["lamp_kWh_yr @4.1"])
+            loads[f"5-crop nutrient LP {r['sex']} @3.7"] = float(r["lamp_kWh_yr @3.7"])
     return loads
 
 

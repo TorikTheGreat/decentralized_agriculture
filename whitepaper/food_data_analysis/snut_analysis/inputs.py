@@ -36,7 +36,7 @@ CE_DATA = [
     dict(key="wheeler2008crop", crop="lettuce", usda="Lettuce, green leaf, raw",
          dm=7.1, mol=16.8, loc="Table 2 p.711", cond="Waldmann's Green, 16 h"),
     dict(key="wheeler2006potato", crop="potato (best)", usda="Potatoes, flesh and skin, raw",
-         dm=38.0, mol=52.4, loc="p.84",
+         dm=37.5, mol=52.4, loc="Table 1 p.83 (Wheeler rounds to 38 g for 141 kcal, p.84)",
          cond="Denali, 12 h then 24 h light, transplant-adjusted; single best study"),
     dict(key="bugbee1988limits", crop="wheat (record)", usda="Wheat, hard red winter",
          dm=60.0, mol=150.0, loc="Abstract; Results",
@@ -60,7 +60,8 @@ LED_EFFICACY_UMOL_PER_J = {
     "current good fixture (kusuma 2.5)": 2.5,
     "best tested (kusuma 3.0)": 3.0,
     "achievable white+red (kusuma 3.4)": 3.4,
-    "achievable blue+red (kusuma 4.1)": 4.1,
+    "protected blue+red (kusuma 4.1 less ~10% for water/humidity cover, Abstract p.1)": 3.7,
+    "achievable blue+red (kusuma 4.1, unprotected, water-cooled)": 4.1,
     "theoretical B20:R80 (kusuma ~5.2)": 5.2,
 }
 # graamans2018plant Sec 4.1 p.37 / Fig. 5 p.38 (VISUAL reading by reader agent):

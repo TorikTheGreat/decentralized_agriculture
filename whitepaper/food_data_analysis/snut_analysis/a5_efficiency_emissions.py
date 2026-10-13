@@ -7,7 +7,7 @@ A5. Two derived quantities used in the chapter text, from the a1 lamp energies.
   2. Lamp CO2 per person-year at grid intensities from the sources:
      ember2026ger 2025: global 458, Brazil 110, India 670 gCO2e/kWh (pp.23, 109, 96);
      ice2024sostenibilidad p.58: Costa Rica SEN 25.5 (2020, lowest 2019-24), 114 (2024).
-Lighting only (no HVAC); a1 datasets at 3.0 and 4.1 umol/J.
+Lighting only (no HVAC); a1 datasets at 3.0 and 3.7 umol/J.
 """
 import csv
 from pathlib import Path
@@ -23,7 +23,7 @@ def main():
     rows = []
     print(f"food energy, 2,400 kcal/d for a year: {FOOD_KWH:.0f} kWh")
     for r in csv.DictReader(open(HERE / "results_a1_area_energy.csv")):
-        for e in ("3.0", "4.1"):
+        for e in ("3.0", "3.7"):
             kwh = float(r[f"lamp_kWh_person_yr_2400 @{e}"])
             row = dict(source=r["source"], crop=r["crop"], led_umol_J=e, lamp_kWh=round(kwh),
                        lamp_only_efficiency_pct=round(100 * FOOD_KWH / kwh, 2),

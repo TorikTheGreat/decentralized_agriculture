@@ -1,31 +1,31 @@
 site,radiation_db,GHI_kWh_m2_yr,E_y_opt_kWh_kWp_yr,opt_slope_deg,load,lamp_kWh_person_yr,land_m2_A_vandelden_chain,land_m2_B_pvgis_system
 CR highland (San Jose),PVGIS-ERA5,1692,1338,14,potato calories only @3.0,50131,197,250
-CR highland (San Jose),PVGIS-ERA5,1692,1338,14,potato calories only @4.1,36681,144,183
+CR highland (San Jose),PVGIS-ERA5,1692,1338,14,potato calories only @3.7,40646,160,203
 CR highland (San Jose),PVGIS-ERA5,1692,1338,14,wheat calories only @3.0,127805,503,637
-CR highland (San Jose),PVGIS-ERA5,1692,1338,14,wheat calories only @4.1,93516,368,466
-CR highland (San Jose),PVGIS-ERA5,1692,1338,14,5-crop nutrient LP F @4.1,39443,155,197
-CR highland (San Jose),PVGIS-ERA5,1692,1338,14,5-crop nutrient LP M @4.1,40689,160,203
+CR highland (San Jose),PVGIS-ERA5,1692,1338,14,wheat calories only @3.7,103626,408,516
+CR highland (San Jose),PVGIS-ERA5,1692,1338,14,5-crop nutrient LP F @3.7,43707,172,218
+CR highland (San Jose),PVGIS-ERA5,1692,1338,14,5-crop nutrient LP M @3.7,45088,178,225
 CR Pacific lowland (Liberia),PVGIS-ERA5,1795,1384,15,potato calories only @3.0,50131,186,241
-CR Pacific lowland (Liberia),PVGIS-ERA5,1795,1384,15,potato calories only @4.1,36681,136,177
+CR Pacific lowland (Liberia),PVGIS-ERA5,1795,1384,15,potato calories only @3.7,40646,151,196
 CR Pacific lowland (Liberia),PVGIS-ERA5,1795,1384,15,wheat calories only @3.0,127805,475,616
-CR Pacific lowland (Liberia),PVGIS-ERA5,1795,1384,15,wheat calories only @4.1,93516,347,450
-CR Pacific lowland (Liberia),PVGIS-ERA5,1795,1384,15,5-crop nutrient LP F @4.1,39443,146,190
-CR Pacific lowland (Liberia),PVGIS-ERA5,1795,1384,15,5-crop nutrient LP M @4.1,40689,151,196
+CR Pacific lowland (Liberia),PVGIS-ERA5,1795,1384,15,wheat calories only @3.7,103626,385,499
+CR Pacific lowland (Liberia),PVGIS-ERA5,1795,1384,15,5-crop nutrient LP F @3.7,43707,162,211
+CR Pacific lowland (Liberia),PVGIS-ERA5,1795,1384,15,5-crop nutrient LP M @3.7,45088,167,217
 CR Caribbean lowland (Limon),PVGIS-ERA5,1726,1313,12,potato calories only @3.0,50131,194,255
-CR Caribbean lowland (Limon),PVGIS-ERA5,1726,1313,12,potato calories only @4.1,36681,142,186
+CR Caribbean lowland (Limon),PVGIS-ERA5,1726,1313,12,potato calories only @3.7,40646,157,206
 CR Caribbean lowland (Limon),PVGIS-ERA5,1726,1313,12,wheat calories only @3.0,127805,494,649
-CR Caribbean lowland (Limon),PVGIS-ERA5,1726,1313,12,wheat calories only @4.1,93516,361,475
-CR Caribbean lowland (Limon),PVGIS-ERA5,1726,1313,12,5-crop nutrient LP F @4.1,39443,152,200
-CR Caribbean lowland (Limon),PVGIS-ERA5,1726,1313,12,5-crop nutrient LP M @4.1,40689,157,207
+CR Caribbean lowland (Limon),PVGIS-ERA5,1726,1313,12,wheat calories only @3.7,103626,400,526
+CR Caribbean lowland (Limon),PVGIS-ERA5,1726,1313,12,5-crop nutrient LP F @3.7,43707,169,222
+CR Caribbean lowland (Limon),PVGIS-ERA5,1726,1313,12,5-crop nutrient LP M @3.7,45088,174,229
 52N Wageningen (SARAH3),PVGIS-SARAH3,1090,1028,39,potato calories only @3.0,50131,307,325
-52N Wageningen (SARAH3),PVGIS-SARAH3,1090,1028,39,potato calories only @4.1,36681,224,238
+52N Wageningen (SARAH3),PVGIS-SARAH3,1090,1028,39,potato calories only @3.7,40646,249,264
 52N Wageningen (SARAH3),PVGIS-SARAH3,1090,1028,39,wheat calories only @3.0,127805,782,829
-52N Wageningen (SARAH3),PVGIS-SARAH3,1090,1028,39,wheat calories only @4.1,93516,572,607
-52N Wageningen (SARAH3),PVGIS-SARAH3,1090,1028,39,5-crop nutrient LP F @4.1,39443,241,256
-52N Wageningen (SARAH3),PVGIS-SARAH3,1090,1028,39,5-crop nutrient LP M @4.1,40689,249,264
+52N Wageningen (SARAH3),PVGIS-SARAH3,1090,1028,39,wheat calories only @3.7,103626,634,672
+52N Wageningen (SARAH3),PVGIS-SARAH3,1090,1028,39,5-crop nutrient LP F @3.7,43707,267,284
+52N Wageningen (SARAH3),PVGIS-SARAH3,1090,1028,39,5-crop nutrient LP M @3.7,45088,276,292
 52N Wageningen (ERA5),PVGIS-ERA5,1083,1075,42,potato calories only @3.0,50131,309,311
-52N Wageningen (ERA5),PVGIS-ERA5,1083,1075,42,potato calories only @4.1,36681,226,228
+52N Wageningen (ERA5),PVGIS-ERA5,1083,1075,42,potato calories only @3.7,40646,250,252
 52N Wageningen (ERA5),PVGIS-ERA5,1083,1075,42,wheat calories only @3.0,127805,787,793
-52N Wageningen (ERA5),PVGIS-ERA5,1083,1075,42,wheat calories only @4.1,93516,576,580
-52N Wageningen (ERA5),PVGIS-ERA5,1083,1075,42,5-crop nutrient LP F @4.1,39443,243,245
-52N Wageningen (ERA5),PVGIS-ERA5,1083,1075,42,5-crop nutrient LP M @4.1,40689,250,252
+52N Wageningen (ERA5),PVGIS-ERA5,1083,1075,42,wheat calories only @3.7,103626,638,643
+52N Wageningen (ERA5),PVGIS-ERA5,1083,1075,42,5-crop nutrient LP F @3.7,43707,269,271
+52N Wageningen (ERA5),PVGIS-ERA5,1083,1075,42,5-crop nutrient LP M @3.7,45088,278,280

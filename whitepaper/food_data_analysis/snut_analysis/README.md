@@ -12,7 +12,7 @@ cd whitepaper/food_data_analysis/snut_analysis
 ../.venv/bin/python fetch_pvgis.py         # PVGIS 5.3 API -> sources/pvgis_<date>/raw (network)
 ../.venv/bin/python a4_pv_land.py          # PV land per person at CR regional points and 52N
 ../.venv/bin/python a5_efficiency_emissions.py # lamp-only conversion efficiency; lamp CO2 at grid intensities
-../.venv/bin/python a6_cbs_yields.py        # Dutch greenhouse yields from CBS table 37738
+../.venv/bin/python a6_cbs_yields.py        # Dutch greenhouse yields from CBS table 37738, converted to kcal/m2/yr and m2/person (USDA)
 ../.venv/bin/python a3_verify.py           # independent re-computation; exit 1 on failure
 ```
 
@@ -29,21 +29,23 @@ Controlled-environment (CE) figures are per m² of growing area under continuous
 | wheeler2008crop potato (42.2 mol/d) | 68.3 | 14.5 | 6.6 | 31 / 35 / 41 |
 | wheeler2008crop wheat (67 mol/d) | 42.5 | 12.8 | 4.6 | 49 / 56 / 66 |
 | wheeler2008crop soybean | 29.3 | 9.1 | 7.2 | 72 / 82 / 96 |
-| wheeler2006potato best (52.4 mol/d) | 141.0 | 30.0 | 13.6 | 15 / 17 / 20 |
+| wheeler2006potato best (52.4 mol/d; Table 1 value 37.5 g) | 139.2 | 29.6 | 13.4 | 15 / 17 / 20 |
 | bugbee1988limits wheat record (150 mol/d) | 225.8 | 67.8 | 24.2 | 9 / 11 / 12 |
 | Open field, FAOSTAT 2022 world average: potato / maize / wheat | 4.7 / 5.7 / 3.3 | 1 | | potato 446 / 510 / 595; maize 371 / 424 / 494 |
 
 **What the multipliers depend on.** The ratio to field yields ranges from about 5× to about 70×, depending on:
-- **the crop and study.** The highest values are single best studies or 0.2 m² plots, where edge effects are possible (wheeler1996bpc p.220).
+- **the crop and study.** The highest values are single best studies or small plots. Caged 0.2 m² potato stands were inflated by side light (wheeler2006potato p.82); the Bugbee wheat plots excluded guard rows (bugbee1988limits p.873).
 - **the baseline**: the world-average field yield or the top national yield.
-- **light.** Productivity rises with light, but radiation use efficiency falls (wheeler2008crop p.711).
+- **light.** Productivity rises with light, but conversion efficiency falls (bugbee1988limits Abstract, Fig. 2B).
 
 **Lamp electricity per person-year at 2,400 kcal/d** (lamps only):
 
-| Crop | Best tested LED, 3.0 µmol/J | Achievable LED, 4.1 µmol/J |
-|---|---|---|
-| Potato (wheeler2008crop) | 50 MWh | 37 MWh |
-| Wheat (wheeler2008crop) | 128 MWh | 94 MWh |
+| Crop | Best tested LED, 3.0 µmol/J | Protected limit, 3.7 µmol/J | Unprotected limit, 4.1 µmol/J |
+|---|---|---|---|
+| Potato (wheeler2008crop) | 50 MWh | 41 MWh | 37 MWh |
+| Wheat (wheeler2008crop) | 128 MWh | 104 MWh | 94 MWh |
+
+3.7 = kusuma2020led's 4.1 blue+red limit (unprotected, water-cooled) less the ~10% loss for protection from water and humidity (Abstract). The chapter uses 3.0 and 3.7.
 
 - Total plant-factory electricity is 1.08–1.19× the lamp figure, because lighting is 84–93% of it (graamans2018plant).
 - At the HPS-era assumption it is about 150 MWh. As a cross-check, tibbitts1994potato's own lamp figure is 97 MWh/yr at 2,800 kcal.
@@ -61,16 +63,16 @@ That is about the same land as an open field: potato needs 232 m² at the top na
 
 Lighting only, 2,400 kcal/d, wheeler2008crop yields. Regional points are city centres, not the test site. Method A applies van Delden's chain (20% PV efficiency, 75% land packing, no system losses) to PVGIS horizontal irradiation. Method B uses PVGIS system yield (optimal tilt, 14% loss, temperature model) and the same packing.
 
-| Site (PVGIS database) | GHI kWh/m²/yr | E_y kWh/kWp/yr | Potato @4.1 µmol/J, A / B | 5-crop LP @4.1, A / B |
+| Site (PVGIS database) | GHI kWh/m²/yr | E_y kWh/kWp/yr | Potato @3.7 µmol/J, A / B | 5-crop LP @3.7, A / B |
 |---|---|---|---|---|
-| CR highland, San José (ERA5) | 1,692 | 1,338 | 144 / 183 m² | 155–160 / 197–203 m² |
-| CR Pacific lowland, Liberia (ERA5) | 1,795 | 1,384 | 136 / 177 m² | 146–151 / 190–196 m² |
-| CR Caribbean lowland, Limón (ERA5) | 1,726 | 1,313 | 142 / 186 m² | 152–157 / 200–207 m² |
-| 52°N Wageningen (SARAH3) | 1,090 | 1,028 | 224 / 238 m² | 241–249 / 256–264 m² |
+| CR highland, San José (ERA5) | 1,692 | 1,338 | 160 / 203 m² | 172–178 / 218–225 m² |
+| CR Pacific lowland, Liberia (ERA5) | 1,795 | 1,384 | 151 / 196 m² | 162–167 / 211–217 m² |
+| CR Caribbean lowland, Limón (ERA5) | 1,726 | 1,313 | 157 / 206 m² | 169–174 / 222–229 m² |
+| 52°N Wageningen (SARAH3) | 1,090 | 1,028 | 249 / 264 m² | 267–276 / 284–292 m² |
 
 - Costa Rica receives 1.55–1.65× the horizontal irradiation of 52°N, but the PV system yield is only 1.22–1.35× higher. PVGIS's temperature losses and the gain from tilting at 52°N narrow the gap. The real advantage is therefore smaller than the irradiation ratio suggests.
 - PVGIS gives 3,924 MJ/m²/yr of horizontal irradiation at Wageningen, against van Delden's 3,200. Their figure is about 18% lower, and the source doesn't state where it comes from. That is why the a1 52°N land figures are higher than method A here.
-- The PV land for potato calories in Costa Rica (136–186 m²) is below the top-national open-field potato figure (232 m²). It is not far below it, and still needs land.
+- At 3.7 µmol/J the PV land for potato calories in Costa Rica (151–206 m²) is below the top-national open-field potato figure (232 m²), and at 52°N (249–264 m²) above it. At 3.0 µmol/J method B gives 241–255 m² in Costa Rica and 325 m² at 52°N.
 - **Caveats:**
   - ERA5 is a coarse reanalysis and is the only database PVGIS offers for Central America; mountainous terrain makes it less reliable. A cross-check against IMN ground data or the Global Solar Atlas is pending.
   - The 75% land packing is van Delden's assumption, not verified for tilted rows.
@@ -99,7 +101,7 @@ Lighting only, 2,400 kcal/d, wheeler2008crop yields. Regional points are city ce
 
 - 41.6–51.5 m²/person, mostly potato, with lettuce and tomato.
 - Binding constraints: energy, vitamin E and calcium.
-- Light needed: about 1,400–1,900 mol/day, i.e. lamps of 57–77 MWh/yr at 2.5 µmol/J and 35–47 MWh/yr at 4.1.
+- Light needed: about 1,400–1,900 mol/day, i.e. lamps of 48–64 MWh/yr at 3.0 µmol/J and 39–52 MWh/yr at 3.7.
 - Benchmark: masuda2005ceef found 64.8 m²/person with more crops, more nutrient limits (minimum and maximum) and a Japanese RDA.
 
 ### Baldi contrast
@@ -130,3 +132,14 @@ The shares are against FAO/WHO RNIs, with USDA composition data.
 - **Niacin** counts preformed niacin only (no tryptophan), which is conservative. Folate is USDA total folate, which equals food folate for plants.
 - **USDA composition data** describe US-grown produce. Selenium and iodine depend on the soil or growing medium.
 - **Requirements** are FAO/WHO 2004 RNIs, which are population recommendations. Vitamin A is a "safe intake", and vitamin E is a "best estimate".
+
+### A6: Dutch greenhouse fruit vegetables in food energy (CBS 37738 + USDA)
+
+| Crop (2025) | kg/m²/yr | kcal/100 g | kcal/m²/yr | m²/person at 2,100 / 2,400 / 2,800 kcal |
+|---|---|---|---|---|
+| Tomato | 49.0 | 18 | 8,820 | 87 / 99 / 116 |
+| Cucumber | 67.0 | 15 | 10,051 | 76 / 87 / 102 |
+| Sweet pepper (USDA red) | 26.6 | 26 | 6,916 | 111 / 127 / 148 |
+| Aubergine | 51.7 | 25 | 12,917 | 59 / 68 / 79 |
+
+Energy only: these crops supply little protein or fat, and the greenhouse energy per kg is not computed here.
