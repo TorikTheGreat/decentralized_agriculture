@@ -11,6 +11,8 @@ cd whitepaper/food_data_analysis/snut_analysis
 ../.venv/bin/python a2b_ce_lp.py           # same LP on measured CE yields (5 crops)
 ../.venv/bin/python fetch_pvgis.py         # PVGIS 5.3 API -> sources/pvgis_<date>/raw (network)
 ../.venv/bin/python a4_pv_land.py          # PV land per person at CR regional points and 52N
+../.venv/bin/python a5_efficiency_emissions.py # lamp-only conversion efficiency; lamp CO2 at grid intensities
+../.venv/bin/python a6_cbs_yields.py        # Dutch greenhouse yields from CBS table 37738
 ../.venv/bin/python a3_verify.py           # independent re-computation; exit 1 on failure
 ```
 
